@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Pengzhi Gao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "ECSE PHD student at Rensselaer Polytechnic Institute"
+  location         : "Troy, New York"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=r-eKI0oAAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "gpengzhi"
   google_plus      :
   keybase          :
   instagram        : 
