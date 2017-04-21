@@ -42,7 +42,7 @@ redirect_from:
 
 **Selected Courses**
 ======
-* Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning, Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Machine Learning, Mathematical Analysis, Networked System, Nonlinear Programming, Random Processes and Optimum Estimation, Wireless Sensor Network
+Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning, Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Machine Learning, Mathematical Analysis, Networked System, Nonlinear Programming, Random Processes and Optimum Estimation, Wireless Sensor Network
 
 **Advisor**
 ======
