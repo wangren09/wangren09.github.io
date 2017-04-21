@@ -18,17 +18,17 @@ P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "M
 
 **Conference Publications**
 ------
-M. Wang, J. H. Chow, P. Gao, Y. Hao, W. Li and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." accepted to Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
+M. Wang, J. H. Chow, P. Gao, Y. Hao, W. Li and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." accepted to the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017 Espinho, Portugal, August 2017.
 
-P. Gao, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." accepted to Asilomar Conference on Signals, Systems, and Computers, 2016.
+P. Gao, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." Proc. of Asilomar Conference on Signals, Systems, and Computers 2016. Pacific Grove, CA, Nov. 2016.
 
-P. Gao, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." accepted to IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2015.
+P. Gao, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2015. Orlando, FL, Dec. 2015.
 
-M. Wang, J. H. Chow, P. Gao, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (Runner-up of Best Paper in Electric Energy SystemsTrack), 2015.
+M. Wang, J. H. Chow, P. Gao, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (Runner-up for Best Paper in Electric Energy Systems Track), Kauai, Hawaii, Jan. 2015.
 
-M. Wang, P. Gao, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, 2014.
+M. Wang, P. Gao, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
 
-P. Gao, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (selected in Best Conference Paper sessions), 2014.
+P. Gao, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (selected in Best Conference Paper sessions), Washington, DC, July 2014.
 
 
 **Patents**
