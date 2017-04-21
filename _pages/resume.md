@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Also available in PDF format.]()
+
 **Research Interests**
 ======
 * signal processing, high-dimensional statistics, and machine learning
