@@ -40,6 +40,10 @@ redirect_from:
 * Proficiency with Matlab, Python, and C/C++
 * Experienced in Java, R, C#, and Tensorflow
 
+**Selected Courses**
+======
+* Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning, Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Machine Learning, Mathematical Analysis, Networked System, Nonlinear Programming, Random Processes and Optimum Estimation, Wireless Sensor Network
+
 **Advisor**
 ======
 [Meng Wang](https://ecse.rpi.edu/~wang/)  
