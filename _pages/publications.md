@@ -11,9 +11,9 @@ P. Gao, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, 
 
 P. Gao, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." submitted to IEEE Trans. Signal Processing, 2017.
 
-P. Gao, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." accepted to IEEE Trans. Signal Processing, 2016.
+P. Gao, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." IEEE Trans. Signal Processing, 2016, 64 (21): 5557-5570.
 
-P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." accepted to IEEE Trans. Power Systems, 2015.
+P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
 
 
 **Conference Publications**
