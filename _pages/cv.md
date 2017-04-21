@@ -35,8 +35,8 @@ redirect_from:
 
 **Skills**
 ======
-* Proficiency with Matlab, C/C++
-* Experienced in Java, R, Python, and Tensorflow
+* Proficiency with Matlab, Python, and C/C++
+* Experienced in Java, R, C#, and Tensorflow
 
 **Advisor**
 ======
