@@ -34,9 +34,14 @@ redirect_from:
 * Excellent Student Award (top 1%), 2008.
 
 **Skills**
+======
 * Proficiency with Matlab, C/C++
 * Experienced in Java, R, Python, and Tensorflow
 
 **Advisor**
-* [Meng Wang](https://ecse.rpi.edu/~wang/)
+======
+[Meng Wang](https://ecse.rpi.edu/~wang/)  
+Assistant Professor  
+Rensselaer Polytechnic Institute  
+Email: wangm7 (you can make the "at") rpi (dot) edu
 
