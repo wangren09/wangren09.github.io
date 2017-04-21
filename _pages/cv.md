@@ -7,8 +7,6 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
-
 **Research Interests**
 ======
 * signal processing, high-dimensional statistics, and machine learning
