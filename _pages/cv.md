@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Research Interests**
+======
+* signal processing, high-dimensional statistics, and machine learning
+
+**Education**
 ======
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
