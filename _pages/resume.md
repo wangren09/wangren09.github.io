@@ -27,7 +27,9 @@ redirect_from:
 
 **Awards**
 ======
+* Runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015
 * Founders Award of Excellence (top 1%), 2015.
+* Selected in Best Conference Paper session in Proc. of IEEE Power & Energy Society General Meeting, 2014.
 * Excellent Graduate of Xidian University (top 1%), 2011.
 * National Scholarship (top 1%), 2010.
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008,2009,2010.
