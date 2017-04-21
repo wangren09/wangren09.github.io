@@ -30,7 +30,7 @@ M. Wang, P. Gao, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M.
 
 P. Gao, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (selected in Best Conference Paper sessions), 2014.
 
-<font color=red size=72>color=gray</font>
+<font color=red>color=red</font>
 
 **Patents**
 ------
