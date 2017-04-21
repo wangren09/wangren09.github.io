@@ -13,11 +13,8 @@ I am a Ph.D candidate in Electrical Engineering at [Rensselaer Polytechnic Insit
 **Contact**
 ------
 Email: gaop (you can make the "at") rpi (dot) edu
-
 ECSE Department, JEC 6308
-
 Rensselaer Polytechnic Institute
-
 Troy, NY, 12180
 
 
