@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Also available in PDF format.](https://github.com/gpengzhi/gpengzhi.github.io/blob/master/Resume.pdf)
+[Also available in PDF format.](https://www.dropbox.com/home/Resume%20and%20Cover%20Letter?preview=Resume.pdf)
 
 **Research Interests**
 ======
