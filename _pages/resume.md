@@ -15,9 +15,9 @@ redirect_from:
 
 **Education**
 ======
-* 08/2013 - now:    Rensselaer Polytechnic Institute, NY, USA. Ph.D. candidate in ECSE.
-* 2011 - 2013:      University of Pennsylvania, PA, USA. M.S. in ESE.
-* 2007 - 2011:      Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank:1/114).
+* 08/2013 - now: Rensselaer Polytechnic Institute, NY, USA. Ph.D. candidate in ECSE.
+* 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in ESE.
+* 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank:1/114).
 
 **Research Expereince**
 ======
