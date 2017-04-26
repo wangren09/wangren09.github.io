@@ -35,6 +35,12 @@ redirect_from:
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
 * Excellent Student Award (top 1%), 2008.
 
+**Professional Activities & Service**
+======
+* Student Member of IEEE
+* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, American Control Conference
+* RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT)
+
 **Skills**
 ======
 * Proficiency with Matlab, Python, and C/C++
