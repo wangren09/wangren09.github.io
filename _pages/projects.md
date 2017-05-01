@@ -18,6 +18,6 @@ Patent: Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missi
 [Demo is available!](https://www.youtube.com/watch?v=vHiUh4NLQgo)
 
 
-**Class Project: Mobile Eye Gaze Estimation with Deep Learning
+**Class Project: Mobile Eye Gaze Estimation with Deep Learning**
 ------
 
