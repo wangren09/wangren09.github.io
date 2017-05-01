@@ -20,4 +20,4 @@ Patent: Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missi
 
 **Class Project: Mobile Eye Gaze Estimation with Deep Learning**
 ------
-We implemented a deep convolutional neural network by Python based on TensorFlow for eye gaze estimation. In this porject, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen.
+We implemented a deep convolutional neural network by Python based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we only trained our model with 48000 trainning samples and 5000 validation samples. 
