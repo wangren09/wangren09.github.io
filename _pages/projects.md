@@ -24,17 +24,17 @@ We implemented a deep convolutional neural network by Python based on TensorFlow
 
 <br/><img src='/images/GazeCapture.png'> 
 
-| Entry   | Item   |                                                              |
-| --------| ------ | ------------------------------------------------------------ |
-| conv1   | 2016   | Description of the item in the list                          |
-| pool1   | 2019   | Description of the item in the list                          |
-| conv2   | 2022   | Description of the item in the list                          |
-| pool2   | 2016   | Description of the item in the list                          |
-| conv3   | 2019   | Description of the item in the list                          |
-| pool3   | 2022   | Description of the item in the list                          |
-| conv4   | 2016   | Description of the item in the list                          |
-| pool4   | 2019   | Description of the item in the list                          |
-| conv2   | 2022   | Description of the item in the list                          |
+| Layer Name | Type          | Kernel Size |                                                              |
+| --------   | ------------- | ----------- | ------------------------------------------------- |
+| conv1      | Convolutional |  5 X 5      |     |Description of the item in the list                          |
+| pool1      | Max Pooling   |  2 X 2      |     | Description of the item in the list                          |
+| conv2      | Convolutional |  5 X 5      |     |  Description of the item in the list                          |
+| pool2      | Max Pooling   |  2 X 2      |     Description of the item in the list                          |
+| conv3      | Convolutional |  3 X 3      |          Description of the item in the list                          |
+| pool3      | Max Pooling   |  2 X 2      |         Description of the item in the list                          |
+| conv4      | Convolutional |  1 X 1      |             Description of the item in the list                          |
+| pool4      | Max Pooling   |  2 X 2      |           Description of the item in the list                          |
+
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
