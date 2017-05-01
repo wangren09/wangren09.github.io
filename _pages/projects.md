@@ -42,6 +42,6 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 | fc1   | Fully Connected |           |        |         | 128      |
 | fc2   | Fully Connected |           |        |         | 2        |
 
-[R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+[R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 [Code is available!]()
