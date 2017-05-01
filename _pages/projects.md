@@ -24,7 +24,11 @@ We implemented a deep convolutional neural network by Python based on TensorFlow
 
 <br/><img src='/images/GazeCapture.png'> 
 
-
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
