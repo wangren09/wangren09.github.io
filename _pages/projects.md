@@ -24,9 +24,9 @@ We implemented a deep convolutional neural network by Python based on TensorFlow
 
 <br/><img src='/images/GazeCapture.png'> 
 
-| Layer Name | Type          | Kernel Size | Stride | Padding | Output Size |
-| --------   | ------------- | ----------- | ------ | ------- | ----------- |
-| conv1      | Convolutional |  5 X 5      |   2    |  SAME   | 
+| Layer Name | Type          | Kernel Size | Stride | Padding | Output Size  |
+| --------   | ------------- | ----------- | ------ | ------- | ------------ |
+| conv1      | Convolutional |  5 X 5      |   2    |  SAME   | 64 @ 32 X 32 |
 | pool1      | Max Pooling   |  2 X 2      |   2    |  VALID  |
 | conv2      | Convolutional |  5 X 5      |   1    |  SAME   |
 | pool2      | Max Pooling   |  2 X 2      |   2    |  VALID  |
