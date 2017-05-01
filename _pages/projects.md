@@ -24,16 +24,16 @@ We implemented a deep convolutional neural network by Python based on TensorFlow
 
 <br/><img src='/images/GazeCapture.png'> 
 
-| Layer Name | Type          | Kernel Size |                                                              |
-| --------   | ------------- | ----------- | ------------------------------------------------- |
-| conv1      | Convolutional |  5 X 5      |     |Description of the item in the list                          |
-| pool1      | Max Pooling   |  2 X 2      |     | Description of the item in the list                          |
-| conv2      | Convolutional |  5 X 5      |     |  Description of the item in the list                          |
-| pool2      | Max Pooling   |  2 X 2      |     Description of the item in the list                          |
-| conv3      | Convolutional |  3 X 3      |          Description of the item in the list                          |
-| pool3      | Max Pooling   |  2 X 2      |         Description of the item in the list                          |
-| conv4      | Convolutional |  1 X 1      |             Description of the item in the list                          |
-| pool4      | Max Pooling   |  2 X 2      |           Description of the item in the list                          |
+| Layer Name | Type          | Kernel Size | Stride | Padding |
+| --------   | ------------- | ----------- | ------ | ------- |
+| conv1      | Convolutional |  5 X 5      |   2    |  SAME   |
+| pool1      | Max Pooling   |  2 X 2      |   2    |  VALID  |
+| conv2      | Convolutional |  5 X 5      |   1    |  SAME   |
+| pool2      | Max Pooling   |  2 X 2      |   2    |  VALID  |
+| conv3      | Convolutional |  3 X 3      |   1    |  SAME   |
+| pool3      | Max Pooling   |  2 X 2      |   2    |  VALID  |
+| conv4      | Convolutional |  1 X 1      |   1    |  SAME   |
+| pool4      | Max Pooling   |  2 X 2      |   2    |  VALID  |
 
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
