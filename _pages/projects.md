@@ -20,9 +20,11 @@ Patent: Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missi
 
 **Class Project: Mobile Eye Gaze Estimation with Deep Learning**
 ------
-We implemented a deep convolutional neural network by Python based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we trained our model on a much smaller dataset with 48000 trainning samples and 5000 validation samples. Each sample contains 5 items: face (64X64X3), left eye (64X64X3), right eye (64X64X3), face mask (25X25X1) and labels (x,y). Our model follows the architecture introduce in [R1], and we changed some hyper parameters due to the different image size in our trainning dataset.
+We implemented a deep convolutional neural network by Python based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we trained our model on a much smaller dataset with 48000 trainning samples and 5000 validation samples. Each sample contains 5 items: face, left eye, right eye, face mask and labels (x,y). Our model follows the architecture introduce in [R1], and we changed some hyper parameters due to the different image size in our trainning dataset.
 
 <br/><img src='/images/GazeCapture.png'> 
+
+
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
