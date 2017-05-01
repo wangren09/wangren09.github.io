@@ -34,8 +34,13 @@ We implemented a deep convolutional neural network by Python based on TensorFlow
 | pool3      | Max Pooling   |  2 X 2      |   2    |  VALID  | 128 @ 4 X 4  |
 | conv4      | Convolutional |  1 X 1      |   1    |  SAME   | 64 @ 4 X 4   |
 | pool4      | Max Pooling   |  2 X 2      |   2    |  VALID  | 64 @ 2 X 2   |
-| fc_eye     | Fully Connected |           |        |         | 128          |
-
+| eye_fc     | Fully Connected |           |        |         | 128          |
+| face_fc1   | Fully Connected |           |        |         | 128          |
+| face_fc2   | Fully Connected |           |        |         | 64           |
+| facegrid_fc1   | Fully Connected |           |        |         | 256      |
+| facegrid_fc2   | Fully Connected |           |        |         | 128      |
+| fc1   | Fully Connected |           |        |         | 128      |
+| fc2   | Fully Connected |           |        |         | 2        |
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
