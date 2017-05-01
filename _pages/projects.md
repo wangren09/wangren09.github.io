@@ -16,3 +16,8 @@ Publication: Pengzhi Gao, Meng Wang, Scott G. Ghiocel, Joe H. Chow, Bruce Fardan
 Patent: Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.
 
 [Demo is available!](https://www.youtube.com/watch?v=vHiUh4NLQgo)
+
+
+**Class Project: Mobile Eye Gaze Estimation with Deep Learning
+------
+
