@@ -46,6 +46,6 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 
 [Code is available!]()
 
-**Class Project: Twitter Sentiment Analysis with Recurrent Neural Metworks**
+**Class Project: Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
 
