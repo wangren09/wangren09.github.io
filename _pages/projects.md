@@ -48,4 +48,4 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 
 **Class Project: Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
-
+We implemented a recurrent neural network (LSTM) for the task of sentiment analysis on natural language data. Sentiment analysis refers to the natural language processing task of classifying some collection of text by its polarity. The goal is to understand the attitude of the agent that generated the text. We analyzed the data from Twitter and learn to classify it as either "positive" or "negative". 
