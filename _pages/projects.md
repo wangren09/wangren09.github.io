@@ -44,7 +44,7 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
-[Code is available!]()
+[Code is available!](https://github.com/gpengzhi/Deep-Learning/blob/master/gazecapture.ipynb)
 
 **Class Project: Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
