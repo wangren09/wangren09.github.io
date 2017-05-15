@@ -38,7 +38,7 @@ redirect_from:
 **Professional Activities & Service**
 ======
 * Student Member of IEEE
-* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, American Control Conference
+* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, American Control Conference, International Symposium on Antennas and Propagation
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT)
 
 **Skills**
