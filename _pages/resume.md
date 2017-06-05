@@ -49,8 +49,10 @@ redirect_from:
 **Selected Courses**
 ======
 * University of Pennsylvania
+
 Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Networked System, , Random Processes and Optimum Estimation, Wireless Sensor Network
 * Rensselaer Polytechnic Institute
+
 Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning (Audit), Machine Learning From Data (Audit), Mathematical Analysis, Nonlinear Programming
 * Coursera (Audit)
 
