@@ -56,7 +56,7 @@ Digital Communication, Digital Signal Processing, Introduction to Networks and P
 Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning (Audit), Machine Learning From Data (Audit), Mathematical Analysis, Nonlinear Programming
 * Coursera (Audit)
 
-Data Mining Specialization: Data Visualization, Text Retrieval and Search Engines, Text Mining and Analytics, Pattern Discovery in Data Mining, Cluster Analysis in Data Mining
+%Data Mining Specialization: Data Visualization, Text Retrieval and Search Engines, Text Mining and Analytics, Pattern Discovery in Data Mining, Cluster Analysis in Data Mining
 
 **Advisor**
 ======
