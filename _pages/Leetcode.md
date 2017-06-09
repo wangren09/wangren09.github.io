@@ -1,6 +1,4 @@
 ## 1. Two Sum
-
-
 <pre>
 class Solution(object):
     def twoSum(self, nums, target):
@@ -11,11 +9,12 @@ class Solution(object):
         """
         if len(nums) <= 1:
             return False
-        buff_dict = {}
+        dict = {}
         for i in range(len(nums)):
-            if nums[i] in buff_dict:
-                return [buff_dict[nums[i]], i]
+            if nums[i] in dict:
+                return [dict[nums[i]],i]
             else:
-                buff_dict[target - nums[i]] = i
+                dict[target-nums[i]] = i
 
 </pre>
+Python dictionary is HashTable such that looking up a key is O(1). The overall complexity is O(n).
