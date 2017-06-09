@@ -39,4 +39,4 @@ class Solution(object):
         else:
             return 0
 </pre>
-In an signed 32-bit integer you can store values with range from -2147483648 (-2**31) to 2147483647 (2**31-1).
+In an signed 32-bit integer you can store values with range from -2147483648 -2**31 to 2**31-1.
