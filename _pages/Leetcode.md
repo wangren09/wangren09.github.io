@@ -84,4 +84,4 @@ class Solution(object):
             pre = pre+strs[0][i]
         return pre
 </pre>
-       
+I use sorted function on strs which might influence the efficiency of the code.   
