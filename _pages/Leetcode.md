@@ -15,7 +15,6 @@ class Solution(object):
                 return [dict[nums[i]],i]
             else:
                 dict[target-nums[i]] = i
-
 </pre>
 Python dictionary is HashTable such that looking up a key is O(1). The overall complexity is O(n).
 
