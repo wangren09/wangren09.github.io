@@ -3,11 +3,20 @@
 Python code
 
 <pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        if len(nums) <= 1:
+            return False
+        buff_dict = {}
+        for i in range(len(nums)):
+            if nums[i] in buff_dict:
+                return [buff_dict[nums[i]], i]
+            else:
+                buff_dict[target - nums[i]] = i
+
+<\pre>
