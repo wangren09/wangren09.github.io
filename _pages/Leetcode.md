@@ -64,3 +64,24 @@ class Solution(object):
         
         return roman_int
 </pre>
+
+## 14. Longest Common Prefix
+<pre>
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        pre = ''
+        if len(strs) < 1:
+            return pre
+        strs = sorted(strs)
+        for i in range(len(strs[0])):
+            for j in range(1,len(strs)):
+                if strs[0][i] != strs[j][i]:
+                    return pre
+            pre = pre+strs[0][i]
+        return pre
+</pre>
+       
