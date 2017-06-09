@@ -2,7 +2,7 @@
 
 Python code
 
-<pre>
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -19,4 +19,3 @@ class Solution(object):
             else:
                 buff_dict[target - nums[i]] = i
 
-</pre>
