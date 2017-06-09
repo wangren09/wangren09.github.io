@@ -18,3 +18,25 @@ class Solution(object):
 
 </pre>
 Python dictionary is HashTable such that looking up a key is O(1). The overall complexity is O(n).
+
+## 7. Reverse Integer
+<pre>
+class Solution(object):
+    def reverse(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        if x >= 0:
+            x = str(x)
+            x = x[::-1]
+        else:
+            x = str(-x)
+            x = x[::-1]
+            x = '-'+x
+        x = int(x)
+        if -2**31 <= x <= 2**31-1:
+            return x
+        else:
+            return 0
+</pre>
