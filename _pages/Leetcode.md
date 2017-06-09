@@ -18,4 +18,4 @@ class Solution(object):
             else:
                 buff_dict[target - nums[i]] = i
 
-<pre>
+<\pre>
