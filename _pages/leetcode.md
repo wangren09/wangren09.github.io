@@ -16,7 +16,7 @@ class Solution(object):
             else:
                 dict[target-nums[i]] = i
 </pre>
-Python dictionary is HashTable such that looking up a key is O(1). The overall complexity is O(n).
+Python dictionary is Hash Table such that looking up a key is O(1). The overall complexity is O(n).
 
 ## 7. Reverse Integer
 <pre>
