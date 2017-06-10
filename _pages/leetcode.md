@@ -76,12 +76,11 @@ class Solution(object):
         pre = ''
         if len(strs) < 1:
             return pre
-        strs = sorted(strs)
         for i in range(len(strs[0])):
             for j in range(1,len(strs)):
-                if strs[0][i] != strs[j][i]:
+                if i >= len(strs[j]) or strs[0][i] != strs[j][i]:
                     return pre
-            pre = pre+strs[0][i]
+            pre = pre + strs[0][i]
         return pre
 </pre>
-I use sorted function on strs which might influence the efficiency of the code.   
+The complexity is O(NL), where N is the number of string, and L is the length of the longest common prefix.
