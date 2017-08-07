@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**IBM Watson Build Challenge**
+**IBM Watson Build Challenge 2017**
 ------
 
 
