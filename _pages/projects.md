@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+**IBM Watson Build Challenge**
+
 **Online Algorithm for PMU Data Processing (OLAP)**
 ------
 We implemented OLAP by C# based on Project Alpha for the real-time application. Project Alpha is elite version of Open PDC. It provides a jump start to developing new products based on the Grid Solutions Framework's Time-Series Library (TSL) technology complete with all needed components for standalone time-series processing application. The code developed on Project Alpha can be run on Open PDC as action adapter.
