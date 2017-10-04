@@ -7,7 +7,9 @@ author_profile: true
 
 **IBM Watson Build Challenge 2017**
 ------
+We developed a web application with IBM Watson APIs (Retrieve and Rank) based on IBM Bluemix and implemented multiple missing data recovery algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.
 
+<br/><img src='/images/Watson.png'>
 
 **Online Algorithm for PMU Data Processing (OLAP)**
 ------
