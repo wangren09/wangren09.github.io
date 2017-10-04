@@ -18,6 +18,8 @@ P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "M
 
 **Conference Publications**
 ------
+P. Gao, and M. Wang. "Data Recovery and Anomaly Detection Method by Using Time-varying Low-dimensional Structures." in preparation.
+
 G. Mijolla, S. Konstantinouplos, P. Gao, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." submitted to Power Systems Computation Conference (PSCC), 2018.
 
 M. Wang, J. H. Chow, P. Gao, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." accepted to the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
