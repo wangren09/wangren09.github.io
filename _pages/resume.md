@@ -50,6 +50,10 @@ redirect_from:
 
 **Selected Courses**
 ======
+* Xidian University
+
+Programming in C Language, Advanced Mathematics, Linear Algebra, Probability Theory and Statistics, General Physics, MATLAB language, Fundamentals of Circuit Analysis, Field Theory and Complex Variable Function, Signal and System, Fundamentals of Analog Electronic Technology, Digital Circuit and Logic Design, Fundamentals of Software Technique, Computational Methods, Discrete Mathematics, Stochastic Signal Processing, Principles of Communication, Digital Image Processing, Computer Network, Fundamentals of Internet Technique Application, Digital Signal Processing
+
 * University of Pennsylvania
 
 Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Networked System, Random Processes and Optimum Estimation, Wireless Sensor Network
