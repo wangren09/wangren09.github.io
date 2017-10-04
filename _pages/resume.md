@@ -40,6 +40,7 @@ redirect_from:
 * Student Member of IEEE
 * Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, American Control Conference, International Symposium on Antennas and Propagation
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT)
+* Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 
 **Skills**
 ======
