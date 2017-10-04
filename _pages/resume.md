@@ -27,6 +27,7 @@ redirect_from:
 
 **Awards**
 ======
+* Finalist of IBM Watson Building Challenge, 2017
 * Runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015
 * Founders Award of Excellence (top 1%), 2015.
 * Selected in Best Conference Paper session in Proc. of IEEE Power & Energy Society General Meeting, 2014.
