@@ -32,7 +32,7 @@ M. Wang, J. H. Chow, P. Gao, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G
 
 M. Wang, P. Gao, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
 
-P. Gao, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (selected in Best Conference Paper sessions), Washington, DC, July 2014.
+P. Gao, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (Best Conference Papers on Power System Analysis and Modeling), Washington, DC, July 2014.
 
 
 **Patents**
