@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 [Also available in PDF format.]()
 
 **Research Interests**
