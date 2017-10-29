@@ -18,7 +18,7 @@ P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "M
 
 **Conference Publications**
 ------
-P. Gao, and M. Wang. "Data Recovery and Anomaly Detection Method by Using Time-varying Low-dimensional Structures." submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
+P. Gao, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
 
 G. Mijolla, S. Konstantinouplos, P. Gao, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." submitted to Power Systems Computation Conference (PSCC), 2018.
 
