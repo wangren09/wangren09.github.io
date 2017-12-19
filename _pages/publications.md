@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Thesis**
+------
+High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
+
+Thesis Committee: Meng Wang, Joe H. Chow, Birsen Yazici, and John E. Mitchell.
+
 **Journal Publications**
 ------
 P. Gao, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." submitted to IEEE Trans. Signal Processing, 2017.
