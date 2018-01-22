@@ -21,7 +21,7 @@ redirect_from:
 
 **Research Expereince**
 ======
-* 08/2013 - now:     Rensselaer Polytechnic Institute, Research Assistant.
+* 08/2013 - 12/2017:     Rensselaer Polytechnic Institute, Research Assistant.
 * 05/2012 - 05/2013:        University of Pennsylvania, Research Assistant.
 * 12/2010 - 05/2011:        Microsoft Research Asia, Research Intern.
 
@@ -39,7 +39,7 @@ redirect_from:
 **Professional Activities & Service**
 ======
 * Student Member of IEEE
-* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, American Control Conference, International Symposium on Antennas and Propagation
+* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, IEEE Signal Processing Letter, American Control Conference, International Symposium on Antennas and Propagation
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT)
 * Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 
