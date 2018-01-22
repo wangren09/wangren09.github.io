@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* signal processing, high-dimensional statistics, and machine learning
+* Signal processing, high-dimensional statistics, and machine learning
 
 **Education**
 ======
@@ -27,7 +27,7 @@ redirect_from:
 
 **Awards**
 ======
-* Finalist of IBM Watson Building Challenge, 2017.
+* North America Finalist of IBM Watson Build Challenge, 2017.
 * Paper selected as the runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015.
 * Founders Award of Excellence (top 1%), 2015.
 * Paper selected as one of the Best Conference Papers on Power System Analysis and Modeling of IEEE Power & Energy Society General Meeting, 2014.
