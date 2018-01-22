@@ -38,9 +38,9 @@ redirect_from:
 
 **Professional Activities & Service**
 ======
-* Student Member of IEEE
-* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, IEEE Signal Processing Letter, American Control Conference, International Symposium on Antennas and Propagation
-* RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT)
+* Student Member of IEEE.
+* Reviewer: IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, IEEE Signal Processing Letters, American Control Conference, International Symposium on Antennas and Propagation.
+* RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT).
 * Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 
 **Skills**
@@ -69,7 +69,7 @@ Data Science Specialization: The Data Scientist’s Toolbox, R Programming, Gett
 Deep Learning Specialization: Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects
 
 
-**Advisor**
+[comment] **Advisor**
 ======
 [Meng Wang](https://ecse.rpi.edu/~wang/)  
 Assistant Professor  
