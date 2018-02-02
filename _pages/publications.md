@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 ------
 P. Gao, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." submitted to IEEE Trans. Signal Processing, 2017.
 
-P. Gao, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." accepted to IEEE Trans. Signal Processing, 2017.
+P. Gao, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. Signal Processing, 2017, 65 (20): 5421-5436.
 
 P. Gao, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." IEEE Trans. Signal Processing, 2016, 64 (21): 5557-5570.
 
@@ -26,9 +26,9 @@ P. Gao, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "M
 ------
 P. Gao, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." accepted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, April, 2018.
 
-G. Mijolla, S. Konstantinouplos, P. Gao, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." submitted to Power Systems Computation Conference (PSCC), 2018.
+G. Mijolla, S. Konstantinouplos, P. Gao, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." accepted to the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
 
-M. Wang, J. H. Chow, P. Gao, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." accepted to the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
+M. Wang, J. H. Chow, P. Gao, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
 
 P. Gao, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." Proc. of Asilomar Conference on Signals, Systems, and Computers 2016. Pacific Grove, CA, Nov. 2016.
 
