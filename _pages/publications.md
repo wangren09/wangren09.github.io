@@ -8,7 +8,7 @@ author_profile: true
 **Thesis**
 ------
 
-<u><a href="{{https://ecse.rpi.edu/~wang/}}">Meng Wang</a></u>
+<u><a href="{{https://ecse.rpi.edu/~wang/}}">Meng Wang</a>.</u>
 
 High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
 
