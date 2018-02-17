@@ -13,9 +13,8 @@ I got my Ph.D. in Electrical Engineering at [Rensselaer Polytechnic Institute (R
 **Contact**
 ------
 Chinese name: 高鹏至  
-Email: gaop (you can make the "at") rpi (dot) edu  
-ECSE Department, JEC 6308  
-Rensselaer Polytechnic Institute  
-Troy, NY, 12180
+Email: gpengzhi (you can make the "at") gmail (dot) com
+2555 Smallman Street, Suite 120,
+Pittsburgh, Pennsylvania 15222
 
 
