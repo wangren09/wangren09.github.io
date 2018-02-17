@@ -14,7 +14,9 @@ I got my Ph.D. in Electrical Engineering at [Rensselaer Polytechnic Institute (R
 ------
 Chinese name: 高鹏至  
 Email: gpengzhi (you can make the "at") gmail (dot) com
+
 2555 Smallman Street, Suite 120,
+
 Pittsburgh, Pennsylvania 15222
 
 
