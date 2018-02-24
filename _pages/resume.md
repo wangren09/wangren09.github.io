@@ -19,10 +19,15 @@ redirect_from:
 * 08/2011 - 05/2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
 * 08/2007 - 05/2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank: 1/114).
 
-**Work Expereince**
+**Work Experience**
 ======
 * 02/2018 - present:        Petuum Inc., Data Scientist.
 * 12/2010 - 05/2011:        Microsoft Research Asia, Research Intern.
+
+**Research Experience**
+======
+* 08/2013 - 12/2017:        Rensselaer Polytechnic Institute, Research Assistant.
+* 05/2012 - 05/2013:        University of Pennsylvania, Research Assistant.
 
 **Awards**
 ======
