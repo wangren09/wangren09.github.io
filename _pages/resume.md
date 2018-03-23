@@ -44,12 +44,19 @@ redirect_from:
 ======
 * Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now.
 * Reviewer: 
+
 IEEE Transactions on Smart Grid, 
+
 IEEE Transactions on Automatic Control, 
+
 IEEE Signal Processing Letters, 
+
 Annals of Mathematics and Artificial Intelligence, 
+
 American Control Conference, 
+
 International Symposium on Antennas and Propagation.
+
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
 * Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 
