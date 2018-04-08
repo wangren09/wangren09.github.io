@@ -51,12 +51,12 @@ redirect_from:
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * American Control Conference
-    * International Symposium on Antennas and Propagation.
+    * International Symposium on Antennas and Propagation
 
 **Skills**
 ======
 * Proficiency with Matlab, Python, and C/C++
-* Experienced in Java, R, C#, and Tensorflow
+* Experienced in Java, R, C#, Dynet, and Tensorflow
 
 <!--
 **Selected Courses**
