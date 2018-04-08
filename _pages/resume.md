@@ -46,7 +46,9 @@ redirect_from:
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
 * Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 * Reviewer:
+
     * Journal:
+    
         * IEEE Transactions on Smart Grid
 
     * Conference:
