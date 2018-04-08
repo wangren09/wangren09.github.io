@@ -47,11 +47,11 @@ redirect_from:
 * Teaching Assistant: Modeling and Analysis of Uncertainty (Fall 2017), Distributed Systems and Sensor Networks (Fall 2017).
 * Reviewer:
     * IEEE Transactions on Smart Grid
- 
-
-    * Conference:
-
-IEEE Transactions on Smart Grid, IEEE Transactions on Automatic Control, IEEE Signal Processing Letters, Annals of Mathematics and Artificial Intelligence, American Control Conference, International Symposium on Antennas and Propagation.
+    * IEEE Transactions on Automatic Control
+    * IEEE Signal Processing Letters
+    * Annals of Mathematics and Artificial Intelligence
+    * American Control Conference
+    * International Symposium on Antennas and Propagation.
 
 **Skills**
 ======
