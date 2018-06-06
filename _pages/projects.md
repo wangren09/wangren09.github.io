@@ -18,7 +18,7 @@ DyNet is a neural network library developed by Carnegie Mellon University, Petuu
 We developed a web application with IBM Watson APIs (Retrieve and Rank) based on IBM Bluemix and implemented multiple missing data recovery and event identification algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.
 
 <div  align="center">
-<img src='/images/Watson.png' width='700' height='300'>
+<img src='/images/Watson.png' width='600' height='300'>
 </div>
 
 **Online Algorithm for PMU Data Processing (OLAP)**
