@@ -9,7 +9,7 @@ author_profile: true
 ------
 DyNet is a neural network library developed by Carnegie Mellon University, Petuum, and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. I constantly contribute to this open sourced project.
 
-<br/><img src='/images/dynet_logo_bg.png'>
+<br/ align=center><img src='/images/dynet_logo_bg.png'>
 
 **IBM Watson Build Challenge 2017**
 ------
