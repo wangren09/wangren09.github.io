@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+**DyNet: The Dynamic Neural Network Toolkit**
+------
+DyNet is a neural network library developed by Carnegie Mellon University, Petuum, and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. I constantly contribute to this open sourced project.
+
+<br/><img src='/images/dynet_logo_bg.png'>
+
 **IBM Watson Build Challenge 2017**
 ------
 We developed a web application with IBM Watson APIs (Retrieve and Rank) based on IBM Bluemix and implemented multiple missing data recovery and event identification algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.
@@ -24,7 +30,7 @@ Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU d
 [Demo is available!](https://www.youtube.com/watch?v=vHiUh4NLQgo)
 
 
-**Class Project: Mobile Eye Gaze Estimation with Deep Learning**
+**Mobile Eye Gaze Estimation with Deep Learning**
 ------
 We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we trained our model on a much smaller dataset with 48000 trainning samples and 5000 validation samples. Each sample contains 5 items: face (64 X 64 X 3), left eye (64 X 64 X 3), right eye (64 X 64 X 3), face mask (25 X 25 X 1) and labels (x,y). Our model follows the architecture introduced in [R1], and we changed and tuned the hyper parameters (listed below) due to the different image size in our trainning dataset.
 
@@ -52,7 +58,7 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 
 [Code is available!](https://github.com/gpengzhi/Deep-Learning/blob/master/gazecapture.ipynb)
 
-**Class Project: Twitter Sentiment Analysis with Recurrent Neural Networks**
+**Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
 We implemented a recurrent neural network (LSTM) based on TensorFlow for the task of sentiment analysis on natural language data. Sentiment analysis refers to the natural language processing task of classifying some collection of the text by its polarity. We analyzed the data from Twitter ([Sentiment140 dataset](http://www.sentiment140.com/)) and try to classify it as either "positive" or "negative". The tweets can be viewed as sequences of words in natural language and form the sequantial input to the RNN model. The goal is to understand the attitude of the person that generates the text.
 
