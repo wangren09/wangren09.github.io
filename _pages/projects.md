@@ -25,7 +25,9 @@ We developed a web application with IBM Watson APIs (Retrieve and Rank) based on
 ------
 We implemented OLAP by C# based on Project Alpha for the real-time application. Project Alpha is elite version of Open PDC. It provides a jump start to developing new products based on the Grid Solutions Framework's Time-Series Library (TSL) technology complete with all needed components for standalone time-series processing application. The code developed on Project Alpha can be run on Open PDC as action adapter.
 
-<br/><img src='/images/OLAP.png'>
+<div  align="center">
+<img src='/images/OLAP.png' width='500' height='300'>
+</div>
 
 Publication: Pengzhi Gao, Meng Wang, Scott G. Ghiocel, Joe H. Chow, Bruce Fardanesh, and George Stefopoulos. Missing Data Recovery by Exploiting Low-dimensionality in Power Systems Synchrophasor Measurements. IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
 
