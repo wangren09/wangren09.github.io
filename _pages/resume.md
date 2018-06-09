@@ -21,7 +21,7 @@ redirect_from:
 
 **Work Experience**
 ======
-* 02/2018 - present:        Petuum Inc., Data Scientist.
+* 02/2018 - present:        Petuum, Inc., Data Scientist.
 * 12/2010 - 05/2011:        Microsoft Research Asia, Research Intern.
 
 **Research Experience**
