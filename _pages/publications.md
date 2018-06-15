@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 ------
 **P. Gao**, R. Wang, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." submitted to IEEE Trans. Signal Processing, 2018.
 
-**P. Gao**, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." accepted to IEEE Trans. Signal Processing, 2017. (The first two authors contributed equally to this paper)
+**P. Gao**, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." accepted to IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932. (The first two authors contributed equally to this paper)
 
 **P. Gao**, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. Signal Processing, 2017, 65 (20): 5421-5436.
 
