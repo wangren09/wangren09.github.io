@@ -26,9 +26,9 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 
 **Conference Publications**
 ------
-G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." accepted to the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
+G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
 
-**P. Gao**, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." accepted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April, 2018.
+**P. Gao**, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April, 2018.
 
 M. Wang, J. H. Chow, **P. Gao**, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
 
