@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Also available in PDF format.](gpengzhi.github.io/files/Resume.pdf)
+[Also available in PDF format.](http://gpengzhi.github.io/files/Resume.pdf)
 
 **Research Interests**
 ======
