@@ -53,6 +53,7 @@ redirect_from:
     * IEEE/ACM Transactions on Networking
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
+    * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
     * American Control Conference
     * International Symposium on Antennas and Propagation
 
