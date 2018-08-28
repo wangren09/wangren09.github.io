@@ -60,7 +60,7 @@ redirect_from:
 **Skills**
 ======
 * Proficiency with Matlab, Python, and C/C++
-* Experienced in Java, R, C#, Dynet, and Tensorflow
+* Experienced in Java, R, C#, Dynet, PyTorch, and Tensorflow
 
 **Miscellaneous**
 ======
