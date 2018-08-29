@@ -47,7 +47,7 @@ redirect_from:
 * Teaching Assistant: 
     * Modeling and Analysis of Uncertainty (Fall 2017)
     * Distributed Systems and Sensor Networks (Fall 2017)
-* Program Committee:
+* Program Committee Member:
     * Uncertainty in Artificial Intelligence (UAI) 2018
 * Reviewer:
     * IEEE Transactions on Smart Grid
