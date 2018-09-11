@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!--
 **DyNet: The Dynamic Neural Network Toolkit**
 ------
 [DyNet](https://github.com/clab/dynet) is a neural network library developed by Carnegie Mellon University, Petuum, and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. I constantly contribute to this open sourced project.
@@ -13,7 +12,6 @@ author_profile: true
 <div  align="center">
 <img src='/images/dynet_logo_bg.png'>
 </div>
--->
  
 **IBM Watson Build Challenge 2017**
 ------
