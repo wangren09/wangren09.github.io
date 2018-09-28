@@ -55,14 +55,14 @@ redirect_from:
     * IEEE/ACM Transactions on Networking
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
-    * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
-    * American Control Conference
-    * International Symposium on Antennas and Propagation
+    * American Control Conference (ACC) 2017
+    * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) 2018
+    * Intelligent System Applications to Power Systems (ISAP) Conference 2017
 
 **Skills**
 ======
-* Proficiency with Matlab, Python, and C/C++
-* Experienced in Java, R, C#, Dynet, PyTorch, and Tensorflow
+* Proficiency with Matlab, Python, DyNet, and TensorFlow
+* Experienced in Java, R, C/C++, C#, and PyTorch
 
 **Miscellaneous**
 ======
