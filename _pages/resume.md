@@ -67,7 +67,7 @@ redirect_from:
 **Miscellaneous**
 ======
 * Men's Singles Winner of 2018 Petuum Ping Pong Tournament.
-* Men's Doubles Winner of 2018 Petuum Ping Pong Tournament.
+* Men's Doubles Winner of 2018 Petuum Ping Pong Tournament (with [Hong Wu](https://github.com/xunzhang)).
 
 <!--
 **Selected Courses**
