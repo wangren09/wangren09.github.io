@@ -62,6 +62,7 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
+<!-- 
 **Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
 We implemented a recurrent neural network (LSTM) based on TensorFlow for the task of sentiment analysis on natural language data. Sentiment analysis refers to the natural language processing task of classifying some collection of the text by its polarity. We analyzed the data from Twitter ([Sentiment140 dataset](http://www.sentiment140.com/)) and try to classify it as either "positive" or "negative". The tweets can be viewed as sequences of words in natural language and form the sequantial input to the RNN model. The goal is to understand the attitude of the person that generates the text.
@@ -69,3 +70,4 @@ We implemented a recurrent neural network (LSTM) based on TensorFlow for the tas
 <div align="center">
 <img src='/images/RNN.png'>
 </div>
+-->
