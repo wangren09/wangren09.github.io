@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Structured Query Language (SQL)'
 date: 2018-11-24
-permalink: /posts/intro_sql/
+permalink: /posts/2018/11/blog-post-1/
 tags:
   - SQL
 ---
