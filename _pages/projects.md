@@ -9,7 +9,7 @@ author_profile: true
 ------
 [Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
 <div  align="center">
-<img src='/images/texar.png' width='500' height='300'>
+<img src='/images/texar.png' width='500' height='200'>
 </div>
 
 **DyNet: The Dynamic Neural Network Toolkit**
