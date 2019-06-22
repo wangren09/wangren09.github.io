@@ -84,7 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "Data Scientist at Petuum, Inc."
   location         : "Pittsburgh, Pennsylvania"
-  employer         : 
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=r-eKI0oAAAAJ&hl=en"
   email            :
   uri              :
@@ -98,6 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "pengzhi-gao"
   orcid            : 
@@ -126,22 +128,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
