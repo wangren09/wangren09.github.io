@@ -7,4 +7,4 @@ author_profile: true
 
 | # | Title         | Category | Difficulty |
 | --------   | ------------- | ----------- | ------ |
-| 1 | Two Sum |  Algorithms      |   Easy    |
+| 1 | (Two Sum)[] |  Algorithms      |   Easy    |
