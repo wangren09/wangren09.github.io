@@ -48,7 +48,7 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 **Technical Reports**
 ------
 
-Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[blog](https://petuum.com/2019/10/16/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch/)], 2019.
+Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://petuum.com/2019/10/16/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch/)], 2019.
 
 **Patents**
 ------
