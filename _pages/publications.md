@@ -46,6 +46,7 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
 
 **Technical Reports**
+------
 
 Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [Blog](https://petuum.com/2019/10/16/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch/), 2019.
 
