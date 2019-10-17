@@ -11,6 +11,10 @@ High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applica
 
 Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](http://homepages.rpi.edu/~mitchj/).
 
+**Technical Reports**
+------
+Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://petuum.com/2019/10/16/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch/)], 2019.
+
 **Journal Publications**
 ------
 **P. Gao**, R. Wang, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." submitted to IEEE Trans. Signal Processing, 2018.
@@ -26,7 +30,6 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 
 **Conference Publications**
 ------
-
 M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." submitted to the IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019. 
 
 G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
@@ -44,11 +47,6 @@ M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanes
 M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
 
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
-
-**Technical Reports**
-------
-
-Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://petuum.com/2019/10/16/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch/)], 2019.
 
 **Patents**
 ------
