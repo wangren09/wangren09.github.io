@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Also available in PDF format.](http://gpengzhi.github.io/files/Resume.pdf)
+[[Curriculum Vitae](http://gpengzhi.github.io/files/Resume.pdf)] [[中文简历](http://gpengzhi.github.io/files/Resume_CN.pdf)]
 
 **Research Interests**
 ======
