@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[Curriculum Vitae](http://gpengzhi.github.io/files/Resume.pdf)] [[中文简历](https://github.com/gpengzhi/resume_CN/blob/master/resume-zh_CN.pdf)]
+[[Curriculum Vitae](https://github.com/gpengzhi/resume_EN/blob/master/CV.pdf)] [[中文简历](https://github.com/gpengzhi/resume_CN/blob/master/resume-zh_CN.pdf)]
 
 **Research Interests**
 ======
