@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+**Forte**
+------
+
+<div  align="center">
+<img src='/images/forte.png' width='450' height='150'>
+</div>
+
 **Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
 ------
 [Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
