@@ -9,7 +9,7 @@ author_profile: true
 ------
 
 <div  align="center">
-<img src='/images/forte.png' width='369' height='111'>
+<img src='/images/forte.png' width='499' height='150'>
 </div>
 
 **Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
