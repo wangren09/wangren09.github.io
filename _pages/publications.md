@@ -30,7 +30,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
-M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." submitted to the IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019. 
+M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May, 2019. 
 
 G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
 
