@@ -1,0 +1,503 @@
+% Don't like 10pt? Try 11pt or 12pt
+\documentclass[10pt]{article}
+
+% The automated optical recognition software used to digitize resume
+% information works best with fonts that do not have serifs. This
+% command uses a sans serif font throughout. Uncomment both lines (or at
+% least the second) to restore a Roman font (i.e., a font with serifs).
+%\usepackage{times}
+%\renewcommand{\familydefault}{\sfdefault}
+
+% This is a helpful package that puts math inside length specifications
+\usepackage{calc}
+\usepackage{comment}
+\usepackage{color}
+% Simpler bibsection for CV sections
+% (thanks to natbib for inspiration)
+\makeatletter
+\newlength{\bibhang}
+\setlength{\bibhang}{1em} %1em}
+\newlength{\bibsep}
+ {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
+\newenvironment{bibsection}%
+        {\begin{enumerate}{}{%
+%        {\begin{list}{}{%
+       \setlength{\leftmargin}{\bibhang}%
+       \setlength{\itemindent}{-\leftmargin}%
+       \setlength{\itemsep}{\bibsep}%
+       \setlength{\parsep}{\z@}%
+        \setlength{\partopsep}{0pt}%
+        \setlength{\topsep}{0pt}}}
+        {\end{enumerate}\vspace{-.6\baselineskip}}
+%        {\end{list}\vspace{-.6\baselineskip}}
+\makeatother
+
+% Layout: Puts the section titles on left side of page
+\reversemarginpar
+
+%
+%         PAPER SIZE, PAGE NUMBER, AND DOCUMENT LAYOUT NOTES:
+%
+% The next \usepackage line changes the layout for CV style section
+% headings as marginal notes. It also sets up the paper size as either
+% letter or A4. By default, letter was used. If A4 paper is desired,
+% comment out the letterpaper lines and uncomment the a4paper lines.
+%
+% As you can see, the margin widths and section title widths can be
+% easily adjusted.
+%
+% ALSO: Notice that the includefoot option can be commented OUT in order
+% to put the PAGE NUMBER *IN* the bottom margin. This will make the
+% effective text area larger.
+%
+% IF YOU WISH TO REMOVE THE ``of LASTPAGE'' next to each page number,
+% see the note about the +LP and -LP lines below. Comment out the +LP
+% and uncomment the -LP.
+%
+% IF YOU WISH TO REMOVE PAGE NUMBERS, be sure that the includefoot line
+% is uncommented and ALSO uncomment the \pagestyle{empty} a few lines
+% below.
+%
+
+%% Use these lines for letter-sized paper
+\usepackage[paper=letterpaper,
+            %includefoot, % Uncomment to put page number above margin
+            marginparwidth=1.2in,     % Length of section titles
+            marginparsep=.05in,       % Space between titles and text
+            margin=0.75in,               % 1 inch margins
+            includemp]{geometry}
+
+%% Use these lines for A4-sized paper
+%\usepackage[paper=a4paper,
+%            %includefoot, % Uncomment to put page number above margin
+%            marginparwidth=30.5mm,    % Length of section titles
+%            marginparsep=1.5mm,       % Space between titles and text
+%            margin=25mm,              % 25mm margins
+%            includemp]{geometry}
+
+%% More layout: Get rid of indenting throughout entire document
+\setlength{\parindent}{0in}
+
+\usepackage[shortlabels]{enumitem}
+
+%% Reference the last page in the page number
+%
+% NOTE: comment the +LP line and uncomment the -LP line to have page
+%       numbers without the ``of ##'' last page reference)
+%
+% NOTE: uncomment the \pagestyle{empty} line to get rid of all page
+%       numbers (make sure includefoot is commented out above)
+%
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+%\pagestyle{empty}      % Uncomment this to get rid of page numbers
+\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+\fancyfootoffset{\marginparsep+\marginparwidth}
+\newlength{\footpageshift}
+\setlength{\footpageshift}
+          {0.5\textwidth+0.5\marginparsep+0.5\marginparwidth-2in}
+\lfoot{\hspace{\footpageshift}%
+       \parbox{4in}{\, \hfill %
+                    \arabic{page} of \protect\pageref*{LastPage} % +LP
+%                    \arabic{page}                               % -LP
+                    \hfill \,}}
+
+% Finally, give us PDF bookmarks
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+
+%%%%%%%%%%%%%%%%%%%%%%%% End Document Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% Helper Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The title (name) with a horizontal rule under it
+% (optional argument typesets an object right-justified across from name
+%  as well)
+%
+% Usage: \makeheading{name}
+%        OR
+%        \makeheading[right_object]{name}
+%
+% Place at top of document. It should be the first thing.
+% If ``right_object'' is provided in the square-braced optional
+% argument, it will be right justified on the same line as ``name'' at
+% the top of the CV. For example:
+%
+%       \makeheading[\emph{Curriculum vitae}]{Your Name}
+%
+% will put an emphasized ``Curriculum vitae'' at the top of the document
+% as a title. Likewise, a picture could be included:
+%
+%   \makeheading[\includegraphics[height=1.5in]{my_picutre}]{Your Name}
+%
+% the picture will be flush right across from the name.
+\newcommand{\makeheading}[2][]%
+        {\hspace*{-\marginparsep minus \marginparwidth}%
+         \begin{minipage}[t]{\textwidth+\marginparwidth+\marginparsep}%
+             {\large \bfseries #2 \hfill #1}\\[-0.15\baselineskip]%
+                 \rule{\columnwidth}{1pt}%
+         \end{minipage}}
+
+% The section headings
+%
+% Usage: \section{section name}
+\renewcommand{\section}[1]{\pagebreak[3]%
+    \hyphenpenalty=10000%
+    \vspace{1.3\baselineskip}%
+    \phantomsection\addcontentsline{toc}{section}{#1}%
+    \noindent\llap{\scshape\smash{\parbox[t]{\marginparwidth}{\raggedright #1}}}%
+    \vspace{-\baselineskip}\par}
+
+% An itemize-style list with lots of space between items
+\newenvironment{outerlist}[1][\enskip\textbullet]%
+        {\begin{itemize}[#1,leftmargin=*]}{\end{itemize}%
+         \vspace{-.6\baselineskip}}
+
+% An environment IDENTICAL to outerlist that has better pre-list spacing
+% when used as the first thing in a \section
+\newenvironment{lonelist}[1][\enskip\textbullet]%
+        {\begin{list}{#1}{%
+        \setlength{\partopsep}{0pt}%
+        \setlength{\topsep}{0pt}}}
+        {\end{list}\vspace{-.6\baselineskip}}
+
+% An itemize-style list with little space between items
+\newenvironment{innerlist}[1][\enskip\textbullet]%
+        {\begin{itemize}[#1,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt]}
+        {\end{itemize}}
+
+% An environment IDENTICAL to innerlist that has better pre-list spacing
+% when used as the first thing in a \section
+\newenvironment{loneinnerlist}[1][\enskip\textbullet]%
+        {\begin{itemize}[#1,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt]}
+        {\end{itemize}\vspace{-.6\baselineskip}}
+
+% To add some paragraph space between lines.
+% This also tells LaTeX to preferably break a page on one of these gaps
+% if there is a needed pagebreak nearby.
+\newcommand{\blankline}{\quad\pagebreak[3]}
+\newcommand{\halfblankline}{\quad\vspace{-0.5\baselineskip}\pagebreak[3]}
+
+% Uses hyperref to link DOI
+\newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
+\newcommand\doi[1]{doi:\doilink{#1}}
+
+% For \url{SOME_URL}, links SOME_URL to the url SOME_URL
+\providecommand*\url[1]{\href{#1}{#1}}
+% Same as above, but pretty-prints SOME_URL in teletype fixed-width font
+\renewcommand*\url[1]{\href{#1}{\texttt{#1}}}
+
+% For \email{ADDRESS}, links ADDRESS to the url mailto:ADDRESS
+\providecommand*\email[1]{\href{mailto:#1}{#1}}
+% Same as above, but pretty-prints ADDRESS in teletype fixed-width font
+%\renewcommand*\email[1]{\href{mailto:#1}{\texttt{#1}}}
+
+%\providecommand\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+%    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+%\providecommand\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+%    \TeX}}
+\providecommand\BibTeX{{B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    \TeX}}
+\providecommand\Matlab{\textsc{Matlab}}
+
+%%%%%%%%%%%%%%%%%%%%%%%% End Helper Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\makeheading{Pengzhi Gao}
+
+\section{Contact Information}
+% NOTE: Mind where the & separators and \\ breaks are in the following
+%       table.
+%
+% ALSO: \rcollength is the width of the right column of the table
+%       (adjust it to your liking; default is 1.85in).
+%
+\newlength{\rcollength}\setlength{\rcollength}{2.5in}
+\begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
+Petuum, Inc. & \textit{Mobile: } 215-696-0238 \\
+2555 Smallman Street, Suite 120,    & \textit{Email: } gpengzhi@gmail.com\\
+Pittsburgh, Pennsylvania 15222  & \textit{Homepage: } https://gpengzhi.github.io/\\
+\end{tabular}
+
+\section{Education}
+
+{\textbf{Rensselaer Polytechnic Institute}}, Troy, NY
+\begin{outerlist}
+\item[] Ph.D., {Electrical Engineering}, August 2013 - December 2017 
+\begin{innerlist}
+\item Advisor: {Professor Meng Wang}
+\item Thesis: High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems
+\end{innerlist}
+\end{outerlist}
+
+\vspace{.1in}
+{\textbf{University of Pennsylvania}},
+Philadelphia, PA
+\begin{outerlist}
+\item[] M.S., {Electrical Engineering}, August 2011 - May 2013 
+% \begin{innerlist}
+% \item GPA: 3.74/4
+% \end{innerlist}
+\end{outerlist}
+
+\vspace{.1in}
+{\textbf{Xidian University}}, China
+\begin{outerlist}
+\item[] B.S. (with honors),	{Electronic and Information Engineering}, August 2007 - May 2011 
+% \begin{innerlist}
+% \item GPA: 91.4/100 \textbf{ }\textbf{ } Class Rank: 1st in 114
+% \end{innerlist}
+\end{outerlist}
+
+% \section{Research Interests}
+
+% My research interests lie in the intersection of the fields of signal processing, high-dimensional statistics, and machine learning. % I am particularly interested in developing low-dimensional models and optimization methods with applications in image processing and power system monitoring.
+
+\section{Work Experience}
+
+\textbf{Data Scientist} \hfill {February 2018 to present}
+\begin{innerlist}
+\item[] Core Machine Learning Team,\\
+\textbf{Petuum, Inc.}\\
+Supervisor: Dr. Tong Wen and Zhiting Hu
+\item Designed and implemented the machine learning library (based on TensorFlow, DyNet, and LightGBM) for Petuum AI Builder Platform.
+\item Designed and developed Texar-PyTorch (https://github.com/asyml/texar-pytorch, gaining over 510 stars), an open-source machine learning and text generation toolkit based on PyTorch. 
+\item Designed and developed Forte (https://github.com/asyml/forte), a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation).
+\item Maintained and contributed to Texar-TensorFlow (https://github.com/asyml/texar, gaining over 1790 stars), an open-source machine learning and text generation toolkit based on TensorFlow.
+\end{innerlist}
+
+\
+
+\textbf{Research Intern} \hfill {December 2010 to May 2011}
+\begin{innerlist}
+\item[] Internet Media Group,\\
+\textbf{Microsoft Research Asia}\\
+Supervisor: Dr. Feng Wu and Dr. Chong Luo
+\item Analyzed the data collected from 54 sensors deployed in Intel Berkeley Research Lab (150 MB of data) to exploit the temporal correlations in sensor readings. Developed a joint source network coding scheme for approximate data gathering in wireless sensor network.\\
+\end{innerlist}
+
+\section{Skill Sets}
+
+\begin{innerlist}
+\item Proficiency with \Matlab, Python, Dynet, PyTorch, and TensorFlow
+\end{innerlist}
+\begin{innerlist}
+\item Experienced in Java, R, C/C++, C\#, AMPL
+\end{innerlist}
+
+\section{Honors and Awards}
+
+\begin{innerlist}
+\item North America Finalist of IBM Watson Build Challenge\hfill 2017
+\item Paper selected as the runner-up of the Best Paper in Electric Energy Systems\\ Track of Hawaii International Conference on System Sciences \hfill 2015
+\item Founders Award of Excellence (top 1\%)\hfill 2015
+\item Paper selected as one of the Best Conference Papers on Power System Analysis\\ and Modeling of
+IEEE Power \& Energy Society General Meeting \hfill 2014
+\item Excellent Graduate of Xidian University (top 1\%)\hfill 2011
+\item National Scholarship (top 1\%)\hfill 2010
+\item First prize of the College Academic and Technological Scholarship (top 2\%)\hfill 2008-2010
+\item Excellent Student Awards (top 1\%)\hfill 2008
+\end{innerlist}
+
+\section{Journal Publications}
+\vspace{-.1275in}
+\begin{bibsection}
+
+\item \href{}{{\bf P. Gao}, R. Wang, and M. Wang. ``Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." \emph{submitted to IEEE Transactions on Signal Processing}, 2019.}
+
+\item \href{}{{\bf P. Gao}, R. Wang, M. Wang, and J. H. Chow. ``Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." \emph{IEEE Transactions on Signal Processing}, 2018, 66 (11): 2918-2932.}
+	
+\item \href{}{{\bf P. Gao}, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. ``Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." \emph{IEEE Transactions on Signal Processing}, 2017, 65 (20): 5421-5436.}
+	
+\item \href{}{{\bf P. Gao}, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. ``Identification of Successive ``Unobservable'' Cyber Data Attacks in Power Systems Through Matrix Decomposition." \emph{IEEE Transactions on Signal Processing}, 2016, 64 (21): 5557-5570.}
+		
+\item \href{}{{\bf P. Gao}, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. ``Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor \\ Measurements." \emph{IEEE Transactions on Power Systems}, 2016, 31 (2): 1006-1013.}
+	
+\end{bibsection}
+
+
+\section{Conference Publications}
+\vspace{-.1275in}
+\begin{bibsection}
+	
+\item \href{}{M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, {\bf P. Gao}, C. Lackner, E. Farantatos, and M. Patel. ``A Low-rank Framework of PMU Data Recovery and Event Identification.'' \emph{Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA)}, College Station, Texas, May, 2019.}
+
+\item \href{}{G. Mijolla, S. Konstantinouplos, {\bf P. Gao}, J. H. Chow, and M. Wang. ``An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." \emph{Proc. of the 20th Power Systems Computation Conference (PSCC)}, Dublin, Ireland, Jun. 2018.}
+
+\item \href{}{{\bf P. Gao}, and M. Wang. ``Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." \emph{Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, Calgary, Canada, Apr. 2018.}
+	
+\item \href{}{M. Wang, J. H. Chow, {\bf P. Gao}, Y. Hao, W. Li, and R. Wang. ``Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." \emph{Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium (IREP)}, Espinho, Portugal, Aug. 2017.}
+	
+\item \href{}{{\bf P. Gao}, R. Wang, and M. Wang. ``Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." \emph{Proc. of Asilomar Conference on Signals, Systems, and Computers}, Pacific Grove, CA, Nov. 2016.}
+	
+\item \href{}{{\bf P. Gao}, M. Wang, and J. H. Chow. ``Matrix Completion with Columns in Union and Sums of Subspaces." \emph{Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP)}, Orlando, FL, Dec. 2015.}
+	
+\item \href{}{M. Wang, J. H. Chow, {\bf P. Gao}, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. ``A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." \emph{Proc. of Hawaii International Conference on System Sciences (\textcolor{red}{Runner-up of Best Paper in Electric Energy Systems Track})}, Kauai, Hawaii, Jan. 2015.}
+	
+\item \href{}{M. Wang, {\bf P. Gao}, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. ``Identification of ``Unobservable'' Cyber Data Attacks on Power Grids." \emph{Proc. of IEEE SmartGridComm}, Venice, Italy, Nov. 2014.}
+	
+\item \href{}{{\bf P. Gao}, M. Wang, S. G. Ghiocel, and J. H. Chow. ``Modeless Reconstruction of Missing Synchrophasor Measurements." \emph{Proc. of IEEE Power \& Energy Society General Meeting (\textcolor{red}{selected in Best Conference Paper sessions})}, Washington, DC, Jul. 2014.}
+	
+\end{bibsection}
+
+\section{Technical Reports}
+\vspace{-.1275in}
+\begin{bibsection}
+	
+\item \href{}{Zecong Hu, {\bf Pengzhi Gao}, Avinash Bukkittu, and Zhiting Hu. ``Introducing Texar-PyTorch: An ML Library integrating the best of TensorFlow into PyTorch." Octorber, 2019.}
+	
+\end{bibsection}
+
+\section{Patents}
+\vspace{-.1275in}
+\begin{bibsection}
+	
+\item \href{}{Meng Wang, {\bf Pengzhi Gao}, and Joe H. Chow. ``A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.}
+	
+\end{bibsection}
+
+\section{Research Experience}
+
+\textbf{Research Assistant} \hfill {August 2013 to December 2017}
+\begin{innerlist}
+\item[] ECSE Department,\\
+\textbf{Rensselaer Polytechnic Institute}\\
+Supervisor: Professor Meng Wang
+\item Analyzed the Phasor Measurement Unit (PMU) data ($>$ 200 MB of data) to exploit the temporal and spatial correlations (low dimensionality) of the data.
+\item Proposed an identification method that can detect the cyber data attack in the power system. Tested our method on the actual PMU data from Central New York Power System.
+\item Developed an on-line algorithm to estimate the missing PMU data in real time manner. Built the corresponding action adapter in OpenPDC by C\# code, reducing the computational time by 50\%.
+\item Proposed a novel model to characterize the practical nonlinear datasets. Developed convex-optimization-based methods to recover missing data under this model. Tested our method on simulated power system data in IEEE 39-bus New England Power System. 
+\item Proposed a novel method to recover the original data from quantized measurements even when partial measurements are corrupted. Developed a projected gradient method to solve the non-convex problem approximately. Tested our method on actual PMU data from Central New York Power System. \\
+\end{innerlist}
+
+%\textbf{Member of RPI Team for IBM Watson Build Challenge} \hfill {July 2017 to October 2017}
+%\begin{innerlist}
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}\\
+%Supervisor: Professor Meng Wang
+%\item Developed a web application with IBM Watson APIs based on IBM Bluemix. 
+%\item Implemented multiple missing data recovery algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.\\
+%\end{innerlist}
+
+%\textbf{Summer Research Co-program Manager} \hfill {May 2016 to August 2016}
+%\begin{innerlist}
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}\\
+%Co-program Manager: Stephen M. Burchett
+%\item Led a group of 3 undergraduates to build a wireless and real-time photovoltaic power monitoring system. The data acquisition was performed by the Arduino platform. Data communication was achieved by Bluetooth connection. And the monitoring interface was developed by Matlab.\\
+%\end{innerlist}
+
+\textbf{Research Assistant} \hfill {May 2012 to May 2013}
+\begin{innerlist}
+\item[] Department of Bioengineering,\\
+\textbf{University of Pennsylvania}\\
+Supervisor: Professor Gershon Buchsbaum        
+\item Analyzed the EEG data from IEEG Portal for epilepsy detection.
+\item Proposed a new dictionary for EEG dataset. Improved the reconstruction performance of the EEG data by 20\%. \\
+\end{innerlist}
+
+%\section{Projects}
+
+%\textbf{DyNet: The Dynamic Neural Network Toolkit} 
+%\begin{innerlist}	
+%\item[] Machine Learning Team,\\
+%\textbf{Petuum, Inc.}	
+%\item DyNet is a neural network library developed by Carnegie Mellon University, Petuum, and many others. I constantly contribute to this open sourced project.\\
+%\end{innerlist}
+
+%\textbf{IBM Watson Build Challenge 2017}
+%\begin{innerlist}
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}
+%\item We developed a web application with IBM Watson APIs based on IBM Bluemix. We implemented multiple missing data recovery algorithms in Python for large scale Phasor Measurement Unit (PMU) data analysis.\\
+%\end{innerlist}
+
+%\textbf{Online Algorithm for PMU Data Processing (OLAP)} 
+%\begin{innerlist}	
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}	
+%\item We implemented OLAP by C\# based on Project Alpha for the real-time application. Project Alpha is the elite version of Open PDC. The code developed on Project Alpha can be run on Open PDC as an action adapter.\\
+%\end{innerlist}
+
+%\textbf{Mobile Eye Gaze Estimation with Deep Learning} 
+%\begin{innerlist}	
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}	
+%\item We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. The original dataset comes from the GazeCapture project. Our model follows the architecture introduced in CVPR paper ``Eye Tracking for Everyone'', and we changed and tuned the hyper parameters due to the different image size in our trainning dataset.\\
+%\end{innerlist}
+
+%\textbf{Twitter Sentiment Analysis with Recurrent Neural Networks} 
+%\begin{innerlist}	
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}	
+%\item We implemented a recurrent neural network based on TensorFlow for the task of sentiment analysis on natural language data. We analyzed the data from Twitter (Sentiment140 dataset) and classified it as either “positive” or “negative”. 
+%\end{innerlist}
+
+\section{Professional Activities \& Service }
+\begin{innerlist}
+\item Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - present.
+\item RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016. 
+\item Teaching Assistant (Rensselaer Polytechnic Institute): \\
+Modeling and Analysis of Uncertainty, Fall 2017, \\
+Distributed Systems and Sensor Networks, Fall 2017.
+\item Program Committee Member: \\
+Conference on Uncertainty in Artificial Intelligence (UAI) 2018.
+\item Reviewer: \\
+IEEE Transactions on Smart Grid, \\
+IEEE Transactions on Automatic Control, \\
+IEEE/ACM Transactions on Networking, \\
+IEEE Signal Processing Letters, \\
+Annals of Mathematics and Artificial Intelligence, \\
+American Control Conference, \\
+IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), \\
+International Symposium on Antennas and Propagation.
+\end{innerlist}
+
+%\halfblankline
+%
+%\section{Posters \& Presentations}
+%\begin{innerlist}
+%\item Asilomar Conference on Signals, Systems, and Computers \hfill Nov 2016
+%\item IEEE Global Conference on Signal and Information Processing \hfill Dec 2015
+%\item CURENT's 2015 Industry Conference \& NSF/DOE Site Visit \hfill Oct 2015
+%\item CFES Annual Conference \hfill Feb 2015
+%\item IEEE Power \& Energy Society General Meeting \hfill July 2014
+%\item CURENT's 2014 Industry Conference \& NSF/DOE Site Visit \hfill May 2014
+%\item CFES Annual Conference \hfill Feb 2014
+%\end{innerlist}
+
+%\halfblankline
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% End CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------%
+% The following is copyright and licensing information for
+% redistribution of this LaTeX source code; it also includes a liability
+% statement. If this source code is not being redistributed to others,
+% it may be omitted. It has no effect on the function of the above code.
+%----------------------------------------------------------------------%
+% Copyright (c) 2007, 2008, 2009, 2010, 2011 by Theodore P. Pavlic
+%
+% Unless otherwise expressly stated, this work is licensed under the
+% Creative Commons Attribution-Noncommercial 3.0 United States License. To
+% view a copy of this license, visit
+% http://creativecommons.org/licenses/by-nc/3.0/us/ or send a letter to
+% Creative Commons, 171 Second Street, Suite 300, San Francisco,
+% California, 94105, USA.
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+% OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+% MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+% IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+% CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+% TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+% SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+%----------------------------------------------------------------------%
