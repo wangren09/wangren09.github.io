@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Forte**
+**Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
 ------
 [Forte](https://github.com/asyml/forte) is a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation). Empowered by principled abstraction and design principles, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
 
