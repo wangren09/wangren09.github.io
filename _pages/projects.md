@@ -5,8 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Forte**
+**Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
 ------
+[Forte](https://github.com/asyml/forte) is a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation). Empowered by principled abstraction and design principles, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
 
 <div  align="center">
 <img src='/images/forte.png' width='450' height='135'>
@@ -15,6 +16,7 @@ author_profile: true
 **Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
 ------
 [Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
+
 <div  align="center">
 <img src='/images/texar.png' width='450' height='150'>
 </div>
