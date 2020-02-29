@@ -268,8 +268,8 @@ Philadelphia, PA
 Supervisor: Dr. Tong Wen and Zhiting Hu
 \item Designed and implemented the machine learning library (based on TensorFlow, DyNet, and LightGBM) for Petuum AI Builder Platform.
 \item Designed and developed Texar-PyTorch (https://github.com/asyml/texar-pytorch, gaining over 520 stars), an open-source machine learning and text generation toolkit based on PyTorch. 
-\item Designed and developed Forte (https://github.com/asyml/forte), a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation).
 \item Maintained and contributed to Texar-TensorFlow (https://github.com/asyml/texar, gaining over 1820 stars), an open-source machine learning and text generation toolkit based on TensorFlow.
+\item Designed and developed Forte (https://github.com/asyml/forte), a toolkit for building natural language processing pipelines, featuring cross-task interaction, adaptable data-model interfaces and many more.
 \end{innerlist}
 
 \
@@ -352,7 +352,7 @@ IEEE Power \& Energy Society General Meeting \hfill 2014
 \vspace{-.1275in}
 \begin{bibsection}
 	
-\item \href{}{Zecong Hu, {\bf Pengzhi Gao}, Avinash Bukkittu, and Zhiting Hu. ``Introducing Texar-PyTorch: An ML Library integrating the best of TensorFlow into PyTorch." Octorber, 2019.}
+\item \href{}{Z. Hu, {\bf P. Gao}, A. Bukkittu, and Z. Hu. ``Introducing Texar-PyTorch: An ML Library integrating the best of TensorFlow into PyTorch." Octorber, 2019.}
 	
 \end{bibsection}
 
@@ -360,23 +360,23 @@ IEEE Power \& Energy Society General Meeting \hfill 2014
 \vspace{-.1275in}
 \begin{bibsection}
 	
-\item \href{}{Meng Wang, {\bf Pengzhi Gao}, and Joe H. Chow. ``A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.}
+\item \href{}{M. Wang, {\bf P. Gao}, and J. H. Chow. ``A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.}
 	
 \end{bibsection}
 
-\section{Research Experience}
+%\section{Research Experience}
 
-\textbf{Research Assistant} \hfill {August 2013 to December 2017}
-\begin{innerlist}
-\item[] ECSE Department,\\
-\textbf{Rensselaer Polytechnic Institute}\\
-Supervisor: Professor Meng Wang
-\item Analyzed the Phasor Measurement Unit (PMU) data ($>$ 200 MB of data) to exploit the temporal and spatial correlations (low dimensionality) of the data.
-\item Proposed an identification method that can detect the cyber data attack in the power system. Tested our method on the actual PMU data from Central New York Power System.
-\item Developed an on-line algorithm to estimate the missing PMU data in real time manner. Built the corresponding action adapter in OpenPDC by C\# code, reducing the computational time by 50\%.
-\item Proposed a novel model to characterize the practical nonlinear datasets. Developed convex-optimization-based methods to recover missing data under this model. Tested our method on simulated power system data in IEEE 39-bus New England Power System. 
-\item Proposed a novel method to recover the original data from quantized measurements even when partial measurements are corrupted. Developed a projected gradient method to solve the non-convex problem approximately. Tested our method on actual PMU data from Central New York Power System. \\
-\end{innerlist}
+%\textbf{Research Assistant} \hfill {August 2013 to December 2017}
+%\begin{innerlist}
+%\item[] ECSE Department,\\
+%\textbf{Rensselaer Polytechnic Institute}\\
+%Supervisor: Professor Meng Wang
+%\item Analyzed the Phasor Measurement Unit (PMU) data ($>$ 200 MB of data) to exploit the temporal and spatial correlations (low dimensionality) of the data.
+%\item Proposed an identification method that can detect the cyber data attack in the power system. Tested our method on the actual PMU data from Central New York Power System.
+%\item Developed an on-line algorithm to estimate the missing PMU data in real time manner. Built the corresponding action adapter in OpenPDC by C\# code, reducing the computational time by 50\%.
+%\item Proposed a novel model to characterize the practical nonlinear datasets. Developed convex-optimization-based methods to recover missing data under this model. Tested our method on simulated power system data in IEEE 39-bus New England Power System. 
+%\item Proposed a novel method to recover the original data from quantized measurements even when partial measurements are corrupted. Developed a projected gradient method to solve the non-convex problem approximately. Tested our method on actual PMU data from Central New York Power System. \\
+%\end{innerlist}
 
 %\textbf{Member of RPI Team for IBM Watson Build Challenge} \hfill {July 2017 to October 2017}
 %\begin{innerlist}
@@ -395,44 +395,44 @@ Supervisor: Professor Meng Wang
 %\item Led a group of 3 undergraduates to build a wireless and real-time photovoltaic power monitoring system. The data acquisition was performed by the Arduino platform. Data communication was achieved by Bluetooth connection. And the monitoring interface was developed by Matlab.\\
 %\end{innerlist}
 
-\textbf{Research Assistant} \hfill {May 2012 to May 2013}
-\begin{innerlist}
-\item[] Department of Bioengineering,\\
-\textbf{University of Pennsylvania}\\
-Supervisor: Professor Gershon Buchsbaum        
-\item Analyzed the EEG data from IEEG Portal for epilepsy detection.
-\item Proposed a new dictionary for EEG dataset. Improved the reconstruction performance of the EEG data by 20\%. \\
+%\textbf{Research Assistant} \hfill {May 2012 to May 2013}
+%\begin{innerlist}
+%\item[] Department of Bioengineering,\\
+%\textbf{University of Pennsylvania}\\
+%Supervisor: Professor Gershon Buchsbaum        
+%\item Analyzed the EEG data from IEEG Portal for epilepsy detection.
+%\item Proposed a new dictionary for EEG dataset. Improved the reconstruction performance of the EEG data by 20\%. \\
+%\end{innerlist}
+
+\section{Projects}
+
+\textbf{DyNet: The Dynamic Neural Network Toolkit} 
+\begin{innerlist}	
+\item[] Core Machine Learning Team,\\
+\textbf{Petuum, Inc.}	
+\item DyNet is a neural network library developed by Carnegie Mellon University, Petuum, and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. I contributed the example and tutorial part of DyNet repository.\\
 \end{innerlist}
 
-%\section{Projects}
+\textbf{IBM Watson Build Challenge 2017}
+\begin{innerlist}
+\item[] ECSE Department,\\
+\textbf{Rensselaer Polytechnic Institute}
+\item We developed a web application with IBM Watson APIs based on IBM Bluemix. We implemented multiple missing data recovery algorithms in Python for large-scale Phasor Measurement Unit (PMU) data analysis.\\
+\end{innerlist}
 
-%\textbf{DyNet: The Dynamic Neural Network Toolkit} 
-%\begin{innerlist}	
-%\item[] Machine Learning Team,\\
-%\textbf{Petuum, Inc.}	
-%\item DyNet is a neural network library developed by Carnegie Mellon University, Petuum, and many others. I constantly contribute to this open sourced project.\\
-%\end{innerlist}
+\textbf{Online Algorithm for PMU Data Processing (OLAP)} 
+\begin{innerlist}	
+\item[] ECSE Department,\\
+\textbf{Rensselaer Polytechnic Institute}	
+\item We implemented OLAP by C\# based on Project Alpha for the real-time application. Project Alpha is the elite version of Open PDC. The code developed on Project Alpha can be run on Open PDC as an action adapter.\\
+\end{innerlist}
 
-%\textbf{IBM Watson Build Challenge 2017}
-%\begin{innerlist}
-%\item[] ECSE Department,\\
-%\textbf{Rensselaer Polytechnic Institute}
-%\item We developed a web application with IBM Watson APIs based on IBM Bluemix. We implemented multiple missing data recovery algorithms in Python for large scale Phasor Measurement Unit (PMU) data analysis.\\
-%\end{innerlist}
-
-%\textbf{Online Algorithm for PMU Data Processing (OLAP)} 
-%\begin{innerlist}	
-%\item[] ECSE Department,\\
-%\textbf{Rensselaer Polytechnic Institute}	
-%\item We implemented OLAP by C\# based on Project Alpha for the real-time application. Project Alpha is the elite version of Open PDC. The code developed on Project Alpha can be run on Open PDC as an action adapter.\\
-%\end{innerlist}
-
-%\textbf{Mobile Eye Gaze Estimation with Deep Learning} 
-%\begin{innerlist}	
-%\item[] ECSE Department,\\
-%\textbf{Rensselaer Polytechnic Institute}	
-%\item We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. The original dataset comes from the GazeCapture project. Our model follows the architecture introduced in CVPR paper ``Eye Tracking for Everyone'', and we changed and tuned the hyper parameters due to the different image size in our trainning dataset.\\
-%\end{innerlist}
+\textbf{Mobile Eye Gaze Estimation with Deep Learning} 
+\begin{innerlist}	
+\item[] ECSE Department,\\
+\textbf{Rensselaer Polytechnic Institute}	
+\item We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. The original dataset comes from the GazeCapture project. Our model follows the architecture introduced in CVPR paper ``Eye Tracking for Everyone'', and we changed and tuned the hyper parameters due to the different image size in our training dataset.\\
+\end{innerlist}
 
 %\textbf{Twitter Sentiment Analysis with Recurrent Neural Networks} 
 %\begin{innerlist}	
