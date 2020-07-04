@@ -50,6 +50,7 @@ redirect_from:
 * Program Committee Member:
     * Conference on Uncertainty in Artificial Intelligence (UAI) 2018
 * Reviewer:
+    * IEEE Transactions on Signal Processing
     * IEEE Transactions on Smart Grid
     * IEEE Transactions on Automatic Control
     * IEEE/ACM Transactions on Networking
