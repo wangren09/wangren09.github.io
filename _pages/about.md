@@ -15,9 +15,9 @@ My research interests lie in the intersection of the fields of signal processing
 **Contact**
 ------
 Chinese name: 高鹏至  
-Email: gpengzhi (you can make the "at") gmail (dot) com  
-2555 Smallman Street, Suite 120  
-Pittsburgh, Pennsylvania 15222
+Email: gpengzhi (you can make the "at") gmail (dot) com
+Baidu Technology Park Building No.1, No.10 Xibeiwang East Road
+Haidian District, Beijing, China 100193
 
 ---
 
