@@ -21,7 +21,7 @@ redirect_from:
 
 **Work Experience**
 ======
-* 2020 - present:        Baidu Inc., Staff Research & Development Engineer.
+* 2020 - present:        Baidu Inc., Staff Research Engineer.
 * 2018 - 2020:        Petuum, Inc., Data Scientist.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
