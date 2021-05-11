@@ -11,24 +11,24 @@ redirect_from:
 
 **Research Interests**
 ======
-* Signal processing, high-dimensional statistics, and machine learning
+* Natural language processing, signal processing, high-dimensional statistics, and machine learning
 
 **Education**
 ======
-* 08/2013 - 12/2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
-* 08/2011 - 05/2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
-* 08/2007 - 05/2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank: 1/114).
+* 2013 - 2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
+* 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
+* 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank: 1/114).
 
 **Work Experience**
 ======
-* 09/2020 - present:        Baidu Inc., Staff Research & Development Engineer.
-* 02/2018 - 04/2020:        Petuum, Inc., Data Scientist.
-* 12/2010 - 05/2011:        Microsoft Research Asia, Research Intern.
+* 2020 - present:        Baidu Inc., Staff Research & Development Engineer.
+* 2018 - 2020:        Petuum, Inc., Data Scientist.
+* 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
 **Research Experience**
 ======
-* 08/2013 - 12/2017:        Rensselaer Polytechnic Institute, Research Assistant.
-* 05/2012 - 05/2013:        University of Pennsylvania, Research Assistant.
+* 2013 - 2017:        Rensselaer Polytechnic Institute, Research Assistant.
+* 2012 - 2013:        University of Pennsylvania, Research Assistant.
 
 **Awards**
 ======
