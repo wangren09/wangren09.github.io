@@ -59,9 +59,13 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 ------
 We developed a framework that can **protect data privacy** via adding noises and quantization. With some prior information, our method can effectively **recover** the original data in matrix/tensor forms with the **state-of-art guarantee** recovery guarantee. We further developed a **distributed algorithm** framework for **data recovery/clustering** tasks.
 
+Privac
 <div  align="center">
-<img src='/images/DP1.png' width='500'>
-<img src='/images/DP2.png' width='400'>
+<img src='/images/DP1.png' width='650'>
+</div>
+
+<div  align="center">
+<img src='/images/DP2.png' width='500'>
 </div>
 
 
