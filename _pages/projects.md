@@ -22,7 +22,11 @@ author_profile: true
 We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
 
 <div  align="center">
-<img src='/images/ask.png' width='450' height='150'>
+<img src='/images/ASK1.png' width='450'>
+</div>
+
+<div  align="center">
+<img src='/images/ASK2.png' width='450'>
 </div>
 
 **Adversarial Meta-Learning**
