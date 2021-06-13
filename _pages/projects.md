@@ -11,7 +11,7 @@ author_profile: true
 
 <p align="center">
   <img src="/images/RAILS_Arch.png" width="450" />
-  <img src="/images/RAILS_result.png" width="450" /> 
+  <img src="/images/RAILS_result.png" width="400" /> 
 </p>
 
 
