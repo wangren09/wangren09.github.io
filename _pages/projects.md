@@ -36,7 +36,7 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 [MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning method**.
 
 <div  align="center">
-<img src='/images/MetaAdv.png'>
+<img src='/images/MetaAdv.png' width='650'>
 </div>
  
 **Backdoor Model Detection**
