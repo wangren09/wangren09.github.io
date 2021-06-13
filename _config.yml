@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pengzhi Gao"
+title                    : "Ren Wang"
 title_separator          : "-"
-name                     : &name "Pengzhi Gao"
-description              : &description "Staff Research Engineer at Baidu Inc."
+name                     : &name "Ren Wang"
+description              : &description "Postdoctoral Researcher at University of Michigan"
 url                      : https://gpengzhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gpengzhi/gpengzhi.github.io"
+repository               : "wangren09/wangren09.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pengzhi Gao"
+  name             : "Ren Wang"
   avatar           : "profile.jpg"
-  bio              : "Staff Research Engineer at Baidu Inc."
-  location         : "Beijing, China"
+  bio              : "Postdoctoral Researcher at University of Michigan"
+  location         : "Ann Arbor, Michigan, US"
   employer         :
   pubmed           :
   googlescholar    : 
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gpengzhi"
+  github           : "wangren09"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "pengzhi-gao"
+  linkedin         : "ren-wang-715525106"
   orcid            : 
   pinterest        :
   soundcloud       :
