@@ -74,8 +74,8 @@ Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU d
 We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
 
 <div  align="center">
-<img src='/images/smartg1.png' width='500'>
-<img src='/images/smartg2.png' width='400'>
+<img src='/images/smartg1.jpg' width='500'>
+<img src='/images/smartg2.jpg' width='400'>
 </div>
 
 
