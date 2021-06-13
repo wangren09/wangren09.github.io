@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[comment]: <> ([[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)])
+[//]: # ([[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)])
 
 **Research Interests**
 ======
