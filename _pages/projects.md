@@ -60,14 +60,10 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 We developed a framework that can **protect data privacy** via adding noises and quantization. With some prior information, our method can effectively **recover** the original data in matrix/tensor forms with the **state-of-art guarantee** recovery guarantee. We further developed a **distributed algorithm** framework for **data recovery/clustering** tasks.
 
 <div  align="center">
-<img src='/images/Data.png' width='720' height='200'>
+<img src='/images/DP1.png' width='500'>
+<img src='/images/DP2.png' width='400'>
 </div>
 
-Publication: Pengzhi Gao, Meng Wang, Scott G. Ghiocel, Joe H. Chow, Bruce Fardanesh, and George Stefopoulos. Missing Data Recovery by Exploiting Low-dimensionality in Power Systems Synchrophasor Measurements. IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
-
-Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.
-
-[Demo is available!](https://www.youtube.com/watch?v=vHiUh4NLQgo)
 
 **Smart Grid Robustness and Uncertain Optimization with High-Penetration of Renewable Energy**
 ------
