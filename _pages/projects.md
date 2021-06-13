@@ -41,14 +41,17 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 ------
 [TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** with the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
 
+**Trojan (backdoor) attack:**
 <div  align="center">
 <img src='/images/Trojan1.png' width='500'>
 </div>
 
+**Frameworks:**
 <div  align="center">
 <img src='/images/Trojan2.JPG' width='500'>
 </div>
 
+**Trigger detection:**
 <div  align="center">
 <img src='/images/Trojan3.JPG' width='400'>
 </div>
