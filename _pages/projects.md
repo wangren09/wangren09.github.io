@@ -10,8 +10,8 @@ author_profile: true
 [RAILS](https://github.com/wangren09/RAILS) We proposed a **new deep defense framework**, Robust Adversarial Immune-inspired Learning System (RAILS), by **emulating the immune system**.
 
 <p align="center">
-  <img src="/images/RAILS_Arch.png" width="300" />
-  <img src="/images/RAILS_result.png" width="300" /> 
+  <img src="/images/RAILS_Arch.png" width="400" />
+  <img src="/images/RAILS_result.png" width="400" /> 
 </p>
 
 
