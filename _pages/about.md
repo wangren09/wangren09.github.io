@@ -23,7 +23,11 @@ Ann Arbor, MI 48109-2122
 
 **06/2021** I will lead the Michigan team in the Third Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
 
+**06/2021** I will be a reviewer at ICLR 2022
+
 **05/2021** I will present our work "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" at the ICLR 2021
+
+**05/2021** I will be a reviewer at NeurIPS 2021
 
 **03/2021** I will present our work "Robust AI Guided by the Immune System" at the Guaranteeing AI Robustness Against Deception (GARD) PI Meeting
 
@@ -36,6 +40,8 @@ Ann Arbor, MI 48109-2122
 **12/2020** I lead the Michigan team in the Second Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
 
 **11/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
+
+**10/2020** I will be a reviewer at AISTATS 2021
 
 **10/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
 
