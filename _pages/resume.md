@@ -7,70 +7,69 @@ redirect_from:
   - /resume
 ---
 
-[[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)] [[中文简历](http://gpengzhi.github.io/files/resume_cn/resume-zh_CN.pdf)]
+[[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)]
 
 **Research Interests**
 ======
-* Natural language processing, signal processing, high-dimensional statistics, and machine learning
+* Trustworthy Machine Learning; Data Privacy and High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Robustness and Optimization on Smart Grid
 
 **Education**
 ======
-* 2013 - 2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
-* 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
-* 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank: 1/114).
+* 2016 - 2020: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
+* 2013 - 2016: Tsinghua University, Beijing, China. M.S. in Electrical Engineering.
+* 2009 - 2013: Tsinghua University, Beijing, China. B.S. in Electrical Engineering.
 
-**Work Experience**
+**Work and Research Experience**
 ======
-* 2020 - present:        Baidu Inc., Staff Research Engineer.
-* 2018 - 2020:        Petuum, Inc., Data Scientist / Machine Learning Engineer.
-* 2010 - 2011:        Microsoft Research Asia, Research Intern.
-
-**Research Experience**
-======
-* 2013 - 2017:        Rensselaer Polytechnic Institute, Research Assistant.
-* 2012 - 2013:        University of Pennsylvania, Research Assistant.
+* 2020 - present:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
+* 2019 - 2020:        Research Intern, IBM Research AI.
+* 2014 - 2015:        Research Intern, China Southern Power Grid.
+* 2012 - 2012:        Research Intern, ABB China.
 
 **Awards**
 ======
-* North America Finalist of IBM Watson Build Challenge, 2017.
-* Paper selected as the runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015.
-* Founders Award of Excellence (top 1%), 2015.
-* Paper selected as one of the Best Conference Papers on Power System Analysis and Modeling of IEEE Power & Energy Society General Meeting, 2014.
-* Excellent Graduate of Xidian University (top 1%), 2011.
-* National Scholarship (top 1%), 2010.
-* First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
-* Excellent Student Award (top 1%), 2008.
+* Rensselaer’s Founders Award of Excellence (top 1%), 2019.
+* IBM Mass Lab 2019 Intern Showcase Best of Show 3rd Place, 2019.
+* IBM/RPI AI Horizons Scholars, 2019.
+* Comprehensive Scholarship of Tsinghua University (top 5%), 2015.
+* Guanghua Scholarship (top 10%), 2014.
+* Advanced Sports Individual of Tsinghua University, 2014.
+* First Class Award of The 3rd Digital System Design and Innovative Competition of Tsinghua University, 2012.
+* Technological Innovation Scholarship of Tsinghua University, 2012.
+* First Class Award in National Biology Olympiad, 2008.
 
-**Professional Activities & Service**
+**Invited Review & Program Committee Member**
 ======
-* Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now.
-* RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
-* Teaching Assistant: 
-    * Modeling and Analysis of Uncertainty (Fall 2017)
-    * Distributed Systems and Sensor Networks (Fall 2017)
-* Program Committee Member:
-    * Conference on Uncertainty in Artificial Intelligence (UAI) 2018
-* Reviewer:
+* Journal:
+    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Smart Grid
-    * IEEE Transactions on Automatic Control
-    * IEEE Transactions on Power Delivery
-    * IEEE/ACM Transactions on Networking
+    * IEEE Journal of Selected Topics in Signal Processing
+    * Frontiers in Big Data
     * IEEE Signal Processing Letters
-    * Annals of Mathematics and Artificial Intelligence
-    * American Control Conference (ACC) 2017
-    * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) 2018
-    * Intelligent System Applications to Power Systems (ISAP) Conference 2017
+    * CSEE Journal of Power and Energy Systems
+* Conference:
+    * ICLR 2022
+    * NeurIPS 2021
+    * ICML 2021
+    * AAAI 2021
+    * AAAI 2021
+    * ICML 2020
+    * Workshop on Adversarial Learning Methods at KDD 2020
+    * ICPAI 2020
+    * IEEE GlobalSIP 2018
+    * IEEE SmartGridComm 2018
+    * IEEE ISAP 2017
 
 **Skills**
 ======
-* Proficiency with Matlab, Python, DyNet, PyTorch, and TensorFlow
-* Experienced in Java, R, C/C++, and C#
+* Programming Languages:  Matlab, Python, C, C++, R, LabVIEW and SQL.
+* Tools: TensorFlow, PyTorch, LaTex, Microsoft Office software.
 
 **Miscellaneous**
 ======
-* Men's Singles Winner of 2018 Petuum Ping Pong Tournament.
-* Men's Doubles Winner of 2018 Petuum Ping Pong Tournament (with [Hong Wu](https://github.com/xunzhang)).
+* Champion of the RPI Student World Cup, 2018.
+* Captain of the Department Soccer Team (triple crown), 2013-2015.
 
 <!--
 **Selected Courses**
