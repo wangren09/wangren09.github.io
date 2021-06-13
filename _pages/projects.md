@@ -23,12 +23,12 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 **Results and Visualization:**
 <div  align="center">
 <img src='/images/ASK1.png' width='450'>
-<img src='/images/ASK3.jpg' width='450'>
+<img src='/images/ASK3.jpg' width='500'>
 </div>
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='450'>
+<img src='/images/ASK2.png' width='500'>
 </div>
 
 **Adversarial Meta-Learning**
