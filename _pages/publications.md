@@ -5,51 +5,58 @@ title: "Publications"
 author_profile: true
 ---
 
-**Thesis**
+**Trustworthy Machine Learning**
 ------
-High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
+**Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, ``On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning'', International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
 
-Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](http://homepages.rpi.edu/~mitchj/).
+**Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, ``Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases'', The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
 
-**Technical Reports**
+**Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', Advances in Neural Information Processing Systems (NeurIPS), 2021. (under review)
+
+**Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, ``ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense'', Advances in Neural Information Processing Systems (NeurIPS), 2021. (under review)
+
+**Ren Wang**, Tianqi Chen, ``Deep Adversarially-Enhanced k-Nearest Neighbors'', International Conference on Information and Knowledge Management (CIKM), 2021. (under review)
+
+**Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, ``Immuno-mimetic Deep Neural Networks (Immuno-Net)'', International Conference on Machine Learning Workshop on
+computational biology (ICML-WCB), 2021. (under review)
+
+[patent] **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, ``A New Tool of Detecting Trojan Neural Networks'', filed.
+
+[patent] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, `` Robust Adversarial Immune-Inspired Learning System'', filed.
+
+**Data Privacy and High-Dimensional Data Analysis**
 ------
-Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)], 2019.
+**Ren Wang**, Meng Wang, Jinjun Xiong ``Tensor Recovery from Noisy and Quantized Measurements,'' EURASIP Journal on Advances in Signal Processing, 2020.
 
-**Journal Publications**
+**Ren Wang**, Meng Wang, Jinjun Xiong ``Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery,'' EURASIP Journal on Advances in Signal Processing, 2020.
+
+**Ren Wang**, Meng Wang, Jinjun Xiong, ``Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements,'' IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
+
+Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, ``Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements,'' IEEE Transactions on Signal Processing, 2018 (**The first two authors contributed equally**)
+
+**Ren Wang**, Pengzhi Gao, Meng Wang, ``Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures'', EURASIP Journal on Advances in Signal Processing. (under review. **The first two authors contributed equally**)
+
+**Ren Wang**, Meng Wang, Jinjun Xiong, ``Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures'', Asilomar Conference on Signals, Systems and Computers, 2020.
+
+Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, ``Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids,'' Asilomar Conference on Signals, Systems and Computers, 2016.
+
+**Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, ``Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements'', Asilomar Conference on Signals, Systems and Computers, 2021. (under review)
+
+Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, ``A Low-rank Framework of PMU Data Recovery and Event Identification,'' International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
+
+Meng Wang, Joe H Chow, Pengzhi Gao, Yingshuai Hao, Wenting Li, **Ren Wang**, ``Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures,'' The 10th Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
+
+**Robustness and Uncertain Optimization on Smart Grid**
 ------
-**P. Gao**, R. Wang, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." submitted to IEEE Trans. Signal Processing, 2020.
+Libao Shi, **Ren Wang**, ``Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure,'' IET Renewable Power Generation, 2017.
 
-**P. Gao**, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932. (The first two authors contributed equally to this paper)
+**Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, ``A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties,'' International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
 
-**P. Gao**, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. Signal Processing, 2017, 65 (20): 5421-5436.
+**Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, ``Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect,'' IEEE PES General Meeting 2014.
 
-**P. Gao**, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." IEEE Trans. Signal Processing, 2016, 64 (21): 5557-5570.
+Yajie Liu, Libao Shi, **Ren Wang**, Liangzhong Yao, ``Study on the dynamic economic dispatch for a wind-hydro hybrid power system,'' IET Digital Library, 2016.
 
-**P. Gao**, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
+Yang Pan, Libao Shi, Yajie Liu, Jinqing Luo, **Ren Wang**, ``Study on optimal power flow in a wind-storage system,'' IEEE PES Asia-Pacific Power and Energy Engineering Conference, 2016.
 
 
-**Conference Publications**
-------
-Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020.
 
-M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May, 2019. 
-
-G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
-
-**P. Gao**, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April, 2018.
-
-M. Wang, J. H. Chow, **P. Gao**, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
-
-**P. Gao**, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." Proc. of Asilomar Conference on Signals, Systems, and Computers 2016. Pacific Grove, CA, Nov. 2016.
-
-**P. Gao**, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2015. Orlando, FL, Dec. 2015.
-
-M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), Kauai, Hawaii, Jan. 2015.
-
-M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
-
-**P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
-
-**Patents**
-------
-M. Wang, **P. Gao**, and J. H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.
