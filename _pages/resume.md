@@ -61,6 +61,15 @@ redirect_from:
     * IEEE SmartGridComm 2018
     * IEEE ISAP 2017
 
+**Teaching & Mentoring Experience**
+======
+* Guide Master/Undergraduate Students in AI Research, University of Michigan, 2020 - Current.
+* Introduction to Trojan Attack and Detection of Trojan Neural Networks, Guest Lecture, CSE 891: Adversarial Machine Learning, Michigan State University, 2021.
+* Adversarial Example and Robust Training, Tutorial, University of Michigan, 2021.
+* Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
+* Paper presentations in the weekly reading group, Rensselaer Polytechnic Institute, 2016 - 2020.
+* Teaching Assistant, Tsinghua University, 2014 - 2015
+
 **Skills**
 ======
 * Programming Languages:  Matlab, Python, C, C++, R, LabVIEW and SQL.
