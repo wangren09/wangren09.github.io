@@ -21,7 +21,7 @@ Ann Arbor, MI 48109-2122
 **Recent Activities**
 ------
 
-**06/2021** I will 
+**06/2021** I will lead the Michigan team in the Third Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
 
 **05/2021** I will present our work "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" at the ICLR 2021
 
@@ -32,6 +32,20 @@ Ann Arbor, MI 48109-2122
 **02/2021** I will give a talk on Adversarial Example and Robust Training, Michigan State University
 
 **01/2021** Our paper "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" is accepted by ICLR 2021
+
+**12/2020** I lead the Michigan team in the Second Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
+
+**11/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
+
+**10/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
+
+**09/2020** I am invited to give a lecture on Privacy Protection and Information Extraction, Chongqing University
+
+**08/2020** Our paper "Tensor Recovery from Noisy and Multi-Level Quantized Measurements" is accepted to EURASIP Journal on Advances in Signal Processing
+
+**07/2020** Our paper "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery" is accepted to EURASIP Journal on Advances in Signal Processing
+
+**07/2020** I successfully defended my thesis and will join University of Michigan as a Postdoc
 
 ---
 
