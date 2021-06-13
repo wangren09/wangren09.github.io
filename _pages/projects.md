@@ -45,7 +45,7 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 
 **Trojan (backdoor) attack:**
 <div  align="center">
-<img src='/images/Trojan1.png' width='500'>
+<img src='/images/Trojan1.png' width='650'>
 </div>
 
 **Frameworks and trigger detection:**
