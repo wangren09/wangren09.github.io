@@ -5,44 +5,44 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
+**Robust AI Guided by the Immune System**
 ------
-[Forte](https://github.com/asyml/forte) is a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation). Empowered by principled abstraction and design principles, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
+[RAILS](https://github.com/wangren09/RAILS) We proposed a **new deep defense framework**, Robust Adversarial Immune-inspired Learning System (RAILS), by **emulating the immune system**.
 
 <div  align="center">
-<img src='/images/forte.png' width='450' height='135'>
+<img src='/images/rails.png' width='450' height='135'>
 </div>
 
-**Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
+**Robustness on Deep Non-Parametric Learning**
 ------
-[Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
+We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
 
 <div  align="center">
-<img src='/images/texar.png' width='450' height='150'>
+<img src='/images/ask.png' width='450' height='150'>
 </div>
 
-**DyNet: The Dynamic Neural Network Toolkit**
+**Adversarial Meta-Learning**
 ------
-[DyNet](https://github.com/clab/dynet) is a neural network library developed by Carnegie Mellon University, Petuum, and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance.
+[MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning method**.
 
 <div  align="center">
-<img src='/images/dynet_logo_bg.png'>
+<img src='/images/MetaAdv.png'>
 </div>
  
-**IBM Watson Build Challenge 2017**
+**Backdoor Model Detection**
 ------
-We developed a web application with IBM Watson APIs (Retrieve and Rank) based on IBM Bluemix and implemented multiple missing data recovery and event identification algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.
+[TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** with the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
 
 <div  align="center">
-<img src='/images/Watson.png' width='500' height='300'>
+<img src='/images/TrojanNet.png' width='500' height='300'>
 </div>
 
-**Online Algorithm for PMU Data Processing (OLAP)**
+**Simultaneous Achievement of Data Privacy And Information Accuracy**
 ------
-We implemented OLAP by C# based on Project Alpha for the real-time application. Project Alpha is elite version of Open PDC. It provides a jump start to developing new products based on the Grid Solutions Framework's Time-Series Library (TSL) technology complete with all needed components for standalone time-series processing application. The code developed on Project Alpha can be run on Open PDC as action adapter.
+We developed a framework that can **protect data privacy** via adding noises and quantization. With some prior information, our method can effectively **recover** the original data in matrix/tensor forms with the **state-of-art guarantee** recovery guarantee. We further developed a **distributed algorithm** framework for **data recovery/clustering** tasks.
 
 <div  align="center">
-<img src='/images/OLAP.png' width='720' height='200'>
+<img src='/images/Data.png' width='720' height='200'>
 </div>
 
 Publication: Pengzhi Gao, Meng Wang, Scott G. Ghiocel, Joe H. Chow, Bruce Fardanesh, and George Stefopoulos. Missing Data Recovery by Exploiting Low-dimensionality in Power Systems Synchrophasor Measurements. IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
@@ -51,9 +51,9 @@ Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU d
 
 [Demo is available!](https://www.youtube.com/watch?v=vHiUh4NLQgo)
 
-**Neural Style Transfer**
+**Smart Grid Robustness and Uncertain Optimization with High-Penetration of Renewable Energy**
 ------
-We implemented a neural-style algorithm [R1] that takes three images, a content image, a style image, and the input image you want to style. The key idea of [R1] is to define two loss functions as follows. $L_{content}$ computes how different the content of two images are. $L_{style}$ computes the difference between two images in terms of their style. Then, we will transform the input image by minimizing the content and style losses with backpropagation and create an image that matches the content of the content image and the style of the style image.
+We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
 
 <div  align="center">
 <img src='/images/style_transfer_1.png'> 
@@ -65,31 +65,7 @@ We implemented a neural-style algorithm [R1] that takes three images, a content 
 
 [R1] Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. A Neural Algorithm of Artistic Style.
 
-**Mobile Eye Gaze Estimation with Deep Learning**
-------
-We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we trained our model on a much smaller dataset with 48000 trainning samples and 5000 validation samples. Each sample contains 5 items: face (64 X 64 X 3), left eye (64 X 64 X 3), right eye (64 X 64 X 3), face mask (25 X 25 X 1) and labels (x,y). Our model follows the architecture introduced in [R1], and we changed and tuned the hyper parameters (listed below) due to the different image size in our trainning dataset.
 
-<br/><img src='/images/GazeCapture.png'> 
-
-| Layer Name | Type          | Kernel Size | Stride | Padding | Output Size  |
-| --------   | ------------- | ----------- | ------ | ------- | ------------ |
-| conv1      | Convolutional |  5 X 5      |   2    |  SAME   | 64 @ 32 X 32 |
-| pool1      | Max Pooling   |  2 X 2      |   2    |  VALID  | 64 @ 16 X 16 |
-| conv2      | Convolutional |  5 X 5      |   1    |  SAME   | 64 @ 16 X 16 |
-| pool2      | Max Pooling   |  2 X 2      |   2    |  VALID  | 64 @ 8 X 8   |
-| conv3      | Convolutional |  3 X 3      |   1    |  SAME   | 128 @ 8 X 8  |
-| pool3      | Max Pooling   |  2 X 2      |   2    |  VALID  | 128 @ 4 X 4  |
-| conv4      | Convolutional |  1 X 1      |   1    |  SAME   | 64 @ 4 X 4   |
-| pool4      | Max Pooling   |  2 X 2      |   2    |  VALID  | 64 @ 2 X 2   |
-| eye_fc     | Fully Connected |           |        |         | 128          |
-| face_fc1   | Fully Connected |           |        |         | 128          |
-| face_fc2   | Fully Connected |           |        |         | 64           |
-| facegrid_fc1   | Fully Connected |           |        |         | 256      |
-| facegrid_fc2   | Fully Connected |           |        |         | 128      |
-| fc1   | Fully Connected |           |        |         | 128      |
-| fc2   | Fully Connected |           |        |         | 2        |
-
-[R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 <!-- 
 **Twitter Sentiment Analysis with Recurrent Neural Networks**
