@@ -48,15 +48,12 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 <img src='/images/Trojan1.png' width='500'>
 </div>
 
-**Frameworks:**
+**Frameworks and trigger detection:**
 <div  align="center">
-<img src='/images/Trojan2.JPG' width='500'>
-</div>
-
-**Trigger detection:**
-<div  align="center">
+<img src='/images/Trojan2.JPG' width='450'>
 <img src='/images/Trojan3.JPG' width='400'>
 </div>
+
 
 **Simultaneous Achievement of Data Privacy And Information Accuracy**
 ------
