@@ -50,8 +50,8 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 
 **Frameworks and trigger detection:**
 <div  align="center">
-<img src='/images/Trojan2.JPG' width='450'>
-<img src='/images/Trojan3.JPG' width='400'>
+<img src='/images/Trojan2.JPG' width='500'>
+<img src='/images/Trojan3.JPG' width='350'>
 </div>
 
 
