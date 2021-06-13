@@ -46,11 +46,11 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 </div>
 
 <div  align="center">
-<img src='/images/Trojan2.png' width='500'>
+<img src='/images/Trojan2.jpg' width='500'>
 </div>
 
 <div  align="center">
-<img src='/images/Trojan3.png' width='400'>
+<img src='/images/Trojan3.jpg' width='400'>
 </div>
 
 **Simultaneous Achievement of Data Privacy And Information Accuracy**
