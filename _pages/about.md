@@ -25,25 +25,25 @@ Ann Arbor, MI 48109-2122
 
 **06/2021** I will be a reviewer at ICLR 2022
 
-**05/2021** I will present our work "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" at the ICLR 2021
+**05/2021** I presented our work "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" at the ICLR 2021
 
 **05/2021** I will be a reviewer at NeurIPS 2021
 
-**03/2021** I will present our work "Robust AI Guided by the Immune System" at the Guaranteeing AI Robustness Against Deception (GARD) PI Meeting
+**03/2021** I presented our work "Robust AI Guided by the Immune System" at the Guaranteeing AI Robustness Against Deception (GARD) PI Meeting
 
 **02/2021** I am invited to give a lecture on Introduction to Trojan Attack and Detection of Trojan Neural Networks at the CSE 891: Adversarial Machine Learning, Michigan State University
 
-**02/2021** I will give a talk on Adversarial Example and Robust Training, Michigan State University
+**02/2021** I gave a talk on Adversarial Example and Robust Training, Michigan State University
 
 **01/2021** Our paper "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" is accepted by ICLR 2021
 
 **12/2020** I lead the Michigan team in the Second Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
 
-**11/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
+**11/2020** I presented our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
 
 **10/2020** I will be a reviewer at AISTATS 2021
 
-**10/2020** I will present our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
+**10/2020** I presented our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
 
 **09/2020** I am invited to give a lecture on Privacy Protection and Information Extraction, Chongqing University
 
