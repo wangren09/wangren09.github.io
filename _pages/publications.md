@@ -9,6 +9,9 @@ author_profile: true
 ------
 **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, ``On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning'', International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
 
+**Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, ``Immuno-mimetic Deep Neural Networks (Immuno-Net)'', International Conference on Machine Learning Workshop on
+computational biology (ICML-WCB), 2021.
+
 **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, ``Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases'', The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
 
 **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', Advances in Neural Information Processing Systems (NeurIPS), 2021. (under review)
@@ -16,9 +19,6 @@ author_profile: true
 **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, ``ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense'', Advances in Neural Information Processing Systems (NeurIPS), 2021. (under review)
 
 **Ren Wang**, Tianqi Chen, ``Deep Adversarially-Enhanced k-Nearest Neighbors'', International Conference on Information and Knowledge Management (CIKM), 2021. (under review)
-
-**Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, ``Immuno-mimetic Deep Neural Networks (Immuno-Net)'', International Conference on Machine Learning Workshop on
-computational biology (ICML-WCB), 2021. (under review)
 
 [patent] **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, ``A New Tool of Detecting Trojan Neural Networks'', filed.
 
