@@ -28,7 +28,7 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='500'>
+<img src='/images/ASK2.png' width='550'>
 </div>
 
 **Adversarial Meta-Learning**
