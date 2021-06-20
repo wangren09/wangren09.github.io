@@ -23,6 +23,8 @@ Ann Arbor, MI 48109-2122
 
 **06/2021** I will lead the Michigan team in the Third Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
 
+**06/2021** Our paper "Immuno-mimetic Deep Neural Networks (Immuno-Net)" is accepted by ICML-WCB, 2021
+
 **06/2021** I will be a reviewer at ICLR 2022
 
 **05/2021** I presented our work "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" at the ICLR 2021
