@@ -21,7 +21,7 @@ Ann Arbor, MI 48109-2122
 **Recent Activities**
 ------
 
-**06/2021** I will lead the Michigan team in the Third Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
+**06/2021** I will lead the Michigan team in the Third Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DARPA)
 
 **06/2021** Our paper "Immuno-mimetic Deep Neural Networks (Immuno-Net)" is accepted by the ICML-WCB, 2021
 
@@ -39,7 +39,7 @@ Ann Arbor, MI 48109-2122
 
 **01/2021** Our paper "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta learning" is accepted by ICLR 2021
 
-**12/2020** I lead the Michigan team in the Second Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DRPA)
+**12/2020** I lead the Michigan team in the Second Online Evaluation of Robust AI hosted by Two-Six Labs (GARD - DARPA)
 
 **11/2020** I presented our work "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures" at the Asilomar Conference on Signals, Systems and Computers 2020
 
