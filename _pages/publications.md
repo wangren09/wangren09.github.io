@@ -26,6 +26,8 @@ computational biology (ICML-WCB), 2021.
 
 **Data Privacy and High-Dimensional Data Analysis**
 ------
+**Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
+
 **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
 
 **Ren Wang**, Meng Wang, Jinjun Xiong, "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery", EURASIP Journal on Advances in Signal Processing, 2020.
@@ -39,8 +41,6 @@ Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from
 **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
 
 Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids", Asilomar Conference on Signals, Systems and Computers, 2016.
-
-**Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021. (under review)
 
 Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, "A Low-rank Framework of PMU Data Recovery and Event Identification", International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
 
