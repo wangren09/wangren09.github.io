@@ -71,7 +71,8 @@ redirect_from:
 * Adversarial Example and Robust Training, Tutorial, University of Michigan, 2021.
 * Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
 * Paper presentations in the weekly reading group, Rensselaer Polytechnic Institute, 2016 - 2020.
-* Teaching Assistant, Tsinghua University, 2015 - 2016
+* Teaching Assistant, Tsinghua University, 2015
+* Teaching Assistant, Tsinghua University, 2013
 
 **Skills**
 ======
