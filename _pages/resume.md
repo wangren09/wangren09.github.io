@@ -44,9 +44,11 @@ redirect_from:
     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Smart Grid
+    * IEEE Transactions on Industrial Informatics
     * IEEE Journal of Selected Topics in Signal Processing
     * Frontiers in Big Data
     * IEEE Signal Processing Letters
+    * Neurocomputing
     * CSEE Journal of Power and Energy Systems
 * Conference:
     * ICLR 2022
@@ -54,6 +56,7 @@ redirect_from:
     * ICML 2021
     * AAAI 2021
     * AAAI 2021
+    * 3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining at KDD 2021
     * ICML 2020
     * Workshop on Adversarial Learning Methods at KDD 2020
     * ICPAI 2020
@@ -68,7 +71,7 @@ redirect_from:
 * Adversarial Example and Robust Training, Tutorial, University of Michigan, 2021.
 * Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
 * Paper presentations in the weekly reading group, Rensselaer Polytechnic Institute, 2016 - 2020.
-* Teaching Assistant, Tsinghua University, 2014 - 2015
+* Teaching Assistant, Tsinghua University, 2015 - 2016
 
 **Skills**
 ======
