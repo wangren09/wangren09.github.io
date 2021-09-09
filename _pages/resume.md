@@ -31,9 +31,9 @@ redirect_from:
 * * IBM/RPI AI Horizons Fellowship (top 10%), 2019.
 * Rensselaer’s Founders Award of Excellence (top 1%), 2019.
 * IBM Mass Lab 2019 Intern Showcase Best of Show 3rd Place, 2019.
-* Comprehensive Scholarship of Tsinghua University (top 5%), 2015.
+* Comprehensive Fellowship of Tsinghua University (top 5%), 2015.
 * Excellent Intern Award, China Southern Power Grid (3/35), 2015
-* Guanghua Scholarship (top 10%), 2014.
+* Guanghua Fellowship (top 10%), 2014.
 * Advanced Sports Individual of Tsinghua University, 2014.
 * First Class Award of the 3rd Digital System Design and Innovative Competition of Tsinghua University, 2012.
 * Technological Innovation Scholarship of Tsinghua University, 2012.
