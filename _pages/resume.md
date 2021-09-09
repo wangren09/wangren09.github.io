@@ -28,7 +28,7 @@ redirect_from:
 
 **Awards**
 ======
-* * IBM/RPI AI Horizons Fellowship (top 10%), 2019.
+* IBM/RPI AI Horizons Fellowship (top 10%), 2019.
 * Rensselaer’s Founders Award of Excellence (top 1%), 2019.
 * IBM Mass Lab 2019 Intern Showcase Best of Show 3rd Place, 2019.
 * Comprehensive Fellowship of Tsinghua University (top 5%), 2015.
