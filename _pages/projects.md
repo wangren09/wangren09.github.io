@@ -22,13 +22,13 @@ author_profile: true
 
 **Results and Visualization:**
 <div  align="center">
-<img src='/images/ASK1.png' width='450'>
-<img src='/images/ASK3.jpg' width='500'>
+<img src='/images/ASK1.png' width='225'>
+<img src='/images/ASK3.jpg' width='250'>
 </div>
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='550'>
+<img src='/images/ASK2.png' width='275'>
 </div>
 
 **Towards Robustness in Meta-Learning Against Test Phase Attacks**
@@ -36,22 +36,17 @@ author_profile: true
 [MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
 
 <div  align="center">
-<img src='/images/MetaAdv.png' width='650'>
+<img src='/images/MetaAdv.png' width='325'>
 </div>
  
 **Backdoor Model Detection Under Data-Scarce Regime**
 ------
 [TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** and reveal the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
 
-**Trojan (backdoor) attack:**
+**Trojan (backdoor) attack, frameworks, and trigger detection:**
 <div  align="center">
-<img src='/images/Trojan1.png' width='650'>
-</div>
-
-**Frameworks and trigger detection:**
-<div  align="center">
-<img src='/images/Trojan2.JPG' width='500'>
-<img src='/images/Trojan3.JPG' width='350'>
+<img src='/images/DFTND_Framework.png' width='250'>
+<img src='/images/Trojan3.JPG' width='200'>
 </div>
 
 
@@ -61,12 +56,13 @@ We developed a framework that can **protect data privacy** via adding noises and
 
 **Privacy protection:**
 <div  align="center">
-<img src='/images/DP1.png' width='650'>
+<img src='/images/Quantization_tensor.png' width='300'>
+  <img src='/images/Quantization_multiple.png' width='300'>
 </div>
 
 **Information extraction with prior knowledge:**
 <div  align="center">
-<img src='/images/DP2.png' width='500'>
+<img src='/images/DP2.png' width='250'>
 </div>
 
 
@@ -75,8 +71,8 @@ We developed a framework that can **protect data privacy** via adding noises and
 We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
 
 <div  align="center">
-<img src='/images/smartg1.jpg' width='500'>
-<img src='/images/smartg2.jpg' width='400'>
+<img src='/images/smartg1.jpg' width='250'>
+<img src='/images/smartg2.jpg' width='200'>
 </div>
 
 
