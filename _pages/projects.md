@@ -10,8 +10,8 @@ author_profile: true
 [RAILS](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system.
 
 <p align="center">
-  <img src="/images/RAILS_Arch.png" width="450" />
-  <img src="/images/RAILS_result.png" width="400" /> 
+  <img src="/images/RAILS_Arch.png" width="225" />
+  <img src="/images/RAILS_result.png" width="200" /> 
 </p>
 
 
@@ -45,7 +45,7 @@ author_profile: true
 
 **Trojan (backdoor) attack, frameworks, and trigger detection:**
 <div  align="center">
-<img src='/images/DFTND_Framework.png' width='250'>
+<img src='/images/DFTND_Framework.png' width='350'>
 <img src='/images/Trojan3.JPG' width='200'>
 </div>
 
@@ -56,8 +56,7 @@ We developed a framework that can **protect data privacy** via adding noises and
 
 **Privacy protection:**
 <div  align="center">
-<img src='/images/Quantization_tensor.png' width='300'>
-  <img src='/images/Quantization_multiple.png' width='300'>
+<img src='/images/Quantization_tensor.png' width='400'>
 </div>
 
 **Information extraction with prior knowledge:**
