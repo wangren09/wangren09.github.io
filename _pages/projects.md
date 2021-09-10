@@ -7,7 +7,7 @@ author_profile: true
 
 **Robust AI Guided by the Immune System**
 ------
-[RAILS](https://github.com/wangren09/RAILS) We proposed a **new deep defense framework**, Robust Adversarial Immune-inspired Learning System (RAILS), by **emulating the immune system**.
+[RAILS](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system.
 
 <p align="center">
   <img src="/images/RAILS_Arch.png" width="450" />
@@ -18,7 +18,7 @@ author_profile: true
 
 **Robustness on Deep Non-Parametric Learning**
 ------
-We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
+[ASK](https://github.com/wangren09/ASK) We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
 
 **Results and Visualization:**
 <div  align="center">
@@ -31,17 +31,17 @@ We generated a novel **Adversarial Soft kNN Attack**, which has **superior attac
 <img src='/images/ASK2.png' width='550'>
 </div>
 
-**Adversarial Meta-Learning**
+**Towards Robustness in Meta-Learning Against Test Phase Attacks**
 ------
-[MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning method**.
+[MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
 
 <div  align="center">
 <img src='/images/MetaAdv.png' width='650'>
 </div>
  
-**Backdoor Model Detection**
+**Backdoor Model Detection Under Data-Scarce Regime**
 ------
-[TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** with the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
+[TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** and reveal the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
 
 **Trojan (backdoor) attack:**
 <div  align="center">
