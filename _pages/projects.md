@@ -11,7 +11,7 @@ author_profile: true
 
 <p align="center">
   <img src="/images/RAILS_Arch.png" width="335" />
-  <img src="/images/RAILS_result.png" width="330" /> 
+  <img src="/images/RAILS_result.png" width="310" /> 
 </p>
 
 
@@ -45,8 +45,8 @@ author_profile: true
 
 **Trojan (backdoor) attack, frameworks, and trigger detection:**
 <div  align="center">
-<img src='/images/DFTND_Framework.png' width='350'>
-<img src='/images/Trojan3.JPG' width='200'>
+<img src='/images/DFTND_Framework.png' width='400'>
+<img src='/images/Trojan3.JPG' width='220'>
 </div>
 
 
@@ -56,12 +56,12 @@ We developed a framework that can **protect data privacy** via adding noises and
 
 **Privacy protection:**
 <div  align="center">
-<img src='/images/Quantization_tensor.png' width='400'>
+<img src='/images/Quantization_tensor.png' width='550'>
 </div>
 
 **Information extraction with prior knowledge:**
 <div  align="center">
-<img src='/images/DP2.png' width='250'>
+<img src='/images/DP2.png' width='330'>
 </div>
 
 
