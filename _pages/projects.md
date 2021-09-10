@@ -22,13 +22,13 @@ author_profile: true
 
 **Results and Visualization:**
 <div  align="center">
-<img src='/images/ASK1.png' width='225'>
-<img src='/images/ASK3.jpg' width='300'>
+<img src='/images/ASK1.png' width='335'>
+<img src='/images/ASK3.jpg' width='450'>
 </div>
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='300'>
+<img src='/images/ASK2.png' width='450'>
 </div>
 
 **Towards Robustness in Meta-Learning Against Test Phase Attacks**
@@ -36,7 +36,7 @@ author_profile: true
 [MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
 
 <div  align="center">
-<img src='/images/MetaAdv.png' width='325'>
+<img src='/images/MetaAdv.png' width='475'>
 </div>
  
 **Backdoor Model Detection Under Data-Scarce Regime**
