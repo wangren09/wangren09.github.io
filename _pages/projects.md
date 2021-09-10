@@ -7,7 +7,7 @@ author_profile: true
 
 **Robust AI Guided by the Immune System**
 ------
-[RAILS](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system.
+[RAILS:](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system.
 
 <p align="center">
   <img src="/images/RAILS_Arch.png" width="335" />
@@ -18,7 +18,7 @@ author_profile: true
 
 **Robustness on Deep Non-Parametric Learning**
 ------
-[ASK](https://github.com/wangren09/ASK) We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
+[ASK:](https://github.com/wangren09/ASK) We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
 
 **Results and Visualization:**
 <div  align="center">
@@ -33,7 +33,7 @@ author_profile: true
 
 **Towards Robustness in Meta-Learning Against Test Phase Attacks**
 ------
-[MetaAdv](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
+[MetaAdv:](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
 
 <div  align="center">
 <img src='/images/MetaAdv.png' width='475'>
@@ -41,7 +41,7 @@ author_profile: true
  
 **Backdoor Model Detection Under Data-Scarce Regime**
 ------
-[TrojanNet](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** and reveal the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
+[TrojanNet:](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** and reveal the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
 
 **Trojan (backdoor) attack, frameworks, and trigger detection:**
 <div  align="center">
@@ -52,7 +52,7 @@ author_profile: true
 
 **Simultaneous Achievement of Data Privacy And Information Accuracy**
 ------
-We developed a framework that can **protect data privacy** via adding noises and quantization. With some prior information, our method can effectively **recover** the original data in matrix/tensor forms with the **state-of-art guarantee** recovery guarantee. We further developed a **distributed algorithm** framework for **data recovery/clustering** tasks.
+We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
 
 **Privacy protection:**
 <div  align="center">
