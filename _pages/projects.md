@@ -28,7 +28,7 @@ author_profile: true
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='450'>
+<img src='/images/ASK2.png' width='500'>
 </div>
 
 **Towards Robustness in Meta-Learning Against Test Phase Attacks**
@@ -46,7 +46,7 @@ author_profile: true
 **Trojan (backdoor) attack, frameworks, and trigger detection:**
 <div  align="center">
 <img src='/images/DFTND_Framework.png' width='400'>
-<img src='/images/Trojan3.JPG' width='220'>
+<img src='/images/Trojan3.JPG' width='240'>
 </div>
 
 
