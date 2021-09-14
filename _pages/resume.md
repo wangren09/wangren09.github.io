@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* Trustworthy Machine Learning; Data Privacy and High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Robustness and Optimization on Smart Grid
+* Trustworthy Machine Learning (model robustness and data privacy); High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Robustness and Optimization on Smart Grid
 
 **Education**
 ======
