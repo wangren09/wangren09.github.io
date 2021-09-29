@@ -14,7 +14,7 @@ computational biology (ICML-WCB), 2021.
 
 [C3] **Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
 
-[C4] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", Advances in Neural Information Processing Systems (NeurIPS), 2021. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
+[C4] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", AAAI, 2021. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
 
 [C5] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', 2021. (under review) (arXiv: https://arxiv.org/abs/2107.02840)
 
