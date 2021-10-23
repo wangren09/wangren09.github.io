@@ -65,6 +65,17 @@ We developed a **data privacy preserving framework** through quantization. We fu
 </div>
 
 
+**Multi-Trigger-Key: Privacy Protection in the Model Inference Phase**
+------
+We introduced a **Multi-Trigger-Key framework** that associates each protected task with a specifically designed trigger-key. The true information can be revealed by adding the trigger-key if the user is authorized.
+
+**Privacy protection:**
+<div  align="center">
+<img src='/images/multi_trig_key.png' width='550'>
+</div>
+
+
+
 **Smart Grid Robustness and Uncertain Optimization with High-Penetration of Renewable Energy**
 ------
 We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
