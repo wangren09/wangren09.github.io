@@ -11,7 +11,7 @@ author_profile: true
 
 **Comparions Between Simplified Immune System and RAILS Computational Workflow:**
 <div  align="center">
-<img src='/images/bio_comp_v5.png' width='350'>
+<img src='/images/bio_comp_v5.png' width='450'>
 </div>
 
 **Performance and Architecture:**
