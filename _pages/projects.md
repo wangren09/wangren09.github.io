@@ -11,7 +11,7 @@ author_profile: true
 
 **Comparions Between Simplified Immune System and RAILS Computational Workflow:**
 <div  align="center">
-<img src='/images/bio_comp_v5.png' width='500'>
+<img src='/images/bio_comp_v5.png' width='550'>
 </div>
 
 **Performance and Architecture:**
@@ -56,7 +56,7 @@ author_profile: true
 </div>
 
 
-**Simultaneous Achievement of Data Privacy And Information Accuracy**
+**Simultaneous Achievement of Data Privacy And Information Accuracy: Provable Privacy Protection in the Data Collection/Processing Phase**
 ------
 We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
 
@@ -75,9 +75,9 @@ We developed a **data privacy preserving framework** through quantization. We fu
 ------
 We introduced a **Multi-Trigger-Key framework** that associates each protected task with a specifically designed trigger-key. The true information can be revealed by adding the trigger-key if the user is authorized.
 
-**Privacy protection:**
+**Multi-Trigger-Key Framework:**
 <div  align="center">
-<img src='/images/multi_trig_key.png' width='400'>
+<img src='/images/multi_trig_key.png' width='450'>
 </div>
 
 
