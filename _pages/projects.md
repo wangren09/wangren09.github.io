@@ -17,7 +17,7 @@ author_profile: true
 **Performance and Architecture:**
 <p align="center">
   <img src="/images/RAILS_Arch.png" width="335" />
-  <img src="/images/radar_new.png" width="310" /> 
+  <img src="/images/radar_new.png" width="370" /> 
 </p>
 
 
