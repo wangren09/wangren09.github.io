@@ -21,6 +21,8 @@ Ann Arbor, MI 48109-2122
 **Recent Activities**
 ------
 
+I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), University of Michigan, Winter 2022
+
 **07/2021** I presented our work "Immuno-mimetic Deep Neural Networks (Immuno-Net)" at the ICML-WCB 2021
 
 **07/2021** Our paper "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements" is accepted by Asilomar 2021
