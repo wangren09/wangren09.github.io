@@ -7,7 +7,7 @@ author_profile: true
 
 **Robust AI Guided by the Immune System**
 ------
-[RAILS:](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system.
+[RAILS:](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system. Here is a brief introduction to RAILS and a demo of RAILS [Intro and Demo:](https://drive.google.com/file/d/1vnOMEo4iOHjn7bU-WWwoh6nD8Ugtd7wD/view?usp=sharing).
 
 **Comparions Between Simplified Immune System and RAILS Computational Workflow:**
 <div  align="center">
