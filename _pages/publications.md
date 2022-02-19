@@ -14,50 +14,46 @@ computational biology (ICML-WCB), 2021.
 
 [C3] **Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
 
-[C4] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", AAAI, 2022. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
+[C4] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", 2022. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
 
-[C5] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", ICLR, 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
+[C5] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
 
-[C6] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', 2021. (under review) (arXiv: https://arxiv.org/abs/2107.02840)
+[C6] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
 
-[C7] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
+[C7] **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
 
-[C8] **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
+[C8] **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
 
-[C9] **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
+[C9] Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, "A Low-rank Framework of PMU Data Recovery and Event Identification", International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
 
-[C10] Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, "A Low-rank Framework of PMU Data Recovery and Event Identification", International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
+[C10] Meng Wang, Joe H Chow, Pengzhi Gao, Yingshuai Hao, Wenting Li, **Ren Wang**, "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures", The 10th Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
 
-[C11] Meng Wang, Joe H Chow, Pengzhi Gao, Yingshuai Hao, Wenting Li, **Ren Wang**, "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures", The 10th Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
+[C11] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids", Asilomar Conference on Signals, Systems and Computers, 2016.
 
-[C12] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids", Asilomar Conference on Signals, Systems and Computers, 2016.
+[C12] Yajie Liu, Libao Shi, **Ren Wang**, Liangzhong Yao, "Study on the dynamic economic dispatch for a wind-hydro hybrid power system", IET Digital Library, 2016.
 
-[C13] Yajie Liu, Libao Shi, **Ren Wang**, Liangzhong Yao, "Study on the dynamic economic dispatch for a wind-hydro hybrid power system", IET Digital Library, 2016.
+[C13] Yang Pan, Libao Shi, Yajie Liu, Jinqing Luo, **Ren Wang**, "Study on optimal power flow in a wind-storage system", IEEE PES Asia-Pacific Power and Energy Engineering Conference, 2016.
 
-[C14] Yang Pan, Libao Shi, Yajie Liu, Jinqing Luo, **Ren Wang**, "Study on optimal power flow in a wind-storage system", IEEE PES Asia-Pacific Power and Energy Engineering Conference, 2016.
+[C14] **Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, "A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties", International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
 
-[C15] **Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, "A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties", International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
-
-[C16] **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
+[C15] **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
 
 
 **Journal Publications**
 ------
+[J1] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
 
-[J1] **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
+[J2] **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
 
-[J2] **Ren Wang**, Meng Wang, Jinjun Xiong, "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery", EURASIP Journal on Advances in Signal Processing, 2020.
+[J3] **Ren Wang**, Meng Wang, Jinjun Xiong, "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery", EURASIP Journal on Advances in Signal Processing, 2020.
 
-[J3] **Ren Wang**, Meng Wang, Jinjun Xiong, "Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements", IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
+[J4] **Ren Wang**, Meng Wang, Jinjun Xiong, "Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements", IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
 
-[J4] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements", IEEE Transactions on Signal Processing, 2018 (**The first two authors contributed equally**)
+[J5] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements", IEEE Transactions on Signal Processing, 2018 (**The first two authors contributed equally**)
 
-[J5] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", EURASIP Journal on Advances in Signal Processing. (under review. **The first two authors contributed equally**)
+[J6] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", EURASIP Journal on Advances in Signal Processing. (under review. **The first two authors contributed equally**)
 
-[J6] Libao Shi, **Ren Wang**, "Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure", IET Renewable Power Generation, 2017.
-
-
-
+[J7] Libao Shi, **Ren Wang**, "Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure", IET Renewable Power Generation, 2017.
 
 
 
