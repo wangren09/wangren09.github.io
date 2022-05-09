@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor (start from 08/18/2022)<br/>
+Assistant Professor (start from Aug. 2022)<br/>
 Department of Electrical and Computer Engineering<br/>
 Illinois Institute of Technology, Chicago, IL 60616<br/>
 Email: wangren348117609 (you can make the "at") gmail (dot) com
