@@ -26,6 +26,15 @@ redirect_from:
 * 2014 - 2015:        Research Intern, China Southern Power Grid.
 * 2012 - 2012:        Research Intern, ABB China.
 
+**Teaching Experience**
+======
+* Instructor, EECS 452: Digital Signal Processing Design Laboratory, University of Michigan, Winter 2022.
+* Guest Lecture, Trustworthy Machine Learning, CS 291A: Special Topics on Adversarial Machine Learning, UC Santa Barbara, 2022.
+* Guest Lecture, RAILS: Robust Immune-inspired Learning System, CSE 891: Adversarial Machine Learning, Michigan State University, 2022.
+* Guest Lecture, Introduction to Trojan Attack and Detection of Trojan Neural Networks, CSE 891: Adversarial Machine Learning, Michigan State University, 2022.
+* Guest Lecture, Introduction to Trojan Attack and Detection of Trojan Neural Networks, CSE 891: Adversarial Machine Learning, Michigan State University, 2021.
+* Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
+
 **Awards**
 ======
 * IBM/RPI AI Horizons Scholarship, 2019.
@@ -52,6 +61,7 @@ redirect_from:
     * Neurocomputing
     * CSEE Journal of Power and Energy Systems
 * Conference:
+    * 1st Workshop on New Frontiers in Adversarial Machine Learning at ICML'22
     * ICLR 2022
     * NeurIPS 2021
     * ICML 2021
@@ -65,11 +75,9 @@ redirect_from:
     * IEEE SmartGridComm 2018
     * IEEE ISAP 2017
 
-**Teaching & Mentoring Experience**
+**Mentoring Experience**
 ======
 * Guide Master/Undergraduate Students in AI Research, University of Michigan, 2020 - Current.
-* Introduction to Trojan Attack and Detection of Trojan Neural Networks, Guest Lecture, CSE 891: Adversarial Machine Learning, Michigan State University, 2021.
-* Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
 
 **Skills**
 ======
