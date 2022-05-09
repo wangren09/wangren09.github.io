@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* Trustworthy Machine Learning (model robustness and data privacy); High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Robustness and Optimization on Smart Grid
+* Trustworthy Machine Learning ; High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Smart Grid
 
 **Education**
 ======
@@ -19,21 +19,20 @@ redirect_from:
 * 2013 - 2016: Tsinghua University, Beijing, China. M.S. in Electrical Engineering.
 * 2009 - 2013: Tsinghua University, Beijing, China. B.S. in Electrical Engineering.
 
-**Work and Research Experience**
+**Research Experience**
 ======
-* 2020 - present:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
-* 2019 - 2020:        Research Intern, IBM Research AI.
+* 2020 - 2022:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
+* 2019 - 2020:        Research In , IBM Research AI.
 * 2014 - 2015:        Research Intern, China Southern Power Grid.
 * 2012 - 2012:        Research Intern, ABB China.
 
 **Awards**
 ======
-* IBM/RPI AI Horizons Fellowship (top 10%), 2019.
-* Rensselaer’s Founders Award of Excellence (top 1%), 2019.
+* IBM/RPI AI Horizons Scholarship, 2019.
+* Rensselaer’s Founders Award of Excellence, 2019.
 * IBM Mass Lab 2019 Intern Showcase Best of Show 3rd Place, 2019.
-* Comprehensive Fellowship of Tsinghua University (top 5%), 2015.
-* Excellent Intern Award, China Southern Power Grid (3/35), 2015
-* Guanghua Fellowship (top 10%), 2014.
+* Comprehensive Fellowship of Tsinghua University, 2015.
+* Guanghua Fellowship, 2014.
 * Advanced Sports Individual of Tsinghua University, 2014.
 * First Class Award of the 3rd Digital System Design and Innovative Competition of Tsinghua University, 2012.
 * Technological Innovation Scholarship of Tsinghua University, 2012.
@@ -44,6 +43,7 @@ redirect_from:
 * Journal:
     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
     * IEEE Transactions on Signal Processing
+    * IEEE Transactions on Image Processing
     * IEEE Transactions on Smart Grid
     * IEEE Transactions on Industrial Informatics
     * IEEE Journal of Selected Topics in Signal Processing
@@ -69,11 +69,7 @@ redirect_from:
 ======
 * Guide Master/Undergraduate Students in AI Research, University of Michigan, 2020 - Current.
 * Introduction to Trojan Attack and Detection of Trojan Neural Networks, Guest Lecture, CSE 891: Adversarial Machine Learning, Michigan State University, 2021.
-* Adversarial Example and Robust Training, Tutorial, University of Michigan, 2021.
 * Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
-* Paper presentations in the weekly reading group, Rensselaer Polytechnic Institute, 2016 - 2020.
-* Teaching Assistant, Tsinghua University, 2015
-* Teaching Assistant, Tsinghua University, 2013
 
 **Skills**
 ======
