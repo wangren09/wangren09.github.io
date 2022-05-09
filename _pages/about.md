@@ -11,11 +11,13 @@ redirect_from:
 
 
 **Openings**
+------
 Prospective graduate students: I am looking for highly motivated PhD/Master students with background in artificial intelligence/machine learning/signal processing/statistics/optimization/power system. Please contact me along with your CV and transcript if you are interested.
  
 Externship/internship/visiting students: I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email.
 
 **Short Bio**
+------
 Ren Wang was a postdoctoral research fellow (and a lecturer) in [the Department of Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He received his Ph.D degree from [the Department of Electrical, Computer, and Systems Engineering](https://www.ecse.rpi.edu) at [Rensselaer Polytechnic Institute](https://www.rpi.edu). He received both his bachelor's degree and master's degree in Electrical Engineering in 2013 and 2016 from [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research interests include Trustworthy Machine Learning, High-Dimensional Data Analysis, Bio-Inspired Machine Learning, and Smart Grid.
 
 
