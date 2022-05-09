@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-
+Assistant Professor (start from 08/18/2022), Department of Electrical and Computer Engineering<br/>
+Illinois Institute of Technology, Chicago, IL 60616
+Email: wangren348117609 (you can make the "at") gmail (dot) com
 
 **Openings**
 ------
-Prospective graduate students: I am looking for highly motivated PhD/Master students with background in artificial intelligence/machine learning/signal processing/statistics/optimization/power system. Please contact me along with your CV and transcript if you are interested.
+Prospective graduate students: I am looking for highly motivated PhD/Master students with background in Machine Learning/Signal Processing/Mathematics/Optimization/Power System. Please contact me along with your CV and transcript if you are interested.
  
 Externship/internship/visiting students: I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email.
 
@@ -24,12 +26,12 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in [the Department 
 <!---I am a postdoctoral research fellow (and a lecturer) in [the Department of Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/) with Dr. [Alfred Hero](https://hero.engin.umich.edu/). I received my Ph.D degree from [the Department of Electrical, Computer, and Systems Engineering](https://www.ecse.rpi.edu) at [Rensselaer Polytechnic Institute](https://www.rpi.edu) with Dr. [Meng Wang](https://ecse.rpi.edu/~wang/). I received both my bachelor's degree and master's degree in Electrical Engineering in 2013 and 2016 from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am also closely collaborating with [Dr. Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu) from University of Michigan, [Dr. Sijia Liu](https://lsjxjtu.github.io/index.html) from Michigan State Univeristy, [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage), [Dr. Jinjun Xiong](https://researcher.watson.ibm.com/researcher/view.php?person=us-jinjun) from IBM Research. My research interests include Trustworthy Machine Learning, High-Dimensional Data Analysis, Bio-Inspired Machine Learning, and Robustness/Optimization on Smart Grid.--->
 
 
-**Contact**
+<!---**Contact**--->
 ------
-Name: Ren Wang (王韧)  
-Email: renwang (you can make the "at") umich (dot) edu  
-EECS Building, 1301 Beal Avenue
-Ann Arbor, MI 48109-2122
+<!---Name: Ren Wang (王韧)--->  
+<!---Email: renwang (you can make the "at") umich (dot) edu--->  
+<!---EECS Building, 1301 Beal Avenue--->
+<!---Ann Arbor, MI 48109-2122--->
 
 **Recent Activities**
 ------
