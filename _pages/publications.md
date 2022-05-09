@@ -5,6 +5,17 @@ title: "Publications"
 author_profile: true
 ---
 
+**Under review**
+
+[C] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", 2022. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
+
+[C] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
+
+[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
+
+[J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
+
+[J] Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Perturbation-Robust Neural Networks for Stochastic Power Grids", (under review)
 
 
 **Journal Publications**
@@ -50,17 +61,6 @@ computational biology (ICML-WCB), 2021.
 [C12] **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
 
 
-**Under review**
-
-[C] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", 2022. (under review) (arXiv: http://arxiv.org/abs/2106.14300)
-
-[C] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
-
-[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
-
-[J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
-
-[J] Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Perturbation-Robust Neural Networks for Stochastic Power Grids", (under review)
 
 **Patents**
 ------
