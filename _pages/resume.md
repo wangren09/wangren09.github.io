@@ -22,7 +22,7 @@ redirect_from:
 **Research Experience**
 ======
 * 2020 - 2022:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
-* 2019 - 2020:        Research In , IBM Research AI.
+* 2019 - 2020:        Research In-Residence, IBM Research AI.
 * 2014 - 2015:        Research Intern, China Southern Power Grid.
 * 2012 - 2012:        Research Intern, ABB China.
 
