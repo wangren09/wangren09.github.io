@@ -37,7 +37,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 **Recent Activities**
 ------
 
-I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), University of Michigan, Winter 2022
+<!---I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), University of Michigan, Winter 2022
 
 **07/2021** I presented our work "Immuno-mimetic Deep Neural Networks (Immuno-Net)" at the ICML-WCB 2021
 
@@ -75,7 +75,7 @@ I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), Un
 
 **07/2020** Our paper "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery" is accepted to EURASIP Journal on Advances in Signal Processing
 
-**07/2020** I successfully defended my thesis and will join University of Michigan as a Postdoc
+**07/2020** I successfully defended my thesis and will join University of Michigan as a Postdoc --->
 
 ---
 
