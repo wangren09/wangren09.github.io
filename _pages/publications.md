@@ -65,10 +65,10 @@ computational biology (ICML-WCB), 2021.
 **Patents**
 ------
 
-[P1] Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Gauyuan Zhang, Meng Wang, **Ren Wang**, "Detecting Trojan Neural Networks", US Patent US20220053005A1
+[P1] "Detecting Trojan Neural Networks", US Patent US20220053005A1
 
-[P2] Alfred Hero, Indika Rajapakse, **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, "Robust Adversarial Immune-Inspired Learning System", Provisional US Patent Application filed on Dec. 10 2020. Ref: 2021-141-01; HDP Ref.: 2115-008228-US-PS1
+[P2] "Robust Adversarial Immune-Inspired Learning System", Provisional US Patent Application filed on Dec. 10 2020. Ref: 2021-141-01; HDP Ref.: 2115-008228-US-PS1
 
-[P3] Liangzhong Yao, Libao Shi, [et al, including **Ren Wang**, "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
+[P3] "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
 
 
