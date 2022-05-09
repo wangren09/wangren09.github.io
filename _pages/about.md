@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow (and a lecturer) in [the Department of Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/) with Dr. [Alfred Hero](https://hero.engin.umich.edu/). I received my Ph.D degree from [the Department of Electrical, Computer, and Systems Engineering](https://www.ecse.rpi.edu) at [Rensselaer Polytechnic Institute](https://www.rpi.edu) with Dr. [Meng Wang](https://ecse.rpi.edu/~wang/). I received both my bachelor's degree and master's degree in Electrical Engineering in 2013 and 2016 from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am also closely collaborating with [Dr. Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu) from University of Michigan, [Dr. Sijia Liu](https://lsjxjtu.github.io/index.html) from Michigan State Univeristy, [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage), [Dr. Jinjun Xiong](https://researcher.watson.ibm.com/researcher/view.php?person=us-jinjun) from IBM Research. My research interests include Trustworthy Machine Learning, High-Dimensional Data Analysis, Bio-Inspired Machine Learning, and Robustness/Optimization on Smart Grid.
+
+
+**Openings**
+Prospective graduate students: I am looking for highly motivated PhD/Master students with background in artificial intelligence/machine learning/signal processing/statistics/optimization/power system. Please contact me along with your CV and transcript if you are interested.
+ 
+Externship/internship/visiting students: I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email.
+
+**Short Bio**
+Ren Wang was a postdoctoral research fellow (and a lecturer) in [the Department of Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He received his Ph.D degree from [the Department of Electrical, Computer, and Systems Engineering](https://www.ecse.rpi.edu) at [Rensselaer Polytechnic Institute](https://www.rpi.edu). He received both his bachelor's degree and master's degree in Electrical Engineering in 2013 and 2016 from [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research interests include Trustworthy Machine Learning, High-Dimensional Data Analysis, Bio-Inspired Machine Learning, and Smart Grid.
+
+
+<!---I am a postdoctoral research fellow (and a lecturer) in [the Department of Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/) with Dr. [Alfred Hero](https://hero.engin.umich.edu/). I received my Ph.D degree from [the Department of Electrical, Computer, and Systems Engineering](https://www.ecse.rpi.edu) at [Rensselaer Polytechnic Institute](https://www.rpi.edu) with Dr. [Meng Wang](https://ecse.rpi.edu/~wang/). I received both my bachelor's degree and master's degree in Electrical Engineering in 2013 and 2016 from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am also closely collaborating with [Dr. Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu) from University of Michigan, [Dr. Sijia Liu](https://lsjxjtu.github.io/index.html) from Michigan State Univeristy, [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage), [Dr. Jinjun Xiong](https://researcher.watson.ibm.com/researcher/view.php?person=us-jinjun) from IBM Research. My research interests include Trustworthy Machine Learning, High-Dimensional Data Analysis, Bio-Inspired Machine Learning, and Robustness/Optimization on Smart Grid.--->
 
 
 **Contact**
