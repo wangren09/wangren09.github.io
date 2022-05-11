@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* Trustworthy Machine Learning ; High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Smart Grid
+* Trustworthy Machine Learning; High-Dimensional Data Analysis; Smart Grid
 
 **Education**
 ======
@@ -22,9 +22,9 @@ redirect_from:
 **Research Experience**
 ======
 * 2020 - 2022:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
-* 2019 - 2020:        Research In-Residence, IBM Research AI.
-* 2014 - 2015:        Research Intern, China Southern Power Grid.
-* 2012 - 2012:        Research Intern, ABB China.
+* 2019 - 2020:     Research In-Residence, IBM Research AI.
+* 2014 - 2015:     Research Intern, China Southern Power Grid.
+* 2012 - 2012:     Research Intern, ABB China.
 
 **Teaching Experience**
 ======
