@@ -15,9 +15,9 @@ Email: wangren348117609 (you can make the "at") gmail (dot) com
 
 **Openings**
 ------
-Prospective graduate students: I am looking for highly motivated PhD/Master students with background in Machine Learning/Signal Processing/Mathematics/Optimization/Power System. Please contact me along with your CV and transcript if you are interested.
+**Prospective graduate students:** I am looking for highly motivated PhD/Master students with background in Artificial Intelligence/Machine Learning/Signal Processing/Mathematics/Optimization/Power System. Please contact me along with your CV and transcript if you are interested.
  
-Externship/internship/visiting students: I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email.
+**Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email.
 
 **Short Bio**
 ------
