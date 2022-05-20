@@ -11,7 +11,7 @@ redirect_from:
 Assistant Professor (start from Aug. 2022)<br/>
 Department of Electrical and Computer Engineering<br/>
 Illinois Institute of Technology, Chicago, IL 60616<br/>
-Email: wangren348117609 (you can make the "at") gmail (dot) com
+Email: rwang74 (you can make the "at") iit (dot) edu
 
 **Openings**
 ------
