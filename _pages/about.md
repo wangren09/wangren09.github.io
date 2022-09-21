@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor (start from Aug. 2022)<br/>
+Assistant Professor<br/>
 Department of Electrical and Computer Engineering<br/>
 Illinois Institute of Technology, Chicago, IL 60616<br/>
 Email: rwang74 (you can make the "at") iit (dot) edu
