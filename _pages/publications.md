@@ -18,9 +18,9 @@ author_profile: true
 
 **Journal Publications**
 ------
-[J1] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Alfred Hero, Indika Rajapakse, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
+[J1] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Indika Rajapakse, Alfred Hero, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
 
-[J2] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Alfred Hero, Indika Rajapakse, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
+[J2] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Indika Rajapakse, Alfred Hero, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
 
 [J3] **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
 
