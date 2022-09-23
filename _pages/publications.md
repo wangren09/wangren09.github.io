@@ -15,8 +15,6 @@ author_profile: true
 
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
 
-[J] Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Perturbation-Robust Neural Networks for Stochastic Power Grids", (under review)
-
 
 **Journal Publications**
 ------
