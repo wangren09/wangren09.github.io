@@ -67,7 +67,7 @@ computational biology (ICML-WCB), 2021.
 
 [P1] "Detecting Trojan Neural Networks", US Patent US20220053005A1
 
-[P2] "Robust Adversarial Immune-Inspired Learning System", Provisional US Patent Application filed on Dec. 10 2020. Ref: 2021-141-01; HDP Ref.: 2115-008228-US-PS1
+[P2] "Robust Adversarial Immune-Inspired Learning System", US Patent US20220188642A1
 
 [P3] "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
 
