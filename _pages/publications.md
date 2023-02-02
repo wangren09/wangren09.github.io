@@ -39,7 +39,7 @@ author_profile: true
 
 **Conference Publications**
 ------
-[C1] Soumyadeep Pal, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023.
+[C1] Soumyadeep Pal, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Candidate:](https://safeai.webs.upv.es/index.php/best-paper-award/))
 
 [C2] **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
 
