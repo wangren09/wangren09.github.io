@@ -45,6 +45,8 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **11/2022** I gave a talk on Trustworthy Machine Learning at the ECE Research Seminar at IIT
 
+**10/2022** I gave a talk on Trojan Attacks and Defenses at the IDEAL
+
 **09/2022** I joined the the Institute for Data, Econometrics, Algorithms, and Learning ([IDEAL](https://www.ideal-institute.org/team/)) as a faculty member
 
 **09/2022** Our paper on kNN attack and defense was accepted by IEEE Access
