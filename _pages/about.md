@@ -37,6 +37,20 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 **Recent Activities**
 ------
 
+**02/2023** I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!
+
+**01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/)
+
+**12/2022** Our paper on Physics-Constrained Adversarial Training was accepted by IEEE Transactions on Artificial Intelligence
+
+**11/2022** I gave a talk on Trustworthy Machine Learning at the ECE Research Seminar at IIT
+
+**09/2022** I joined the the Institute for Data, Econometrics, Algorithms, and Learning ([IDEAL](https://www.ideal-institute.org/team/)) as a faculty member
+
+**09/2022** Our paper on kNN attack and defense was accepted by IEEE Access
+
+**08/2022** I joined the Illinois Institute of Technology as a Tenure-Track Assistant Professor
+
 <!---I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), University of Michigan, Winter 2022
 
 **07/2021** I presented our work "Immuno-mimetic Deep Neural Networks (Immuno-Net)" at the ICML-WCB 2021
