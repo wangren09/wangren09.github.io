@@ -43,7 +43,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **12/2022** Our paper on Physics-Constrained Adversarial Training was accepted by IEEE Transactions on Artificial Intelligence
 
-**11/2022** I gave a talk on Trustworthy Machine Learning at the ECE Research Seminar at IIT
+**11/2022** I gave a talk on Trustworthy Machine Learning in the IIT ECE Research Seminar
 
 **10/2022** I gave a talk on Trojan Attacks and Defenses at the IDEAL
 
