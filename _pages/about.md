@@ -41,6 +41,8 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/)
 
+**01/2023** I will teach the course ECE572: Secure Machine Learning Design and Applications
+
 **12/2022** Our paper on Physics-Constrained Adversarial Training was accepted by IEEE Transactions on Artificial Intelligence
 
 **11/2022** I gave a talk on Trustworthy Machine Learning in the IIT ECE Research Seminar
