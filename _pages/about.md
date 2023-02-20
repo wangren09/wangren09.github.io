@@ -39,6 +39,8 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **02/2023** I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!
 
+**02/2023** Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.
+
 **02/2023** I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University
 
 **01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/)
