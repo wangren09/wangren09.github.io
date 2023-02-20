@@ -35,7 +35,7 @@ author_profile: true
 
 **Conference Publications**
 ------
-[C1] Jianing Bai, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", (arXiv: https://arxiv.org/abs/2211.04445)
+[C1] Jianing Bai, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
 
 [C2] Soumyadeep Pal, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/))
 
