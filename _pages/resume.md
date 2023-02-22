@@ -11,7 +11,15 @@ redirect_from:
 
 **Research Interests**
 ======
-* Trustworthy Machine Learning; High-Dimensional Data Analysis; Smart Grid
+* Trustworthy Machine Learning; High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Smart Grid
+
+**Professional Experience**
+======
+* 2022 - Current:  Assistant Professor, ECE, Illinois Institute of Technology
+* 2020 - 2022:     Postdoctoral Researcher/Lecturer, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
+* 2019 - 2020:     Research In-Residence, IBM Research AI.
+* 2014 - 2015:     Research Intern, China Southern Power Grid.
+* 2012 - 2012:     Research Intern, ABB China.
 
 **Education**
 ======
@@ -19,15 +27,9 @@ redirect_from:
 * 2013 - 2016: Tsinghua University, Beijing, China. M.S. in Electrical Engineering.
 * 2009 - 2013: Tsinghua University, Beijing, China. B.S. in Electrical Engineering.
 
-**Research Experience**
-======
-* 2020 - 2022:     Postdoctoral Researcher, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
-* 2019 - 2020:     Research In-Residence, IBM Research AI.
-* 2014 - 2015:     Research Intern, China Southern Power Grid.
-* 2012 - 2012:     Research Intern, ABB China.
-
 **Teaching Experience**
 ======
+* Instructor, ECE 572: Secure Machine Learning Design and Applications, Illinois Institute of Techology, Spring 2023.
 * Instructor, EECS 452: Digital Signal Processing Design Laboratory, University of Michigan, Winter 2022.
 * Guest Lecture, Trustworthy Machine Learning, CS 291A: Special Topics on Adversarial Machine Learning, UC Santa Barbara, 2022.
 * Guest Lecture, RAILS: Robust Immune-inspired Learning System, CSE 891: Adversarial Machine Learning, Michigan State University, 2022.
@@ -77,12 +79,8 @@ redirect_from:
 
 **Mentoring Experience**
 ======
-* Guide Master/Undergraduate Students in AI Research, University of Michigan, 2020 - Current.
-
-**Skills**
-======
-* Programming Languages:  Matlab, Python, C, C++, R, LabVIEW and SQL.
-* Tools: TensorFlow, PyTorch, LaTex, Microsoft Office software.
+* Guide Graduate/Undergraduate Students in AI Research, Illinois Institute of Technology, 2022 - Current.
+* Guide Graduate/Undergraduate Students in AI Research, University of Michigan, 2020 - 2022.
 
 **Miscellaneous**
 ======
