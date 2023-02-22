@@ -43,7 +43,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **02/2023** I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University
 
-**01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/)
+**01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/)
 
 **01/2023** I will teach the course ECE572: Secure Machine Learning Design and Applications
 
