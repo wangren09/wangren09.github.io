@@ -4,7 +4,52 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+# Trustworthy and Intelligent Machine Learning (TIML) Research Lab
+The Trustworthy and Intelligent Machine Learning Research Lab is an innovative research laboratory dedicated to building next-generation intelligent machine learning systems with trustworthiness at the center. The lab's research activities are centered around two key themes: Trustworthy Machine Learning and Intelligent Machine Learning for Engineering. The Trustworthy Machine Learning theme explores issues such as robustness, interpretability, transparency, privacy, and security in machine learning systems. This research theme aims to develop tools and techniques that enable the design and implementation of machine learning systems that can be trusted by end-users, regulators, and other stakeholders. The Intelligent Machine Learning for Engineering theme, on the other hand, focuses on the development of intelligent machine learning systems that enable the reliable and efficient development of engineering methodologies, tools, and practices. The lab's research outcomes are expected to have significant impacts on various domains, such as machine learning, computer vision, power systems, healthcare, and education.
+<div  align="center">
+<img src='/images/TIML_Research.png' width='800'>
+</div>
 
+**1. Robust AI Guided by the Immune System**
+------
+Driven by rapid advances in neural networks (NNs), artificial intelligence has achieved remarkable success in many fields. However, small perturbations invisible to humans can be purposely added to inputs to cause NNs to make incorrect predictions. What is more, attackers can even customize different perturbation strategies to bypass existing NNs' learning methods and defenses. Thus, one open question is how to make NNs more robust to such adversarial perturbations. Humans have a highly evolved immune system that can defend against multiple threats, even those never encountered before. Inspired by the powerful immune system, this project aims to infuse key immune system principles into NNs to reduce the substantial gap between existing machine-centric robust learning frameworks and robust immune models. The project requires techniques such as population-based optimization, robust training, knowledge distillation, etc.
+
+<div  align="center">
+<img src='/images/immune_AI.png' width='600'>
+</div>
+
+
+**2. Robust AI with Theoretical Guarantee**
+------
+The project aims at (1) developing mathematical tools for supporting reliable implementations of AI algorithms (2) developing AI algorithms that are capable of making decisions and performing tasks in the face of uncertainties and perturbations. The project seeks to provide theoretical guarantees for the robustness of these algorithms, ensuring that they are able to maintain their performance and accuracy even when faced with unexpected and malicious inputs in an unreliable environment. The project involves the use of advanced techniques from mathematics, statistics, and computer science to develop algorithms that are capable of making AI systems more reliable, secure, and trustworthy. The ultimate goal of the project is to develop AI systems that are robust and reliable in real-world scenarios, enabling their safe and ethical deployment across a wide range of industries and applications.
+
+<div  align="center">
+<img src='/images/CNN_Recovery.png' width='500'>
+</div>
+
+**3. Backdoor Detection and Mitigation**
+------
+Backdoor attacks are a category of attacks on deep learning models where an attacker inserts a hidden trigger pattern into the training data, which can cause the model to misclassify inputs containing that pattern. Backdoor attacks can be difficult to detect and mitigate. This porject aims to detect and mitigate backdoor in different learning phases (data processing, training, and inference).
+
+<div  align="center">
+<img src='/images/DFTND_Framework.png' width='400'>
+<img src='/images/Trojan3.JPG' width='240'>
+</div>
+
+
+**4. Privacy protection in AI**
+------
+One big concern is the exposure of privacy brought on by the data-intensive nature of AI, which may cause destructive outcomes, e.g., allowing hackers to lock you out of your house that uses smart locks. There are two fundamental challenges to preserve privacy in AI: (1) Privacy protection often stands at odds with AI's data requirements; (2) Privacy must be considered along the entire end-to-end pipeline - from data ingestion to model applications. The project will involve developing methods to preserve privacy throughout the AI workflow without compromising state-of-the-art performance.
+<div  align="center">
+<img src='/images/Quantization_tensor.png' width='550'>
+  <img src='/images/multi_trig_key.png' width='450'>
+</div>
+
+
+
+
+
+<!--
 **Robust AI Guided by the Immune System**
 ------
 [RAILS:](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system. Here is a brief introduction to RAILS and a demo of RAILS [Intro and Demo:](https://drive.google.com/file/d/1vnOMEo4iOHjn7bU-WWwoh6nD8Ugtd7wD/view?usp=sharing).
@@ -91,7 +136,7 @@ We proposed methods to **analyze the power grid robustness** and optimize the **
 <img src='/images/smartg2.jpg' width='200'>
 </div>
 
-
+-->
 
 
 <!-- 
