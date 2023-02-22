@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+\* denotes students under my supervision/co-supervision
+
 **Under review**
 
 [C] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
@@ -35,9 +37,9 @@ author_profile: true
 
 **Conference Publications**
 ------
-[C1] Jianing Bai, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
+[C1] Jianing Bai\*, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
 
-[C2] Soumyadeep Pal, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Candidate](https://safeai.webs.upv.es/index.php/best-paper-award/))
+[C2] Soumyadeep Pal\*, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/))
 
 [C3] **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
 
