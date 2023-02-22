@@ -15,7 +15,7 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 Driven by rapid advances in neural networks (NNs), artificial intelligence has achieved remarkable success in many fields. However, small perturbations invisible to humans can be purposely added to inputs to cause NNs to make incorrect predictions. What is more, attackers can even customize different perturbation strategies to bypass existing NNs' learning methods and defenses. Thus, one open question is how to make NNs more robust to such adversarial perturbations. Humans have a highly evolved immune system that can defend against multiple threats, even those never encountered before. Inspired by the powerful immune system, this project aims to infuse key immune system principles into NNs to reduce the substantial gap between existing machine-centric robust learning frameworks and robust immune models. The project requires techniques such as population-based optimization, robust training, knowledge distillation, etc.
 
 <div  align="center">
-<img src='/images/immune_AI.png' width='600'>
+<img src='/images/immune_AI.png' width='500'>
 </div>
 
 
