@@ -45,8 +45,13 @@ One big concern is the exposure of privacy brought on by the data-intensive natu
   <img src='/images/multi_trig_key.png' width='450'>
 </div>
 
+**5. Data-Driven Methods in Power System with Physics-Constraints**
+------
+The project aims at developing advanced machine learning and data-driven algorithms to optimize power system operations while respecting physical constraints. The project seeks to leverage large amounts of data from various sources, including PMU, SCADA, and weather forecasts, to predict and optimize power system behavior and improve energy efficiency. The project also aims to incorporate physics-based models and constraints to ensure that the optimized solutions are safe, reliable, and stable. The ultimate goal of the project is to develop scalable and efficient data-driven methods that can help transform the power sector towards a more sustainable and resilient future.
 
-
+<div  align="center">
+<img src='/images/data_driven_power_grid.png' width='500'>
+</div>
 
 
 <!--
