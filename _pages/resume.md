@@ -1,91 +1,21 @@
 ---
 layout: archive
-title: "Resume"
+title: "Research Lab"
 permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+# Trustworthy and Intelligent Machine Learning (TIML) Research Lab
+The Trustworthy and Intelligent Machine Learning Research Lab is an innovative research laboratory dedicated to building next-generation intelligent machine learning systems with trustworthiness at the center. The lab's research activities are centered around two key themes: Trustworthy Machine Learning and Intelligent Machine Learning for Engineering. The Trustworthy Machine Learning theme explores issues such as robustness, interpretability, transparency, privacy, and security in machine learning systems. This research theme aims to develop tools and techniques that enable the design and implementation of machine learning systems that can be trusted by end-users, regulators, and other stakeholders. The Intelligent Machine Learning for Engineering theme, on the other hand, focuses on the development of intelligent machine learning systems that enable the reliable and efficient development of engineering methodologies, tools, and practices. The lab's research outcomes are expected to have significant impacts on various domains, such as machine learning, computer vision, power systems, healthcare, and education.
+<div  align="center">
+<img src='/images/TIML_Research.png' width='800'>
+</div>
+
+# Lab Members
 
 
-**Research Interests**
-======
-* Trustworthy Machine Learning; High-Dimensional Data Analysis; Bio-Inspired Machine Learning; Smart Grid
-
-**Professional Experience**
-======
-* 2022 - Current:  Assistant Professor, ECE, Illinois Institute of Technology
-* 2020 - 2022:     Postdoctoral Researcher/Lecturer, Electrical Engineering and Computer Science, University of Michigan, Ann Arbor.
-* 2019 - 2020:     Research In-Residence, IBM Research AI.
-* 2014 - 2015:     Research Intern, China Southern Power Grid.
-* 2012 - 2012:     Research Intern, ABB China.
-
-**Education**
-======
-* 2016 - 2020: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
-* 2013 - 2016: Tsinghua University, Beijing, China. M.S. in Electrical Engineering.
-* 2009 - 2013: Tsinghua University, Beijing, China. B.S. in Electrical Engineering.
-
-**Teaching Experience**
-======
-* Instructor, ECE 572: Secure Machine Learning Design and Applications, Illinois Institute of Techology, Spring 2023.
-* Instructor, EECS 452: Digital Signal Processing Design Laboratory, University of Michigan, Winter 2022.
-* Guest Lecture, Trustworthy Machine Learning, CS 291A: Special Topics on Adversarial Machine Learning, UC Santa Barbara, 2022.
-* Guest Lecture, RAILS: Robust Immune-inspired Learning System, CSE 891: Adversarial Machine Learning, Michigan State University, 2022.
-* Guest Lecture, Introduction to Trojan Attack and Detection of Trojan Neural Networks, CSE 891: Adversarial Machine Learning, Michigan State University, 2022.
-* Guest Lecture, Introduction to Trojan Attack and Detection of Trojan Neural Networks, CSE 891: Adversarial Machine Learning, Michigan State University, 2021.
-* Privacy Protection and Information Extraction, Guest Lecture, Chongqing University, 2020.
-
-**Awards**
-======
-* IBM/RPI AI Horizons Scholarship, 2019.
-* Rensselaer’s Founders Award of Excellence, 2019.
-* IBM Mass Lab 2019 Intern Showcase Best of Show 3rd Place, 2019.
-* Comprehensive Fellowship of Tsinghua University, 2015.
-* Guanghua Fellowship, 2014.
-* Advanced Sports Individual of Tsinghua University, 2014.
-* First Class Award of the 3rd Digital System Design and Innovative Competition of Tsinghua University, 2012.
-* Technological Innovation Scholarship of Tsinghua University, 2012.
-* First Class Award in National Biology Olympiad, 2008.
-
-**Invited Review & Program Committee Member**
-======
-* Journal:
-    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-    * IEEE Transactions on Signal Processing
-    * IEEE Transactions on Image Processing
-    * IEEE Transactions on Smart Grid
-    * IEEE Transactions on Industrial Informatics
-    * IEEE Journal of Selected Topics in Signal Processing
-    * Frontiers in Big Data
-    * IEEE Signal Processing Letters
-    * Neurocomputing
-    * CSEE Journal of Power and Energy Systems
-* Conference:
-    * 1st Workshop on New Frontiers in Adversarial Machine Learning at ICML'22
-    * ICLR 2022
-    * NeurIPS 2021
-    * ICML 2021
-    * AAAI 2021
-    * AAAI 2021
-    * 3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining at KDD 2021
-    * ICML 2020
-    * Workshop on Adversarial Learning Methods at KDD 2020
-    * ICPAI 2020
-    * IEEE GlobalSIP 2018
-    * IEEE SmartGridComm 2018
-    * IEEE ISAP 2017
-
-**Mentoring Experience**
-======
-* Guide Graduate/Undergraduate Students in AI Research, Illinois Institute of Technology, 2022 - Current.
-* Guide Graduate/Undergraduate Students in AI Research, University of Michigan, 2020 - 2022.
-
-**Miscellaneous**
-======
-* Champion of the RPI Student World Cup, 2018.
-* Captain of the Department Soccer Team (triple crown), 2013-2015.
 
 <!--
 **Selected Courses**
