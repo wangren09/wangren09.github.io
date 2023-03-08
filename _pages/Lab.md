@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research Lab"
-permalink: /resume/
+permalink: /Lab/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Lab
 ---
 
 # Trustworthy and Intelligent Machine Learning (TIML) Research Lab
@@ -13,7 +13,6 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 <img src='/images/TIML_Research.png' width='800'>
 </div>
 
-# Lab Members
 
 
 
