@@ -57,6 +57,50 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 **08/2022** I joined the Illinois Institute of Technology as a Tenure-Track Assistant Professor
 
+
+
+
+<div class="window">
+  <div class="content">
+    This is the content.
+  </div>
+</div>
+
+<style>
+  .window {
+    position: relative;
+    overflow: hidden;
+    height: 50px; /* adjust height as needed */
+    background-color: #eee;
+    transition: height 0.3s ease-out;
+  }
+  
+  .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    background-color: #fff;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .window:hover {
+    height: 200px; /* adjust height as needed */
+  }
+  
+  .window:hover .content {
+    transform: translateY(-100%);
+  }
+</style>
+
+
+
+
+
+
+
 <!---I will be a lecturer of the Digital Signal Processing - Lab Course (EECS452), University of Michigan, Winter 2022
 
 **07/2021** I presented our work "Immuno-mimetic Deep Neural Networks (Immuno-Net)" at the ICML-WCB 2021
