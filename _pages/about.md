@@ -78,7 +78,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
   .sliding-window {
     position: relative;
     overflow: hidden;
-    height: 100px;
+    height: 400px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
   }
@@ -92,6 +92,11 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     height: 20px;
     cursor: grab;
     background-color: #ccc;
+    opacity: 0.5;
+  }
+
+  .handle:hover {
+    opacity: 1;
   }
 
   .handle:active {
@@ -140,7 +145,6 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     }
   }
 </script>
-
 
 
 
