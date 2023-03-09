@@ -61,22 +61,11 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 
 <div class="window">
-  <input type="range" min="0" max="100" value="0" class="slider">
+  <div class="slider-container">
+    <input type="range" min="0" max="100" value="0" class="slider">
+  </div>
   <div class="content">
-    **Recent Activities**
-------
-
-**02/2023** I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!
-
-**02/2023** Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.
-
-**02/2023** I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University
-
-**01/2023** Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the [Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/)
-
-**12/2022** Our paper on Physics-Constrained Adversarial Training was accepted by IEEE Transactions on Artificial Intelligence
-
-**11/2022** I gave a talk on Trustworthy Machine Learning in the IIT ECE Research Seminar
+    **11/2022** I gave a talk on Trustworthy Machine Learning in the IIT ECE Research Seminar
 
 **10/2022** I gave a talk on Trojan Attacks and Defenses at the IDEAL
 
@@ -92,19 +81,33 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
   .window {
     position: relative;
     overflow: hidden;
-    height: 50px; /* adjust height as needed */
+    width: 50px; /* adjust width as needed */
+    height: 200px; /* adjust height as needed */
     background-color: #eee;
-    transition: height 0.3s ease-out;
+    transition: width 0.3s ease-out;
   }
   
-  .slider {
+  .slider-container {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: 0;
+    transform-origin: top left;
+    transform: rotate(270deg) translateY(-100%);
     pointer-events: none;
+  }
+  
+  .slider {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+    pointer-events: auto;
+    transform: rotate(90deg);
   }
   
   .content {
@@ -119,19 +122,22 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
   }
   
   .window:hover {
-    height: 200px; /* adjust height as needed */
+    width: 200px; /* adjust width as needed */
+  }
+  
+  .window:hover .slider-container {
+    transform: rotate(270deg) translateY(0);
+    pointer-events: auto;
   }
   
   .window:hover .slider {
     opacity: 1;
-    pointer-events: auto;
   }
   
   .window:hover .content {
-    transform: translateY(-100%);
+    transform: translateX(-100%);
   }
 </style>
-In this example, I added an input element of type range with minimum and maximum values of 0 and 100, respectively. I also set its initial value
 
 
 
