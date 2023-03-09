@@ -45,6 +45,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+     <li><strong>03/2023</strong> I will serve as a guest editor for the upcoming special issue on <a href="[https://safeai.webs.upv.es/index.php/best-paper-award/](https://www.mdpi.com/journal/electronics/special_issues/Z9OT1GN32T)">"Advances in Enhancing Energy and Power System Stability and Control"</a> in the journal, Electronics. This is an incredible opportunity to contribute to the cutting-edge research in this field and I would like to invite you to join me in this endeavor. Please consider submitting your paper to this special issue!
       <li><strong>02/2023</strong> I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!</li>
       <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.</li>
       <li><strong>02/2023</strong> I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University</li>
