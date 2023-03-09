@@ -61,8 +61,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 
 <div class="sliding-window">
-  <input type="checkbox" id="sliding-window-checkbox" role="button">
-  <label for="sliding-window-checkbox" class="slider"></label>
+  <div class="handle"></div>
   <div class="content">
     <h2>Recent Activities</h2>
     <hr>
@@ -79,43 +78,24 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
   .sliding-window {
     position: relative;
     overflow: hidden;
-    height: 400px;
+    height: 100px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
   }
 
-  .slider {
+  .handle {
     position: absolute;
     z-index: 2;
     top: 0;
-    right: -15px;
-    width: 20px;
-    height: 100%;
-    cursor: pointer;
+    right: 0;
+    width: 100%;
+    height: 20px;
+    cursor: grab;
     background-color: #ccc;
-    -webkit-transition: background-color 0.3s ease;
-    transition: background-color 0.3s ease;
   }
 
-  .slider:before {
-    position: absolute;
-    content: "";
-    width: 6px;
-    height: 6px;
-    background-color: white;
-    top: 50%;
-    left: 50%;
-    margin: -3px 0 0 -3px;
-    border-radius: 50%;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
-  }
-
-  #sliding-window-checkbox:checked + .slider {
-    background-color: #888;
-  }
-
-  #sliding-window-checkbox:checked ~ .content {
-    margin-top: -100px;
+  .handle:active {
+    cursor: grabbing;
   }
 
   .content {
@@ -129,6 +109,37 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     padding: 10px;
   }
 </style>
+
+<script>
+  const handle = document.querySelector('.handle');
+  const content = document.querySelector('.content');
+  let isDragging = false;
+  let startY, currentY;
+
+  handle.addEventListener('mousedown', handleMouseDown);
+  window.addEventListener('mouseup', handleMouseUp);
+  window.addEventListener('mousemove', handleMouseMove);
+
+  function handleMouseDown(e) {
+    isDragging = true;
+    startY = e.clientY;
+  }
+
+  function handleMouseUp(e) {
+    isDragging = false;
+  }
+
+  function handleMouseMove(e) {
+    if (isDragging) {
+      currentY = e.clientY;
+      const dy = currentY - startY;
+      const contentTop = parseInt(getComputedStyle(content).getPropertyValue('margin-top'));
+      const newTop = Math.min(0, Math.max(-100, contentTop + dy));
+      content.style.marginTop = newTop + 'px';
+      startY = currentY;
+    }
+  }
+</script>
 
 
 
