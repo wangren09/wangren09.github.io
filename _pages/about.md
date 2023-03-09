@@ -79,7 +79,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
   .sliding-window {
     position: relative;
     overflow: hidden;
-    height: 100px;
+    height: 400px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
   }
