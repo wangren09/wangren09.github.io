@@ -120,39 +120,10 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     -webkit-transition: margin-top 0.3s ease;
     transition: margin-top 0.3s ease;
     padding: 10px;
+    height: 360px;
+    overflow-y: scroll;
   }
 </style>
-
-<script>
-  const handle = document.querySelector('.handle');
-  const content = document.querySelector('.content');
-  let isDragging = false;
-  let startY, currentY;
-
-  handle.addEventListener('mousedown', handleMouseDown);
-  window.addEventListener('mouseup', handleMouseUp);
-  window.addEventListener('mousemove', handleMouseMove);
-
-  function handleMouseDown(e) {
-    isDragging = true;
-    startY = e.clientY;
-  }
-
-  function handleMouseUp(e) {
-    isDragging = false;
-  }
-
-  function handleMouseMove(e) {
-    if (isDragging) {
-      currentY = e.clientY;
-      const dy = currentY - startY;
-      const contentTop = parseInt(getComputedStyle(content).getPropertyValue('margin-top'));
-      const newTop = Math.min(0, Math.max(-100, contentTop + dy));
-      content.style.marginTop = newTop + 'px';
-      startY = currentY;
-    }
-  }
-</script>
 
 
 
