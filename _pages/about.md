@@ -61,6 +61,7 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 
 <div class="window">
+  <input type="range" min="0" max="100" value="0" class="slider">
   <div class="content">
     **Recent Activities**
 ------
@@ -96,6 +97,16 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     transition: height 0.3s ease-out;
   }
   
+  .slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    pointer-events: none;
+  }
+  
   .content {
     position: absolute;
     top: 0;
@@ -111,10 +122,20 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
     height: 200px; /* adjust height as needed */
   }
   
+  .window:hover .slider {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  
   .window:hover .content {
     transform: translateY(-100%);
   }
 </style>
+In this example, I added an input element of type range with minimum and maximum values of 0 and 100, respectively. I also set its initial value
+
+
+
+
 
 
 
