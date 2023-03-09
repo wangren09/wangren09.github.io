@@ -60,81 +60,73 @@ Ren Wang was a postdoctoral research fellow (and a lecturer) in the [Department 
 
 
 
-<div class="window">
-  <div class="slider-container">
-    <input type="range" min="0" max="100" value="0" class="slider">
-  </div>
+<div class="sliding-window">
+  <input type="checkbox" id="sliding-window-checkbox" role="button">
+  <label for="sliding-window-checkbox" class="slider"></label>
   <div class="content">
-  <h2>Recent Activities</h2>
-  <hr>
-  <ul>
-    <li><strong>02/2023</strong> I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!</li>
-    <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.</li>
-    <li><strong>02/2023</strong> I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University</li>
-    <li><strong>01/2023</strong> Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the <a href="https://safeai.webs.upv.es/index.php/best-paper-award/">Best Paper Award Finalist</a>.</li>
-  </ul>
+    <h2>Recent Activities</h2>
+    <hr>
+    <ul>
+      <li><strong>02/2023</strong> I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!</li>
+      <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.</li>
+      <li><strong>02/2023</strong> I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University</li>
+      <li><strong>01/2023</strong> Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the <a href="https://safeai.webs.upv.es/index.php/best-paper-award/">Best Paper Award Finalist</a>.</li>
+    </ul>
   </div>
 </div>
 
 <style>
-  .window {
+  .sliding-window {
     position: relative;
     overflow: hidden;
-    width: 50px; /* adjust width as needed */
-    height: 200px; /* adjust height as needed */
-    background-color: #eee;
-    transition: width 0.3s ease-out;
+    height: 100px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
   }
-  
-  .slider-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    transform-origin: top left;
-    transform: rotate(270deg) translateY(-100%);
-    pointer-events: none;
-  }
-  
+
   .slider {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+    z-index: 2;
+    top: 0;
+    right: -15px;
+    width: 20px;
     height: 100%;
-    margin: 0;
-    opacity: 0;
-    pointer-events: auto;
-    transform: rotate(90deg);
+    cursor: pointer;
+    background-color: #ccc;
+    -webkit-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;
   }
-  
-  .content {
+
+  .slider:before {
     position: absolute;
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    margin: -3px 0 0 -3px;
+    border-radius: 50%;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+  }
+
+  #sliding-window-checkbox:checked + .slider {
+    background-color: #888;
+  }
+
+  #sliding-window-checkbox:checked ~ .content {
+    margin-top: -100px;
+  }
+
+  .content {
+    position: relative;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    right: 0;
+    margin-top: 0;
+    -webkit-transition: margin-top 0.3s ease;
+    transition: margin-top 0.3s ease;
     padding: 10px;
-    background-color: #fff;
-    transition: transform 0.3s ease-out;
-  }
-  
-  .window:hover {
-    width: 200px; /* adjust width as needed */
-  }
-  
-  .window:hover .slider-container {
-    transform: rotate(270deg) translateY(0);
-    pointer-events: auto;
-  }
-  
-  .window:hover .slider {
-    opacity: 1;
-  }
-  
-  .window:hover .content {
-    transform: translateX(-100%);
   }
 </style>
 
