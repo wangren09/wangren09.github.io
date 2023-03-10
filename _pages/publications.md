@@ -37,44 +37,44 @@ author_profile: true
 
 **Conference Publications**
 ------
-[C1] Jianing Bai\*, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
+1. Jianing Bai\*, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
 
-[C2] Soumyadeep Pal\*, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/))
+1. Soumyadeep Pal\*, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/))
 
-[C3] **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
+1. **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
 
-[C4] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, "Immuno-mimetic Deep Neural Networks (Immuno-Net)", International Conference on Machine Learning Workshop on
+1. **Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, "Immuno-mimetic Deep Neural Networks (Immuno-Net)", International Conference on Machine Learning Workshop on
 computational biology (ICML-WCB), 2021.
 
-[C5] **Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
+1. **Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
 
-[C6] **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
+1. **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
 
-[C7] **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
+1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
 
-[C8] Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, "A Low-rank Framework of PMU Data Recovery and Event Identification", International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
+1. Meng Wang, Joe H Chow, Yingshuai Hao, Shuai Zhang, Wenting Li, **Ren Wang**, Pengzhi Gao, Christopher Lackner, Evangelos Farantatos, Mahendra Patel, "A Low-rank Framework of PMU Data Recovery and Event Identification", International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2019.
 
-[C9] Meng Wang, Joe H Chow, Pengzhi Gao, Yingshuai Hao, Wenting Li, **Ren Wang**, "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures", The 10th Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
+1. Meng Wang, Joe H Chow, Pengzhi Gao, Yingshuai Hao, Wenting Li, **Ren Wang**, "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures", The 10th Bulk Power Systems Dynamics and Control Symposium (IREP), 2017.
 
-[C10] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids", Asilomar Conference on Signals, Systems and Computers, 2016.
+1. Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Quantized and Erroneous Measurements: Accuracy-preserved Data Privatization in Power Grids", Asilomar Conference on Signals, Systems and Computers, 2016.
 
-[C11] Yajie Liu, Libao Shi, **Ren Wang**, Liangzhong Yao, "Study on the dynamic economic dispatch for a wind-hydro hybrid power system", IET Digital Library, 2016.
+1. Yajie Liu, Libao Shi, **Ren Wang**, Liangzhong Yao, "Study on the dynamic economic dispatch for a wind-hydro hybrid power system", IET Digital Library, 2016.
 
-[C12] Yang Pan, Libao Shi, Yajie Liu, Jinqing Luo, **Ren Wang**, "Study on optimal power flow in a wind-storage system", IEEE PES Asia-Pacific Power and Energy Engineering Conference, 2016.
+1. Yang Pan, Libao Shi, Yajie Liu, Jinqing Luo, **Ren Wang**, "Study on optimal power flow in a wind-storage system", IEEE PES Asia-Pacific Power and Energy Engineering Conference, 2016.
 
-[C13] **Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, "A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties", International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
+1. **Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, "A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties", International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
 
-[C14] **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
+1. **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
 
 
 
 **Patents**
 ------
 
-[P1] "Detecting Trojan Neural Networks", US Patent US20220053005A1
+1. "Detecting Trojan Neural Networks", US Patent US20220053005A1
 
-[P2] "Robust Adversarial Immune-Inspired Learning System", US Patent US20220188642A1
+1. "Robust Adversarial Immune-Inspired Learning System", US Patent US20220188642A1
 
-[P3] "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
+1. "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
 
 
