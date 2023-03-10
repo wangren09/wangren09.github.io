@@ -18,21 +18,21 @@ author_profile: true
 
 **Journal Publications**
 ------
-[J1] Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Physics-Constrained Adversarial Training for Neural Networks in Stochastic Power Grids", IEEE Transactions on Artificial Intelligence, 2023
+1. Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Physics-Constrained Adversarial Training for Neural Networks in Stochastic Power Grids", IEEE Transactions on Artificial Intelligence, 2023
 
-[J2] **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Indika Rajapakse, Alfred Hero, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
+1. **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Indika Rajapakse, Alfred Hero, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
 
-[J3] **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Indika Rajapakse, Alfred Hero, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
+1. **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Indika Rajapakse, Alfred Hero, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
 
-[J4] **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
+1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
 
-[J5] **Ren Wang**, Meng Wang, Jinjun Xiong, "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery", EURASIP Journal on Advances in Signal Processing, 2020.
+1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Achieve Data Privacy and Clustering Accuracy Simultaneously Through Quantized Data Recovery", EURASIP Journal on Advances in Signal Processing, 2020.
 
-[J6] **Ren Wang**, Meng Wang, Jinjun Xiong, "Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements", IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
+1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements", IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
 
-[J7] Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements", IEEE Transactions on Signal Processing, 2018 (**The first two authors contributed equally**)
+1. Pengzhi Gao, **Ren Wang**, Meng Wang, Joe H Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements", IEEE Transactions on Signal Processing, 2018 (**The first two authors contributed equally**)
 
-[J8] Libao Shi, **Ren Wang**, "Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure", IET Renewable Power Generation, 2017.
+1. Libao Shi, **Ren Wang**, "Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure", IET Renewable Power Generation, 2017.
 
 
 **Conference Publications**
