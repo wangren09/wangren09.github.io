@@ -100,7 +100,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     -webkit-transition: margin-top 0.3s ease;
     transition: margin-top 0.3s ease;
     padding: 10px;
-    height: 360px;
+    height: 560px;
     overflow-y: scroll;
   }
 </style>
