@@ -66,7 +66,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
   .sliding-window {
     position: relative;
     overflow: hidden;
-    height: 600px;
+    height: 400px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
   }
