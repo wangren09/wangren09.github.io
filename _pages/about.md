@@ -84,7 +84,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
   }
 
   .handle:hover {
-    opacity: 1;
+    opacity: 0.5;
   }
 
   .handle:active {
