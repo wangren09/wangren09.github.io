@@ -48,7 +48,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <hr>
     <ul>
      <li><strong>03/2023</strong> I will serve as a guest editor for the upcoming special issue on <a href="https://www.mdpi.com/journal/electronics/special_issues/Z9OT1GN32T">Advances in Enhancing Energy and Power System Stability and Control</a> in the journal, Electronics (check our <a href="https://drive.google.com/file/d/1TdKJvo8JpZqUlQ5HwdKl7tVm1Vig39UJ/view?usp=sharing">banner</a> and <a href="https://drive.google.com/file/d/1kAhydZnUKRz4JP97O4Rl_7SVoRM1NJJk/view?usp=sharing">flyer</a>). This is an incredible opportunity to contribute to the cutting-edge research in this field and I would like to invite you to join me in this endeavor. Please consider submitting your paper to this special issue!
-      <li><strong>02/2023</strong> I received the <strong>NSF CISE Research Initiation Initiative (CRII) Award</strong>. Thanks NSF for the support!</li>
+      <li><strong>02/2023</strong> I received the <strong>NSF CISE Research Initiation Initiative (CRII) Award</strong> [<a href="https://www.iit.edu/news/engineering-professor-receives-grant-immune-system-inspired-machine-learning-research">News</a>]. Thanks NSF for the support!</li>
       <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.</li>
       <li><strong>02/2023</strong> I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University</li>
       <li><strong>01/2023</strong> Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the <a href="https://safeai.webs.upv.es/index.php/best-paper-award/">Best Paper Award Finalist</a>.</li>
@@ -115,7 +115,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
 <!---**Recent Activities**
 ------
 
-**02/2023** I received the NSF CISE Research Initiation Initiative (CRII) Award. Thanks NSF for the support!
+**02/2023** I received the NSF CISE Research Initiation Initiative (CRII) Award ([News](https://www.iit.edu/news/engineering-professor-receives-grant-immune-system-inspired-machine-learning-research)). Thanks NSF for the support!
 
 **02/2023** Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.
 
