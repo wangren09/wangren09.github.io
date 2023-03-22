@@ -15,6 +15,8 @@ author_profile: true
 
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
 
+[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
+
 
 **Journal Publications**
 ------
@@ -37,6 +39,10 @@ author_profile: true
 
 **Conference Publications**
 ------
+1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
+
+1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification", ICLR TML4H 2023  (**The first two authors contributed equally**)
+
 1. Jianing Bai\*, **Ren Wang**, Zuyi Li, "Physics-Constrained Backdoor Attacks on Power System Fault Localization", IEEE PES General Meeting, 2023 (arXiv: https://arxiv.org/abs/2211.04445)
 
 1. Soumyadeep Pal\*, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/))
