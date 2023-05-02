@@ -15,16 +15,16 @@ author_profile: true
 
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
 
-[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
+<!---[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)--->
 
 
 **Journal Publications**
 ------
 1. Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Physics-Constrained Adversarial Training for Neural Networks in Stochastic Power Grids", IEEE Transactions on Artificial Intelligence, 2023
 
-1. **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Indika Rajapakse, Alfred Hero, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
-
 1. **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Indika Rajapakse, Alfred Hero, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
+
+1. **Ren Wang**, Tianqi Chen, Philip Yao, Sijia Liu, Indika Rajapakse, Alfred Hero, "ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense", IEEE Access, 2022.
 
 1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Tensor Recovery from Noisy and Quantized Measurements", EURASIP Journal on Advances in Signal Processing, 2020.
 
@@ -39,7 +39,7 @@ author_profile: true
 
 **Conference Publications**
 ------
-1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
+<!---1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023--->
 
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification", ICLR TML4H 2023  (**The first two authors contributed equally**)
 
