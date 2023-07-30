@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>07/2023</strong> I was invited to give a talk on Deep Learning Attacks and Defenses at the Oak Ridge National Laboratory</li>
       <li><strong>06/2023</strong> I received the <strong>2023 ORAU Ralph E. Powe Junior Faculty Enhancement Award</strong> (35 among 167 applications from 93 institutions). Thanks, ORAU!</li>
       <li><strong>04/2023</strong> Our paper on Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification was accepted by ICLR 2023 TML4H.</li>
      <li><strong>03/2023</strong> I will serve as a guest editor for the upcoming special issue on <a href="https://www.mdpi.com/journal/electronics/special_issues/Z9OT1GN32T">Advances in Enhancing Energy and Power System Stability and Control</a> in the journal, Electronics (check our <a href="https://drive.google.com/file/d/1TdKJvo8JpZqUlQ5HwdKl7tVm1Vig39UJ/view?usp=sharing">banner</a> and <a href="https://drive.google.com/file/d/1kAhydZnUKRz4JP97O4Rl_7SVoRM1NJJk/view?usp=sharing">flyer</a>). This is an incredible opportunity to contribute to the cutting-edge research in this field and I would like to invite you to join me in this endeavor. Please consider submitting your paper to this special issue!
