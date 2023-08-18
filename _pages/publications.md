@@ -39,7 +39,7 @@ author_profile: true
 
 **Conference Publications**
 ------
-<!---1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023--->
+1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
 
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification", ICLR TML4H 2023  (**The first two authors contributed equally**)
 
