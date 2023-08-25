@@ -17,9 +17,12 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 ## Lab Members
 
 Muhammad Sharjeel Ahmad Anjum (PhD student)
+
 Jane Downer (PhD student, co-advised with Binghui Wang)
 
 Ignacio De Cominges (MS student)
+
 Lola Giráldez (MS student)
+
 Arturo Galofre (MS student)
 
