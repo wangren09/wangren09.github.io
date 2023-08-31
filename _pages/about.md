@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>08/2023</strong> I've been honored with the [<a href="[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319243&HistoricalAwards=false"><strong>NSF FMitF Award</strong> </a>]. A huge thank you to NSF for the support!</li>
+      <li><strong>08/2023</strong> I've been honored with the <strong>[<a href="[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319243&HistoricalAwards=false">NSF FMitF Award</a>]</strong>. A huge thank you to NSF for the support!</li>
       <li><strong>07/2023</strong> I was invited to give a talk on Deep Learning Attacks and Defenses at the Oak Ridge National Laboratory</li>
       <li><strong>06/2023</strong> I received the <strong>2023 ORAU Ralph E. Powe Junior Faculty Enhancement Award</strong> (35 among 167 applications from 93 institutions). Thanks, ORAU!</li>
       <li><strong>04/2023</strong> Our paper on Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification was accepted by ICLR 2023 TML4H.</li>
