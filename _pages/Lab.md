@@ -5,8 +5,8 @@ permalink: /Lab/
 author_profile: true
 ---
 
-<div  align="center">
-<img src='/images/TIML.pn' width='200'>
+<div  align="left">
+<img src='/images/TIML.pn' width='300'>
 </div>
 
 # Trustworthy and Intelligent Machine Learning (TIML) Research Lab
