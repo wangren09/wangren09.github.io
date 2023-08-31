@@ -17,7 +17,7 @@ Email: rwang74 (you can make the "at") iit (dot) edu
 ------
 **Prospective graduate students:** I am looking for highly motivated PhD/Master students with background in Machine Learning/Signal Processing/Mathematics/Power System. Please contact me along with your CV and transcript if you are interested.
  
-**Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email. For undergraduate and Master students already enrolled in IIT, if you're interested in doing research in my group, please setup an appointment with me via your IIT emails.
+**Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email. <!---For undergraduate and Master students already enrolled in IIT, if you're interested in doing research in my group, please setup an appointment with me via your IIT emails.--->
 
 **Short Bio**
 ------
@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>08/2023</strong> I've been honored with the <a href="[https://www.mdpi.com/journal/electronics/special_issues/Z9OT1GN32T](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319243&HistoricalAwards=false)"><strong>NSF FMitF Award</strong></a>. A huge thank you to NSF for the support!</li>
+      <li><strong>08/2023</strong> I've been honored with the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319243&HistoricalAwards=false"><strong>NSF FMitF Award</strong></a>. A huge thank you to NSF for the support!</li>
       <li><strong>07/2023</strong> I was invited to give a talk on Deep Learning Attacks and Defenses at the Oak Ridge National Laboratory</li>
       <li><strong>06/2023</strong> I received the <strong>2023 ORAU Ralph E. Powe Junior Faculty Enhancement Award</strong> (35 among 167 applications from 93 institutions). Thanks, ORAU!</li>
       <li><strong>04/2023</strong> Our paper on Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification was accepted by ICLR 2023 TML4H.</li>
