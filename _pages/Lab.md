@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div  align="left">
-<img src='/images/TIML.pn' width='300'>
+<img src='/images/TIML.png' width='200'>
 </div>
 
 # Trustworthy and Intelligent Machine Learning (TIML) Research Lab
