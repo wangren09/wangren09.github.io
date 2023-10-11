@@ -48,6 +48,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <hr>
     <ul>
       <li><strong>10/2023</strong> I am organizing the Frontiers of Data Science: Theory, Applications, and Trustworthiness Seminar at Illinois Tech.</li>
+      <li><strong>09/2023</strong> I attended the <a href="https://drive.google.com/file/d/1XiqILOtIkyjWV4e1XougRRtxrQSE4X00/view?usp=sharing">"ASEE DELTA Junior Faculty Institute"</a>.</li>
       <li><strong>09/2023</strong> I am organizing a workshop on <a href="https://www.ideal-institute.org/2023/08/31/trustworthiness-in-the-presence-of-adversaries-and-strategic-agents-in-ml/">"Trustworthiness in the Presence of Adversaries and Strategic Agents in ML"</a>, which will be held on Oct.12 (Thursday) in-person at Northwestern. If you're interested in the workshop, please consider registering for it.</li>
       <li><strong>08/2023</strong> I've been honored with the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319243&HistoricalAwards=false"><strong>NSF FMitF Award</strong></a>. A huge thank you to NSF for the support!</li>
       <li><strong>07/2023</strong> I was invited to give a talk on Deep Learning Attacks and Defenses at the Oak Ridge National Laboratory</li>
