@@ -26,7 +26,7 @@ author_profile: true
 **Abstract**: In a multi-agent system, it is well known that an agent is capable of implicitly influencing the behaviors of other agents by playing her actions strategically. This allows the agent to potentially take advantage of opponents in a competitive setting or facilitate coordination with partners in a collaborative setting. In game theory, an optimal influencing strategy is characterized by the solution concept of Stackelberg equilibrium. Nevertheless, efficient and provably correct algorithms for computing a Stackelberg equilibrium only exist for relatively simple games. In this talk, I will discuss methods for computing a Stackelberg equilibrium in more complex and realistic game setups, including 1) influencing an agent who makes sequential decisions and 2) influencing multiple types of agents.
 <br/><br/>
 
-**10/17/2023**: [Jinshuo Dong](https://www2.math.upenn.edu/~jinshuo/) post-doc at IDEAL (i.e. Northwestern University and TTI Chicago)
+**10/17/2023**: [Jinshuo Dong](https://www2.math.upenn.edu/~jinshuo/) Post-doc at IDEAL (Northwestern University and TTI Chicago)
 
 **Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118
 
