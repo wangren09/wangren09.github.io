@@ -36,3 +36,14 @@ author_profile: true
 1. Is it possible to deplete the privacy budget in the most basic application of differential privacy?
 2. Can we battle against strategic behavior while maintaining hard privacy constraints in legal proceedings (in particular, electronic discovery)?
 The first question suggests a hypothesis testing perspective of differential privacy, and for the second we design an incentive-compatible mechanism that relate the privacy loss to a geometric quantity -- the number of extremal points after a projective transformation. Our findings suggest that privacy as a rigid constraint warrants careful consideration depending on the context.
+<br/><br/>
+
+**10/24/2023**: [Lifan Wang](https://physics.tamu.edu/directory/lifan/) Professor in Astrophysics at Texas A&M University
+
+
+**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 203
+
+**Title**: A Data-Driven Approach to Spectroscopic Analyses in Astronomy
+
+**Abstract**: Spectroscopic diagnostics plays a crucial role in astronomical studies. The observed photons experience extensive interaction among hundreds of thousands of atomic lines before escaping. Spectral features are broadened and blended in rapidly expanding objects like supernovae. AI has the potential to disentangle the coupling of the atomic lines and achieve quantitative measurement of the chemical compositions based on the observed spectra. This goal can be accomplished in two approaches. The first one is based on empirical analysis of observational data. Neural networks can be built to reduce the dimensionality of the problem. The second is to build physics-informed neural networks and construct physical models with observational data as the initial/boundary conditions. I will show the applications of these two to the studies of Type Ia supernovae, considered the most accurate extragalactic distance calibrators in the Universe.
+<br/><br/>
