@@ -46,4 +46,15 @@ The first question suggests a hypothesis testing perspective of differential pri
 **Title**: A Data-Driven Approach to Spectroscopic Analyses in Astronomy
 
 **Abstract**: Spectroscopic diagnostics plays a crucial role in astronomical studies. The observed photons experience extensive interaction among hundreds of thousands of atomic lines before escaping. Spectral features are broadened and blended in rapidly expanding objects like supernovae. AI has the potential to disentangle the coupling of the atomic lines and achieve quantitative measurement of the chemical compositions based on the observed spectra. This goal can be accomplished in two approaches. The first one is based on empirical analysis of observational data. Neural networks can be built to reduce the dimensionality of the problem. The second is to build physics-informed neural networks and construct physical models with observational data as the initial/boundary conditions. I will show the applications of these two to the studies of Type Ia supernovae, considered the most accurate extragalactic distance calibrators in the Universe.
+
+
+**10/31/2023**: [Wei Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/WeiCai) Professor in Southern Methodist University
+
+
+**Time and Location**: 10 am - 11 am, John T. Rettaliata Engineering Center 103
+
+**Title**: DeepMartNet - A Martingale based Deep Neural Network Algorithm for Eigenvalue/BVP Problems of PDEs and Optimal Stochastic Controls
+
+**Abstract**: In this talk, we will present a deep neural network (DNN) learning algorithm for solving high dimensional Eigenvalue (EV) and boundary value problems (BVPs)  for elliptic operators and initial BVPs (IBVPs) of quasi-linear parabolic equations as well as optimal stochastic controls. The method is based on the Martingale property in the stochastic representation for the eigenvalue/BVP/IBVP problems and martingale principle for optimal stochastic controls. A loss function based on the Martingale property can be used for an efficient optimization by sampling the stochastic processes associated with the elliptic operators or value process  for stochastic controls. The Martingale property conforms naturally with the stochastic gradient descent process  for the DNN optimization. The proposed algorithm can be used for eigenvalue problems and BVPs and  IBVPs with Dirichlet, Neumann, and Robin boundaries in bounded or unbounded domains and some feedback stochastic control problems. Numerical results for BVP and EV problems in high dimensions will be presented.
+
 <br/><br/>
