@@ -60,12 +60,19 @@ The first question suggests a hypothesis testing perspective of differential pri
 
 **11/14/2023**: [Meng Wang](https://ecse.rpi.edu/people/faculty/meng-wang) Associate Professor at Rensselaer Polytechnic Institute (RPI)
 
-
 **Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118 (The Auditorium)
 
 **Title**: Computationally Efficient Deep Learning with Generalization Guarantees
 
 **Abstract**: Deep learning has demonstrated extraordinary empirical success in various applications. Despite the great promise, DL has significant computation requirements. Moreover, DL lacks interpretability and performance guarantees and often acts as the “black box” due to its extreme complexity. This talk introduces our ongoing efforts to reduce the computation cost of deep learning while maintaining its ability to generalize on unseen data. Our first approach is network pruning, which removes part of the neuron weights in a complex model to reduce the inference cost. We illustrate how the degree of network sparsity impacts sample complexity and convergence rates quantitatively. Furthermore, we establish that typical magnitude-based pruning methods can effectively reduce model size without compromising generalization performance across a broad range of scenarios. Our second approach is the Mixture of Experts (MoE) architecture, which routes each input to a few subnetworks (termed as experts) rather than processing it through the entire network to reduce computation. We explore the application of patch-level MoEs (pMoEs) in vision and language tasks and offer the first theoretical guarantee of their generalization performance. We demonstrate that pMoEs simultaneously reduce sample complexity, computational complexity, and model complexity while maintaining equivalent generalization accuracy.
 
+
+**11/17/2023**: [Neil Gong](https://ece.duke.edu/faculty/neil-gong) Assistant Professor at Duke University
+
+**Time and Location**: 12:45 pm - 1:45 pm, Stuart Building 111
+
+**Title**: Secure Content Moderation for Generative AI
+
+**Abstract**: Generative AI–such as GPT-4 and DALL-E 3–raises many ethical and legal concerns such as the generation of harmful content, scaling disinformation and misinformation campaigns, as well as disrupting education and learning. Content moderation for generative AI aims to address these ethical and legal concerns via 1) preventing a generative AI model from synthesizing harmful content, and 2) detecting AI-generated content. Prevention is often implemented using safety filters, while detection is implemented by watermark. Both prevention and watermark-based detection have been recently widely deployed by industry. In this talk, we will discuss the security of existing prevention and watermark-based detection methods in adversarial settings.
 
 <br/><br/>
