@@ -10,7 +10,7 @@ author_profile: true
 
 **10/06/2023**: [Ermin Wei](http://users.eecs.northwestern.edu/~erminwei/) Associate Professor at the Electrical and Computer Engineering Department and Industrial Engineering and Management Sciences Department of Northwestern University
 
-**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118
+**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118 (The Auditorium)
 
 **Title**: Flexible and Faithful Federated Learning and Unlearning Methods
 
@@ -19,7 +19,7 @@ author_profile: true
 
 **10/10/2023**: [Shuo Han](https://hanshuo.people.uic.edu/site/) Assistant Professor at the Department of Electrical and Computer Engineering of University of Illinois at Chicago
 
-**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118
+**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118 (The Auditorium)
 
 **Title**: Strategic Influencing in Multi-Agent Systems
 
@@ -28,7 +28,7 @@ author_profile: true
 
 **10/17/2023**: [Jinshuo Dong](https://www2.math.upenn.edu/~jinshuo/) Post-doc at IDEAL (Northwestern University and TTI Chicago)
 
-**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118
+**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118 (The Auditorium)
 
 **Title**: The Design Choice of Privacy as a Rigid Constraint
 
@@ -56,5 +56,16 @@ The first question suggests a hypothesis testing perspective of differential pri
 **Title**: DeepMartNet - A Martingale based Deep Neural Network Algorithm for Eigenvalue/BVP Problems of PDEs and Optimal Stochastic Controls
 
 **Abstract**: In this talk, we will present a deep neural network (DNN) learning algorithm for solving high dimensional Eigenvalue (EV) and boundary value problems (BVPs)  for elliptic operators and initial BVPs (IBVPs) of quasi-linear parabolic equations as well as optimal stochastic controls. The method is based on the Martingale property in the stochastic representation for the eigenvalue/BVP/IBVP problems and martingale principle for optimal stochastic controls. A loss function based on the Martingale property can be used for an efficient optimization by sampling the stochastic processes associated with the elliptic operators or value process  for stochastic controls. The Martingale property conforms naturally with the stochastic gradient descent process  for the DNN optimization. The proposed algorithm can be used for eigenvalue problems and BVPs and  IBVPs with Dirichlet, Neumann, and Robin boundaries in bounded or unbounded domains and some feedback stochastic control problems. Numerical results for BVP and EV problems in high dimensions will be presented.
+
+
+**11/14/2023**: [Meng Wang](https://ecse.rpi.edu/people/faculty/meng-wang) Associate Professor at Rensselaer Polytechnic Institute (RPI)
+
+
+**Time and Location**: 12:45 pm - 1:45 pm, Siegel Hall 118 (The Auditorium)
+
+**Title**: Computationally Efficient Deep Learning with Generalization Guarantees
+
+**Abstract**: Deep learning has demonstrated extraordinary empirical success in various applications. Despite the great promise, DL has significant computation requirements. Moreover, DL lacks interpretability and performance guarantees and often acts as the “black box” due to its extreme complexity. This talk introduces our ongoing efforts to reduce the computation cost of deep learning while maintaining its ability to generalize on unseen data. Our first approach is network pruning, which removes part of the neuron weights in a complex model to reduce the inference cost. We illustrate how the degree of network sparsity impacts sample complexity and convergence rates quantitatively. Furthermore, we establish that typical magnitude-based pruning methods can effectively reduce model size without compromising generalization performance across a broad range of scenarios. Our second approach is the Mixture of Experts (MoE) architecture, which routes each input to a few subnetworks (termed as experts) rather than processing it through the entire network to reduce computation. We explore the application of patch-level MoEs (pMoEs) in vision and language tasks and offer the first theoretical guarantee of their generalization performance. We demonstrate that pMoEs simultaneously reduce sample complexity, computational complexity, and model complexity while maintaining equivalent generalization accuracy.
+
 
 <br/><br/>
