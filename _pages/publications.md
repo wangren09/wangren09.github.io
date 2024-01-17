@@ -20,6 +20,8 @@ author_profile: true
 
 **Journal Publications**
 ------
+1. Ignacio de Cominges Guerra\*, Wenting Li, **Ren Wang**, "A Comprehensive Analysis of PINNs for Power System Transient Stability", Electronics, 2024
+
 1. Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Physics-Constrained Adversarial Training for Neural Networks in Stochastic Power Grids", IEEE Transactions on Artificial Intelligence, 2023
 
 1. **Ren Wang**, Tianqi Chen, Stephen Lindsly, Alnawaz Rehemtulla, Indika Rajapakse, Alfred Hero, ``RAILS: A Robust Adversarial Immune-inspired Learning System'', IEEE Access, 2022.
@@ -39,6 +41,8 @@ author_profile: true
 
 **Conference Publications**
 ------
+1. Soumyadeep Pal\*, Yuguang Yao, Ren Wang, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024
+
 1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
 
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification", ICLR TML4H 2023  (**The first two authors contributed equally**)
