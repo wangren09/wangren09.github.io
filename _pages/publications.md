@@ -41,7 +41,7 @@ author_profile: true
 
 **Conference Publications**
 ------
-1. Soumyadeep Pal\*, Yuguang Yao, Ren Wang, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024
+1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024
 
 1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
 
