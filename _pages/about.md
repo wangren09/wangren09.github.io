@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
       <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
       <li><strong>01/2024</strong> Our paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics.</li>
       <li><strong>10/2023</strong> I am organizing the Frontiers of Data Science: Theory, Applications, and Trustworthiness Seminar at Illinois Tech.</li>
