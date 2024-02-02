@@ -9,8 +9,6 @@ author_profile: true
 
 **Under review**
 
-[C] **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", 2022. (under review) (arXiv: https://arxiv.org/abs/2110.03106)
-
 [C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
 
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
@@ -20,6 +18,8 @@ author_profile: true
 
 **Journal Publications**
 ------
+1. **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", IEEE Access, 2024
+
 1. Ignacio de Cominges Guerra\*, Wenting Li, **Ren Wang**, "A Comprehensive Analysis of PINNs for Power System Transient Stability", Electronics, 2024
 
 1. Wenting Li, Deepjyoti Deka, **Ren Wang**, Mario R. Arrieta Paternina, "Physics-Constrained Adversarial Training for Neural Networks in Stochastic Power Grids", IEEE Transactions on Artificial Intelligence, 2023
