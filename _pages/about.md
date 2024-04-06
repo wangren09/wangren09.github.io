@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>02/2024</strong> Jane receives first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition. Congrats! .</li>
       <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
       <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
       <li><strong>01/2024</strong> Our paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics.</li>
