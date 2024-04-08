@@ -50,7 +50,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
       <li><strong>04/2024</strong> Jane receives first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition. Congrats! .</li>
       <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
       <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
-      <li><strong>01/2024</strong> Our paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics.</li>
+      <li><strong>01/2024</strong> Ignacio's paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics. Congrats!</li>
       <li><strong>10/2023</strong> I am organizing the Frontiers of Data Science: Theory, Applications, and Trustworthiness Seminar at Illinois Tech.</li>
       <li><strong>10/2023</strong> I attended the <a href="https://drive.google.com/file/d/1XiqILOtIkyjWV4e1XougRRtxrQSE4X00/view?usp=sharing">"ASEE DELTA Junior Faculty Institute"</a>.</li>
       <li><strong>09/2023</strong> I am organizing a workshop on <a href="https://www.ideal-institute.org/2023/08/31/trustworthiness-in-the-presence-of-adversaries-and-strategic-agents-in-ml/">"Trustworthiness in the Presence of Adversaries and Strategic Agents in ML"</a>, which will be held on Oct.12 (Thursday) in-person at Northwestern. If you're interested in the workshop, please consider registering for it.</li>
