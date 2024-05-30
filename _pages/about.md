@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>06/2024</strong> IDEAL is organizing the Annual Meeting and the Industry Day on June 6th and 7th. You are welcome to register for the <a href="https://www.ideal-institute.org/eventsandworkshops/">event here</a>.</li>
+      <li><strong>06/2024</strong> IDEAL is organizing the Annual Meeting and the Industry Day on June 6th and 7th. You are welcome to register for the <a href="https://www.ideal-institute.org/2024/05/06/ideal-annual-meeting-and-industry-day-2024/">event here</a>.</li>
       <li><strong>04/2024</strong> Jane receives <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition</a>. Congrats! .</li>
       <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
       <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
