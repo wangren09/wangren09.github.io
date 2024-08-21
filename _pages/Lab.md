@@ -36,6 +36,8 @@ Arturo Galofre (MS student)
 
 Yi Yu (MS student)
 
+Xiang Liu (MS student)
+
 ## Visiting/Extern/Intern Students (In Person & Remote)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
@@ -53,6 +55,10 @@ Wei Li (Graduate student, Southern University of Science and Technology, Visitin
 Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023)
 
 Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023)
+
+Yining Tan (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023)
+
+Haoran Qin (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023)
 
 Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2023 - Present)
 
