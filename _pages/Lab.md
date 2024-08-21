@@ -19,13 +19,43 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 
 ## Lab Members
 
-Muhammad Sharjeel Ahmad Anjum (PhD student)
+Xu Zhang (PhD student)
+*M.S., EE, Huazhong University of Science and Technology, China
+
+Yingdan Shi (PhD student)
+*M.S., CS, Soochow University, China
 
 Jane Downer (PhD student, co-advised with Binghui Wang)
+*M.S., CS, Illinois Institute of Technology, China
 
 Ignacio De Cominges (MS student)
 
 Lola Giráldez (MS student)
 
 Arturo Galofre (MS student)
+
+Yi Yu (MS student)
+
+## Visiting Students (In Person & Remote)
+
+Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
+
+Jie Ren (Graduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present)
+
+Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present)
+
+Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present)
+
+Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024)
+
+Wei Li (Graduate student, Southern University of Science and Technology, Visiting Time: May 2023 - Dec 2023)
+
+Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023)
+
+Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023)
+
+Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2023 - Present)
+
+
+
 
