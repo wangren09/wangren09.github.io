@@ -20,7 +20,8 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 ## Lab Members
 
 Xu Zhang (PhD student)
--M.S., EE, Huazhong University of Science and Technology, China
+
+*M.S., EE, Huazhong University of Science and Technology, China
 
 Yingdan Shi (PhD student)
 -M.S., CS, Soochow University, China
