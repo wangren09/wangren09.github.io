@@ -54,6 +54,8 @@ Wei Li (Graduate student, Southern University of Science and Technology, Visitin
 
 Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023)
 
+Jianing Bai (Graduate student, Peking University, Visiting Time: May 2022 - Aug 2022)
+
 Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023)
 
 Yining Tan (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023)
