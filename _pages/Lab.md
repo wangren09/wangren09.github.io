@@ -48,7 +48,7 @@ Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024
 
 Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024)
 
-Wei Li (Graduate student, Southern University of Science and Technology, Visiting Time: May 2023 - Dec 2023)
+Wei Li (Graduate student, Southern University of Science and Technology, Visiting Time: Aug 2023 - Present)
 
 Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023)
 
