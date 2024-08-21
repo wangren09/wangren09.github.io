@@ -15,7 +15,7 @@ Email: rwang74 (you can make the "at") iit (dot) edu
 
 **Openings**
 ------
-**Prospective graduate students:** I am looking for highly motivated PhD/Master students with background in Machine Learning/Signal Processing/Mathematics/Power System. Please contact me along with your CV and transcript if you are interested.
+**Prospective graduate students:** I am looking for highly motivated PhD/Master students with background in Artificial Intelligence/Machine Learning/Signal Processing/Mathematics/Power System. Please contact me along with your CV and transcript if you are interested.
  
 **Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email. <!---For undergraduate and Master students already enrolled in IIT, if you're interested in doing research in my group, please setup an appointment with me via your IIT emails.--->
 
