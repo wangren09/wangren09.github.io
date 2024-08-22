@@ -55,11 +55,11 @@ Jianing Bai (Graduate student, Peking University, Visiting Time: May 2022 - Aug 
 
 Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023)
 
-Yining Tan (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023)
+Yining Tan (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023, supported by SURE: Summer Undergraduate Research Experience)
 
-Haoran Qin (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023)
+Haoran Qin (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023, supported by SURE: Summer Undergraduate Research Experience)
 
-Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2023 - Present)
+Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2024 - Present)
 
 
 
