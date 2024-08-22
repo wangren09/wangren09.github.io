@@ -31,10 +31,6 @@ Lola Giráldez (MS student)
 
 Arturo Galofre (MS student)
 
-Yi Yu (MS student)
-
-Xiang Liu (MS student)
-
 ## Visiting/Extern/Intern Students (In Person & Remote)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
