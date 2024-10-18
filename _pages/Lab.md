@@ -39,7 +39,9 @@ Yi Yu (MS student)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
 
-Jie Ren (Graduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present)
+Xinyu Liu (Undergraduate student, Sichuan University, Visiting Time: August 2024 - Present)
+
+Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present)
 
 Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present)
 
