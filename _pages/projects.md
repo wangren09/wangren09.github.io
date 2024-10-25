@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-
+<!---
 
 **1. Robust AI Guided by the Immune System**
 ------
@@ -50,7 +50,7 @@ The project aims at developing advanced machine learning and data-driven algorit
 <img src='/images/data_driven_power_grid.png' width='500'>
 </div>
 
-
+--->
 
 <!--
 **Robust AI Guided by the Immune System**
