@@ -11,13 +11,21 @@ author_profile: true
 
 [C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
 
+[C] Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," (under review) (arXiv preprint arXiv:2406.05826)
+
+[C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
+
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
 
-<!---[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)--->
+[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, Alfred Hero, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
+
+[J] Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," arXiv preprint arXiv:2407.11031 (under review. **The first two authors contributed equally**)
 
 
 **Journal Publications**
 ------
+1. Zhiyuan Wang, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, **Ren Wang**, Kaidi Xu, Xiaoshuang Shi, "Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond", The International Journal of Intelligent Real-Time Automation, 2024
+
 1. **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", IEEE Access, 2024
 
 1. Ignacio de Cominges Guerra\*, Wenting Li, **Ren Wang**, "A Comprehensive Analysis of PINNs for Power System Transient Stability", Electronics, 2024
