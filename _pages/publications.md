@@ -9,11 +9,11 @@ author_profile: true
 
 **Under review**
 
-[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
-
 [C] Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," (under review) (arXiv preprint arXiv:2406.05826)
 
 [C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
+
+[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
 
 [J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
 
@@ -21,9 +21,13 @@ author_profile: true
 
 [J] Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," arXiv preprint arXiv:2407.11031 (under review. **The first two authors contributed equally**)
 
+[J] Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," arXiv preprint arXiv:2411.11668 (under review.)
+
 
 **Journal Publications**
 ------
+1. Jiawei Wu, Jun Wen, Mingyuan Yan, Anqi Dong, Shuai Gao, **Ren Wang**, Can Chen, "Heterogeneous Entity Representation for Medicinal Synergy Prediction", Bioinformatics, 2024
+
 1. Zhiyuan Wang, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, **Ren Wang**, Kaidi Xu, Xiaoshuang Shi, "Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond", The International Journal of Intelligent Real-Time Automation, 2024
 
 1. **Ren Wang**, Zhe Xu, Alfred Hero, "Multi-Trigger-Key: Towards Multi-Task Privacy Preserving In Deep Learning", IEEE Access, 2024
