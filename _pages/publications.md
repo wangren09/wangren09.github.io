@@ -26,6 +26,8 @@ author_profile: true
 
 **Journal Publications**
 ------
+1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
+
 1. Jiawei Wu, Jun Wen, Mingyuan Yan, Anqi Dong, Shuai Gao, **Ren Wang**, Can Chen, "Heterogeneous Entity Representation for Medicinal Synergy Prediction", Bioinformatics, 2024
 
 1. Zhiyuan Wang, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, **Ren Wang**, Kaidi Xu, Xiaoshuang Shi, "Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond", The International Journal of Intelligent Real-Time Automation, 2024
@@ -53,6 +55,8 @@ author_profile: true
 
 **Conference Publications**
 ------
+1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025
+
 1. **Ren Wang**, Yuxuan Li, Alfred Hero, "Deep Adversarial Defense Against Multilevel-Lp Attacks", IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024
    
 1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024
