@@ -45,10 +45,18 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
   <div class="content">
     <h2>Recent Activities</h2>
     <hr>
-    <ul>
+    <ul>https://midwest-ml.org/2025/
+      <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025.</li>
+      <li><strong>02/2025</strong> I am co-organizing the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>, which will be held on Jun.23-24 in Chicago.</li>
+      <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
+Mobile Ad-Hoc and Smart Systems (MASS 2025)"</a>, which will be held on Oct.6-8 in Chicago.</li>
+      <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the IEEE Control Systems Letters.</li>
+       <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the Bioinformatics.</li>
+      <li><strong>12/2024</strong> Our paper on Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications was accepted by the International Journal of Intelligent Real-Time Automation.</li>
       <li><strong>11/2024</strong> I am organizing a workshop on <a href="https://www.ideal-institute.org/2024/10/30/workshop-on-privacy-and-interpretability-in-generative-ai-peering-into-the-black-box//">"Privacy and Interpretability in Generative AI: Peering into the Black Box"</a>, which will be held on Nov.22 (Friday) in-person at Illinois Tech. If you're interested in the workshop, please consider registering for it (The registration is free).</li>
       <li><strong>06/2024</strong> IDEAL is organizing the Annual Meeting and the Industry Day on June 6th and 7th. You are welcome to register for the <a href="https://www.ideal-institute.org/2024/05/06/ideal-annual-meeting-and-industry-day-2024/">event here</a>.</li>
       <li><strong>04/2024</strong> Jane receives <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition</a>. Congrats! .</li>
+      <li><strong>04/2024</strong> Our paper on Deep Adversarial Defense Against Multilevel-Lp Attacks was accepted by 2024 IEEE International Workshop on Machine Learning for Signal Processing.</li>
       <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
       <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
       <li><strong>01/2024</strong> Ignacio's paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics. Congrats!</li>
