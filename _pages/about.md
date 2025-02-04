@@ -46,7 +46,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>02/2025</strong> Paul developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>
+      <li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>
       <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025.</li>
       <li><strong>02/2025</strong> I am co-organizing the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>, which will be held on Jun.23-24 in Chicago.</li>
       <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
