@@ -19,13 +19,13 @@ author_profile: true
 
 [J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, Alfred Hero, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
 
-[J] Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," arXiv preprint arXiv:2407.11031 (under review. **The first two authors contributed equally**)
-
 [J] Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," arXiv preprint arXiv:2411.11668 (under review.)
 
 
 **Journal Publications**
 ------
+1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," IEEE Journal of Selected Topics in Signal Processing, 2025 (**The first two authors contributed equally**)
+
 1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
 
 1. Jiawei Wu, Jun Wen, Mingyuan Yan, Anqi Dong, Shuai Gao, **Ren Wang**, Can Chen, "Heterogeneous Entity Representation for Medicinal Synergy Prediction", Bioinformatics, 2024
