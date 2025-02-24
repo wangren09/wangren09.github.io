@@ -51,7 +51,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
       <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025.</li>
       <li><strong>02/2025</strong> I am co-organizing the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>, which will be held on Jun.23-24 in Chicago.</li>
       <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
-Mobile Ad-Hoc and Smart Systems (MASS 2025)"</a>, which will be held on Oct.6-8 in Chicago.</li>
+Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which will be held on Oct.6-8 in Chicago.</li>
       <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the Bioinformatics.</li>
       <li><strong>01/2025</strong> Our paper on Data-Driven Analysis of T-Product-Based Dynamical Systems was accepted by the IEEE Control Systems Letters.</li>
       <li><strong>12/2024</strong> Our paper on Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications was accepted by the International Journal of Intelligent Real-Time Automation.</li>
