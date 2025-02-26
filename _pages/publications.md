@@ -9,8 +9,6 @@ author_profile: true
 
 **Under review**
 
-[C] Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," (under review) (arXiv preprint arXiv:2406.05826)
-
 [C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
 
 [C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
@@ -55,6 +53,8 @@ author_profile: true
 
 **Conference Publications**
 ------
+1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+
 1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025
 
 1. **Ren Wang**, Yuxuan Li, Alfred Hero, "Deep Adversarial Defense Against Multilevel-Lp Attacks", IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024
