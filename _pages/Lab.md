@@ -39,29 +39,29 @@ Yi Yu (MS student)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
 
-Xinyu Liu (Undergraduate student, Sichuan University, Visiting Time: August 2024 - Present)
+Xinyu Liu (Undergraduate student, Sichuan University, Visiting Time: August 2024 - Present, paper submitted to ICML)
 
-Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present)
+Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present, paper accepted by ICLR)
 
-Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present)
+Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present, paper submitted to IEEE TSIPN)
 
 Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present)
 
-Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024)
+Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024, paper accepted by ICLR)
 
-Wei Li (Graduate student, Southern University of Science and Technology, Visiting Time: Aug 2023 - Present)
+Wei Li (Graduate student, Southern University of Science and Technology, Visiting Time: Aug 2023 - Present, paper accepted by CVPR)
 
-Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023)
+Hanxiao Lu (Graduate student, Columbia University, Visiting Time: May 2023 - Dec 2023, paper accepted by IEEE JSTSP)
 
-Jianing Bai (Graduate student, Peking University, Visiting Time: May 2022 - Aug 2022)
+Jianing Bai (Graduate student, Peking University, Visiting Time: May 2022 - Aug 2022, paper accepted by IEEE PES GM)
 
-Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023)
+Zeyu Huang (Undergraduate student, Beijing Normal University, Visiting Time: May 2023 - Dec 2023, paper accepted by IEEE JSTSP)
 
 Yining Tan (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023, supported by SURE: Summer Undergraduate Research Experience)
 
 Haoran Qin (Undergraduate student, Illinois Institute of Technology, Visiting Time: May 2023 - Aug 2023, supported by SURE: Summer Undergraduate Research Experience)
 
-Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2024 - Present)
+Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2024 - Present, created an education website)
 
 
 
