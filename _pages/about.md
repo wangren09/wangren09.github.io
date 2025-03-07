@@ -12,6 +12,7 @@ Assistant Professor<br/>
 Department of Electrical and Computer Engineering<br/>
 Illinois Institute of Technology, Chicago, IL 60616<br/>
 <a href="https://www.ideal-institute.org/">"The Institute for Data, Econometrics, Algorithms, and Learning"</a>
+
 Email: rwang74 (you can make the "at") iit (dot) edu
 
 **Openings**
