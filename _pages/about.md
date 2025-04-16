@@ -47,10 +47,10 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025.</li>
-      <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing.</li>
+      <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025. Congrads to Wei!</li>
+      <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing. Congrads to Hanxiao and Zeyu!</li>
       <li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>
-      <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025.</li>
+      <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025. Congrads to Jie!</li>
       <li><strong>02/2025</strong> I am co-organizing the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>, which will be held on Jun.23-24 in Chicago.</li>
       <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
 Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which will be held on Oct.6-8 in Chicago.</li>
@@ -62,7 +62,7 @@ Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which w
       <li><strong>04/2024</strong> Jane receives <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition</a>. Congrats! .</li>
       <li><strong>04/2024</strong> Our paper on Deep Adversarial Defense Against Multilevel-Lp Attacks was accepted by 2024 IEEE International Workshop on Machine Learning for Signal Processing.</li>
       <li><strong>02/2024</strong> Our paper on Towards Multi-Task Privacy Preserving In Deep Learning was accepted by IEEE Access.</li>
-      <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024.</li>
+      <li><strong>01/2024</strong> Our paper on Identifying Backdoor Data with Optimized Scaled Prediction Consistency was accepted by ICLR 2024. Congrads to Soumeyadeep!</li>
       <li><strong>01/2024</strong> Ignacio's paper on Comprehensive Analysis of PINNs for Power System Transient Stability was accepted by Electronics. Congrats!</li>
       <li><strong>10/2023</strong> I am organizing the Frontiers of Data Science: Theory, Applications, and Trustworthiness Seminar at Illinois Tech.</li>
       <li><strong>10/2023</strong> I attended the <a href="https://drive.google.com/file/d/1XiqILOtIkyjWV4e1XougRRtxrQSE4X00/view?usp=sharing">"ASEE DELTA Junior Faculty Institute"</a>.</li>
@@ -71,10 +71,10 @@ Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which w
       <li><strong>07/2023</strong> I was invited to give a talk on Deep Learning Attacks and Defenses at the Oak Ridge National Laboratory</li>
       <li><strong>07/2023</strong> I enrolled in the IEEE PES GM 2023 Mentoring Program as an academic mentor</li>
       <li><strong>06/2023</strong> I received the <a href="https://www.orau.org/news/releases/2023/powe-research-grants-awarded-to-junior-faculty.html"><strong>2023 ORAU Ralph E. Powe Junior Faculty Enhancement Award</strong></a> (35 among 167 applications from 93 institutions). Thanks, ORAU!</li>
-      <li><strong>04/2023</strong> Our paper on Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification was accepted by ICLR 2023 TML4H.</li>
+      <li><strong>04/2023</strong> Our paper on Enhancing Healthcare Model Trustworthiness through Theoretically Guaranteed One-Hidden-Layer CNN Purification was accepted by ICLR 2023 TML4H. Congrads to Hanxiao and Zeyu!</li>
      <li><strong>03/2023</strong> I will serve as a guest editor for the upcoming special issue on <a href="https://www.mdpi.com/journal/electronics/special_issues/Z9OT1GN32T">Advances in Enhancing Energy and Power System Stability and Control</a> in the journal, Electronics (check our <a href="https://drive.google.com/file/d/1TdKJvo8JpZqUlQ5HwdKl7tVm1Vig39UJ/view?usp=sharing">banner</a> and <a href="https://drive.google.com/file/d/1kAhydZnUKRz4JP97O4Rl_7SVoRM1NJJk/view?usp=sharing">flyer</a>). This is an incredible opportunity to contribute to the cutting-edge research in this field and I would like to invite you to join me in this endeavor. Please consider submitting your paper to this special issue!
       <li><strong>02/2023</strong> I received the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2246157&HistoricalAwards=false"><strong>NSF CISE Research Initiation Initiative (CRII) Award</strong></a> [<a href="https://www.iit.edu/news/engineering-professor-receives-grant-immune-system-inspired-machine-learning-research">News</a>]. Thanks NSF for the support!</li>
-      <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting.</li>
+      <li><strong>02/2023</strong> Our paper on Physics-Aware Backdoor Attacks in Power System Applications was accepted by the 2023 IEEE PES General Meeting. Congrads to Jianing!</li>
       <li><strong>02/2023</strong> I gave a talk on Practical Machine Learning Attacks and Defenses at Wayne State University</li>
       <li><strong>01/2023</strong> Our paper on poisoning attack mitigation using self-training was accepted by AAAI’s Workshop on AI Safety and was selected as the <a href="https://safeai.webs.upv.es/index.php/best-paper-award/">Best Paper Award Finalist</a>.</li>
       <li><strong>12/2022</strong> Our paper on Physics-Constrained Adversarial Training was accepted by IEEE Transactions on Artificial Intelligence.</li>
