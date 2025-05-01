@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>02/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025. Congratulations, Xu!</li>
+      <li><strong>05/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025. Congratulations, Xu!</li>
       <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025. Congrads to Wei!</li>
       <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing. Congrads to Hanxiao and Zeyu!</li>
       <li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>
