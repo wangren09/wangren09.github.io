@@ -53,9 +53,11 @@ author_profile: true
 
 **Conference Publications**
 ------
-1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate 26.9%)
 
-1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025
+1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (acceptance rate 22.1%)
+
+1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025 (acceptance rate 31.7%)
 
 1. **Ren Wang**, Yuxuan Li, Alfred Hero, "Deep Adversarial Defense Against Multilevel-Lp Attacks", IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024
    
