@@ -7,19 +7,6 @@ author_profile: true
 
 \* denotes students under my supervision/co-supervision
 
-**Under review**
-
-[C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
-
-[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
-
-[J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
-
-[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, Alfred Hero, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
-
-[J] Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," arXiv preprint arXiv:2411.11668 (under review.)
-
-
 **Journal Publications**
 ------
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," IEEE Journal of Selected Topics in Signal Processing, 2025 (**The first two authors contributed equally**)
@@ -61,7 +48,7 @@ author_profile: true
 
 1. **Ren Wang**, Yuxuan Li, Alfred Hero, "Deep Adversarial Defense Against Multilevel-Lp Attacks", IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024
    
-1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024
+1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024 (acceptance rate 31.1%)
 
 1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
 
@@ -108,3 +95,14 @@ computational biology (ICML-WCB), 2021.
 1. "A kind of wind farm grid-connected method for analyzing stability considering wake effect", CN103956767B
 
 
+**Under review**
+
+[C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
+
+[C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
+
+[J] **Ren Wang**, Pengzhi Gao, Meng Wang, "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures", (under review. **The first two authors contributed equally**)
+
+[J] **Ren Wang**, Yuxuan Li\*, Sijia Liu, Alfred Hero, "Robust Mode Connectivity-Oriented Adversarial Defense: Enhancing Neural Network Robustness Against Diversified $\ell_p$ Attacks", (arXiv: http://128.84.21.203/pdf/2303.10225) (under review. **The first two authors contributed equally**)
+
+[J] Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," arXiv preprint arXiv:2411.11668 (under review.)
