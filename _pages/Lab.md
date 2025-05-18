@@ -18,6 +18,9 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 
 
 ## Lab Members
+Hyo Seo Kim (PhD student)
+
+Gang Luo (PhD student)
 
 Xu Zhang (PhD student)
 
