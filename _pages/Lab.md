@@ -39,6 +39,13 @@ Xiang Liu (MS student)
 Yi Yu (MS student)
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
+Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present)
+
+Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present)
+
+Yi Qin (University of Michigan, Visiting Time: April 2025 - Present)
+
+Yawen Zhao (Graduate student, Nanyang Technological University, Visiting Time: April 2025 - Present)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
 
