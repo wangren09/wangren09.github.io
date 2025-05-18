@@ -41,9 +41,13 @@ Yi Yu (MS student)
 Dev Mistry (MS student)
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
+Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
+
 Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present)
 
 Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present)
+
+Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
 Yi Qin (University of Michigan, Visiting Time: April 2025 - Present)
 
