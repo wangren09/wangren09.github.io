@@ -26,7 +26,7 @@ Xu Zhang (PhD student)
 
 Yingdan Shi (PhD student)
 
-Jane Downer (PhD student, co-advised with Binghui Wang)
+Jane Downer (PhD student, co-advised with Prof. Binghui Wang)
 
 Ignacio De Cominges (MS student)
 
@@ -37,6 +37,8 @@ Arturo Galofre (MS student)
 Xiang Liu (MS student)
 
 Yi Yu (MS student)
+
+Dev Mistry (MS student)
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present)
