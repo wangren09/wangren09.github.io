@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>02/2023</strong> Grateful for receiving funding from the U.S. Department of Energy (DOE) for the 2MC (Midwest Center for Microgrid Cybersecurity) project!</li>
+      <li><strong>06/2025</strong> Grateful for receiving <strong>funding from the U.S. Department of Energy (DOE)</strong> for the 2MC (Midwest Center for Microgrid Cybersecurity) project!</li>
       <li><strong>06/2025</strong> I co-organized the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>.</li>
       <li><strong>06/2025</strong> Yingdan's two papers - one on Breaking Machine Unlearning Weight Entanglement and the other on Rethinking Evaluation Metrics for Machine Unlearning have been accepted to ICML 2025 Workshop on Machine Unlearning for
 Generative AI. Congratulations, Yindan!</li>
