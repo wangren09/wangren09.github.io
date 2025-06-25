@@ -50,7 +50,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
       <li><strong>06/2025</strong> Grateful for receiving <strong>funding from the U.S. Department of Energy (DOE)</strong> for the 2MC (Midwest Center for Microgrid Cybersecurity) project!</li>
       <li><strong>06/2025</strong> I co-organized the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>.</li>
       <li><strong>06/2025</strong> Yingdan's two papers - one on Breaking Machine Unlearning Weight Entanglement and the other on Rethinking Evaluation Metrics for Machine Unlearning have been accepted to ICML 2025 Workshop on Machine Unlearning for
-Generative AI. Congratulations, Yindan!</li>
+Generative AI. Congratulations, Yingdan!</li>
       <li><strong>05/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025. Congratulations, Xu!</li>
       <li><strong>05/2025</strong> I co-organized the <a href="https://www.ideal-institute.org/2025/03/07/efficient-machine-learning-and-optimization/">"Workshop on Efficient Machine Learning and Optimization"</a>.</li>
       <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025. Congrads to Wei!</li>
