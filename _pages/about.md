@@ -47,12 +47,15 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>02/2023</strong> Grateful for receiving funding from the U.S. Department of Energy (DOE) for the 2MC (Midwest Center for Microgrid Cybersecurity) project!</li>
+      <li><strong>06/2025</strong> I co-organized the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>.</li>
+      <li><strong>06/2025</strong> Yingdan's two papers - one on Breaking Machine Unlearning Weight Entanglement and the other on Rethinking Evaluation Metrics for Machine Unlearning have been accepted to ICML 2025 Workshop on Machine Unlearning for
+Generative AI. Congratulations, Yindan!</li>
       <li><strong>05/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025. Congratulations, Xu!</li>
       <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025. Congrads to Wei!</li>
       <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing. Congrads to Hanxiao and Zeyu!</li>
       <li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>
       <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025. Congrads to Jie!</li>
-      <li><strong>02/2025</strong> I am co-organizing the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>, which will be held on Jun.23-24 in Chicago.</li>
       <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
 Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which will be held on Oct.6-8 in Chicago.</li>
       <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the Bioinformatics.</li>
