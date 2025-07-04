@@ -51,9 +51,9 @@ Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visit
 
 Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
-Shihan Feng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong)
+Shihan Feng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong, paper submitted to NeurIPS)
 
-Xin Zheng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong)
+Xin Zheng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong, paper submitted to NeurIPS)
 
 Yi Qin (University of Michigan, Visiting Time: April 2025 - Present)
 
