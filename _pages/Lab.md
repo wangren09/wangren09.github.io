@@ -26,8 +26,6 @@ Xu Zhang (PhD student)
 
 Yingdan Shi (PhD student)
 
-Jane Downer (PhD student, co-advised with Prof. Binghui Wang)
-
 Zhaoying Wang (MS student)
 
 Ignacio De Cominges (MS student)
