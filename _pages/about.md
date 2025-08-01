@@ -97,7 +97,7 @@ Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which w
   .sliding-window {
     position: relative;
     overflow: hidden;
-    height: 600px;
+    height: 1000px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
   }
