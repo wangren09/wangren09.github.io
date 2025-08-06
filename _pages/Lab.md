@@ -22,6 +22,8 @@ Hyo Seo Kim (PhD student)
 
 Gang Luo (PhD student)
 
+Dev Mistry (PhD student)
+
 Xu Zhang (PhD student)
 
 Yingdan Shi (PhD student)
@@ -37,8 +39,6 @@ Arturo Galofre (MS student)
 Xiang Liu (MS student)
 
 Yi Yu (MS student)
-
-Dev Mistry (MS student)
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
