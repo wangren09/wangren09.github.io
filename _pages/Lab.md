@@ -18,15 +18,15 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 
 
 ## Lab Members
-Hyo Seo Kim (PhD student)
+Hyo Seo Kim (PhD student; previously at Sogang University)
 
-Gang Luo (PhD student)
+Gang (Garrett) Luo (PhD student; previously at Xi'an Jiaotong University)
 
-Dev Mistry (PhD student)
+Dev Mistry (PhD student; previously at Illinois Tech)
 
-Xu Zhang (PhD student)
+Xu Zhang (PhD student; previously at Huazhong University of Science and Technology)
 
-Yingdan Shi (PhD student)
+Yingdan Shi (PhD student; previously at Soochow University)
 
 Zhaoying Wang (MS student)
 
