@@ -87,5 +87,8 @@ Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science
 ## Group Pictures
 
 <div  align="center">
-<img src='/images/Group Lunch1.jpg' width='500'>
+<figure>
+    <img src="/images/Group Lunch1.jpg" width="500">
+    <figcaption>Group Lunch Fall 2025</figcaption>
+</figure>
 </div>
