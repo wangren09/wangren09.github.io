@@ -84,5 +84,8 @@ Haoran Qin (Undergraduate student, Illinois Institute of Technology, Visiting Ti
 Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science Academy (IMSA),  Visiting Time: May 2024 - Present, created an education website)
 
 
+## Group Pictures
 
-
+<div  align="center">
+<img src='/images/Group Lunch1.png' width='500'>
+</div>
