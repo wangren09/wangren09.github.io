@@ -53,8 +53,6 @@ Shihan Feng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised 
 
 Xin Zheng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong, paper submitted to NeurIPS)
 
-Yi Qin (University of Michigan, Visiting Time: April 2025 - Present)
-
 Yawen Zhao (Graduate student, Nanyang Technological University, Visiting Time: April 2025 - Present)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
