@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>07/2025</strong> Our paper on Identifying Backdoored Graphs in Graph Neural Network Training was accepted by the IEEE Transactions on Information Forensics & Security.</li>
       <li><strong>07/2025</strong> Our paper on Efficient and Robust Continual Graph Learning was accepted by the IEEE Transactions on Signal and Information Processing over Networks. Congrads to Ding!</li>
       <li><strong>06/2025</strong> Grateful for receiving <strong>funding from the U.S. Department of Energy (DOE)</strong> for the 2MC (Midwest Center for Microgrid Cybersecurity) project!</li>
       <li><strong>06/2025</strong> I co-organized the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>.</li>
