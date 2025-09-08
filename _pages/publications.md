@@ -11,6 +11,8 @@ author_profile: true
 ------
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," IEEE Journal of Selected Topics in Signal Processing, 2025 (**The first two authors contributed equally**)
 
+1. Jane Downer\*, **Ren Wang**, Binghui Wang, "Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics," IEEE Transactions on Information Forensics & Security, 2025
+
 1. Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," IEEE Transactions on Signal and Information Processing over Networks, 2025
 
 1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
@@ -102,8 +104,6 @@ computational biology (ICML-WCB), 2021.
 
 
 **Under review**
-
-[C] Jane Downer\*, **Ren Wang**, Binghui Wang, "Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs," (under review) (arXiv preprint arXiv:2403.18136)
 
 [C] **Ren Wang**, Tianqi Chen, "Deep Adversarially-Enhanced k-Nearest Neighbors", 2021. (under review) (arXiv: https://arxiv.org/abs/2108.06797)
 
