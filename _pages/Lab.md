@@ -90,3 +90,9 @@ Paul Ratasuk (High school student, sophomore at Illinois Mathematics and Science
     <figcaption>Group Lunch Fall 2025</figcaption>
 </figure>
 </div>
+
+<figure>
+    <img src="/images/0910Group.png" width="500">
+    <figcaption>Teachers' Day 2025</figcaption>
+</figure>
+</div>
