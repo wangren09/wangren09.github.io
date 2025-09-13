@@ -12,9 +12,9 @@ author_profile: true
 # Trustworthy and Intelligent Machine Learning (TIML) Research Lab
 
 The Trustworthy and Intelligent Machine Learning Research Lab is an innovative research laboratory dedicated to building next-generation intelligent machine learning systems with trustworthiness at the center. The lab's research activities are centered around two key themes: (1) Trustworthy Machine Learning and (2) Intelligent Machine Learning for Engineering and Science. The Trustworthy Machine Learning theme explores issues such as robustness, interpretability, transparency, privacy, and security in machine learning systems. This research theme aims to develop tools and techniques that enable the design and implementation of machine learning systems that can be trusted by end-users, regulators, and other stakeholders. The Intelligent Machine Learning for Engineering and Science theme, on the other hand, focuses on the development of intelligent machine learning systems that enable the reliable and efficient development of engineering and science methodologies, tools, and practices. The lab's research outcomes are expected to have significant impacts on various domains, such as machine learning, computer vision, biology, healthcare, power systems, and education.
-<!---<div  align="center">
-<img src='/images/TIML_Research.png' width='600'>
-</div>--->
+<div  align="center">
+<img src='/images/TIML Lab Research.png' width='600'>
+</div>
 
 
 ## Lab Members
