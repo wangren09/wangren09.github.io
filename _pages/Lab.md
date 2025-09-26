@@ -43,9 +43,9 @@ Yi Yu (MS student)
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
-Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present)
+Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present, paper submitted to ICLR)
 
-Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present)
+Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present, paper submitted to ICLR)
 
 Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
@@ -53,7 +53,7 @@ Shihan Feng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised 
 
 Xin Zheng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong, paper submitted to NeurIPS)
 
-Yawen Zhao (Graduate student, Nanyang Technological University, Visiting Time: April 2025 - Present)
+Yawen Zhao (Graduate student, Nanyang Technological University, Visiting Time: April 2025 - Present, paper submitted to ICLR)
 
 Chirag Chhablani (Graduate student, PhD advisor: Dr. Ian A. Kash, University of Illinois Chicago, Visiting Time: Aug 2023 - Present, supported by IDEAL Institute)
 
@@ -63,7 +63,7 @@ Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: 
 
 Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present, paper submitted to IEEE TSIPN)
 
-Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present)
+Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present, papers submitted to Briefings in Bioinformatics and Communications Biology)
 
 Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024, paper accepted by ICLR)
 
