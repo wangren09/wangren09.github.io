@@ -9,6 +9,8 @@ author_profile: true
 
 **Journal Publications**
 ------
+1. Yanlong Zhao\*, Yixiao Chen, Jiawen Du, Quan Sun, Ren Wang, **Ren Wang**, Can Chen, "DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning," Briefings in Bioinformatics, 2025
+
 1. Hanxiao Lu\*, Zeyu Huang\*, **Ren Wang**, "Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case," IEEE Journal of Selected Topics in Signal Processing, 2025 (**The first two authors contributed equally**)
 
 1. Jane Downer\*, **Ren Wang**, Binghui Wang, "Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics," IEEE Transactions on Information Forensics & Security, 2025
