@@ -40,6 +40,8 @@ Xiang Liu (MS student)
 
 Yi Yu (MS student)
 
+Ashu Meena (MS student)
+
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
@@ -63,7 +65,7 @@ Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: 
 
 Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present, paper submitted to IEEE TSIPN)
 
-Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present, papers submitted to Briefings in Bioinformatics and Communications Biology)
+Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present, one paper accepted by Briefings in Bioinformatics, one paper submitted to Communications Biology)
 
 Soumyadeep Pal (Graduate student, University of Alberta, Visiting Time: May 2022 - Sept 2022 & Jan 2024 - May 2024, paper accepted by ICLR)
 
