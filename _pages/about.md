@@ -48,6 +48,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <hr>
     <ul>
       <li><strong>09/2025</strong> Our paper DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning was accepted by Briefings in Bioinformatics. Congrats to Yanlong!</li>
+      <li><strong>09/2025</strong> We are pleased to announce new computational resource support from Argonne National Laboratory for our population-based machine learning project.</li>
       <li><strong>09/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed engaging educational websites focused on 1. Jailbreak attacks/defenses on LLMs (<a href="https://overcooked-grizzled-dolphin.anvil.app">"Website on Jailbreaks"</a>); 2. Neural network adversarial/backdoor robustness (<a href="https://slippery-possible-blood.anvil.app/">"Website on adversarial attacks and backdoor attacks"</a>) as part of his high school project, specifically designed for high school and university students.</li>
       <li><strong>09/2025</strong> Our paper on Identifying Backdoored Graphs in Graph Neural Network Training was accepted by the IEEE Transactions on Information Forensics & Security. Congrats to Jane!</li>
       <li><strong>07/2025</strong> Our paper on Efficient and Robust Continual Graph Learning was accepted by the IEEE Transactions on Signal and Information Processing over Networks. Congrats to Ding!</li>
