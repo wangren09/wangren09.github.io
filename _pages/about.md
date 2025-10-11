@@ -47,6 +47,9 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>10/2025</strong> I served as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
+Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which was held in Chicago from Oct.6-8. </li>
+      <li><strong>10/2025</strong> I attended the EcoCAR Year 4 Fall Workshop. </li>
       <li><strong>09/2025</strong> Our paper DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning was accepted by Briefings in Bioinformatics. Congrats to Yanlong!</li>
       <li><strong>09/2025</strong> We are pleased to announce new computational resource support from Argonne National Laboratory for our population-based machine learning project.</li>
       <li><strong>09/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed engaging educational websites focused on 1. Jailbreak attacks/defenses on LLMs (<a href="https://overcooked-grizzled-dolphin.anvil.app">"Website on Jailbreaks"</a>); 2. Neural network adversarial/backdoor robustness (<a href="https://slippery-possible-blood.anvil.app/">"Website on adversarial attacks and backdoor attacks"</a>) as part of his high school project, specifically designed for high school and university students.</li>
@@ -62,8 +65,6 @@ Generative AI. Congratulations, Yingdan!</li>
       <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing. Congrats to Hanxiao and Zeyu!</li>
       <!---<li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>--->
       <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025. Congrats to Jie!</li>
-      <li><strong>02/2025</strong> I will serve as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
-Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which will be held on Oct.6-8 in Chicago.</li>
       <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the Bioinformatics.</li>
       <li><strong>01/2025</strong> Our paper on Data-Driven Analysis of T-Product-Based Dynamical Systems was accepted by the IEEE Control Systems Letters.</li>
       <li><strong>12/2024</strong> Our paper on Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications was accepted by the International Journal of Intelligent Real-Time Automation.</li>
