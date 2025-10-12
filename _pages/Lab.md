@@ -63,7 +63,7 @@ Xinyu Liu (Undergraduate student, Sichuan University, Visiting Time: August 2024
 
 Jie Ren (Undergraduate student, University of Wisconsin-Madison, Visiting Time: May 2024 - Present, paper accepted by ICLR)
 
-Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present, paper submitted to IEEE TSIPN)
+Ding Zhang (Graduate student, Northwestern University, Visiting Time: May 2024 - Present, paper accepted by IEEE TSIPN)
 
 Yanlong Zhao (Graduate student, University of Rochester, Visiting Time: May 2024 - Present, one paper accepted by Briefings in Bioinformatics, one paper submitted to Communications Biology)
 
