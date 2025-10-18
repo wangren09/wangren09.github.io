@@ -66,6 +66,11 @@ computational biology (ICML-WCB), 2021.
 
 1. Wenhan Wu, Zheyuan Liu, Chongyang Gao, **Ren Wang**, Kaize Ding,  "Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization," arXiv preprint arXiv:2509.20230
 
+1. **Ren Wang**, Yuxuan Li, Can Chen, Dakuo Wang, Jinjun Xiong, Pin-Yu Chen, Sijia Liu, Mohammad Shahidehpour, Alfred Hero, "Bridging Models to Defend: A Population-Based Strategy for Robust Adversarial Defense," arXiv preprint arXiv:2303.10225
+
+1. Yingdan Shi\*, **Ren Wang**, "MCU: Improving Machine Unlearning through Mode Connectivity," arXiv preprint arXiv:2505.10859
+
+1. Yingdan Shi\*, Sijia Liu, Kaize Ding, **Ren Wang**, "Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach," arXiv preprint arXiv:2501.19403
 
 **Machine Learning for Engineering**
 ------
