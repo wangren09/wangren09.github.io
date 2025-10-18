@@ -44,21 +44,28 @@ author_profile: true
 1. Libao Shi, **Ren Wang**, "Modeling and Solutions of Joint Economic Dispatch with Wind-Hydro-Thermal Complex Power Source Structure", IET Renewable Power Generation, 2017.
 
 
+**Highlighted Conference Publications**
+------
+1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate=3228/12000=26.9%)
+
+1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (acceptance rate=2878/13008=22.01%)
+
+1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025 (acceptance rate=3689/11500=32.08%)
+
+1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024 (acceptance rate=2250/7304=30.81%)
+
+1. **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate=860/2997=28.7%)
+
+1. **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate=1361/5025=27.1%)
+
+
 **Conference Publications**
 ------
-1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate 26.9%)
-
 1. Yingdan Shi\*, Sijia Liu, **Ren Wang**, "Rethinking Evaluation Metrics for Machine Unlearning," International Conference on Machine Learning (ICML) MUGen Workshop 2025
 
 1. Yingdan Shi\*, **Ren Wang**, "Breaking Weight Entanglement: Machine Unlearning with Nonlinearity," International Conference on Machine Learning (ICML) MUGen Workshop 2025
 
-1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (acceptance rate 22.1%)
-
-1. Jie Ren\*, Pin-Yu Chen, **Ren Wang**, "Revisiting Mode Connectivity in Neural Networks with Bezier Surface", International Conference on Learning Representations (ICLR), 2025 (acceptance rate 31.7%)
-
 1. **Ren Wang**, Yuxuan Li, Alfred Hero, "Deep Adversarial Defense Against Multilevel-Lp Attacks", IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024
-   
-1. Soumyadeep Pal\*, Yuguang Yao, **Ren Wang**, Bingquan Shen, Sijia Liu, "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency", International Conference on Learning Representations (ICLR), 2024 (acceptance rate 31.1%)
 
 1. **Ren Wang**, Yuxuan Li\*, Sijia Liu, "Exploring Diversified Adversarial Robustness in Neural Networks via Robust Mode Connectivity", CVPR 3rdAdvML 2023
 
@@ -68,14 +75,10 @@ author_profile: true
 
 1. Soumyadeep Pal\*, **Ren Wang**, Yuguang Yao, Sijia Liu, "Towards Understanding How Self-training Tolerates Data Backdoor Poisoning", The AAAI's Workshop on Artificial Intelligence Safety, 2023. ([Best Paper Award Finalist](https://safeai.webs.upv.es/index.php/best-paper-award/))
 
-1. **Ren Wang**, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang, "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning", International Conference on Learning Representations (ICLR), 2021. (acceptance rate 28%)
-
 1. **Ren Wang**, Tianqi Chen, Stephen Lindsly, Cooper Stansbury, Alfred Hero, Indika Rajapakse, "Immuno-mimetic Deep Neural Networks (Immuno-Net)", International Conference on Machine Learning Workshop on
 computational biology (ICML-WCB), 2021.
 
 1. **Ren Wang**, Tianqi Chen, Zhe Xu, Pengzhi Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements", Asilomar Conference on Signals, Systems and Computers, 2021.
-
-1. **Ren Wang**, Gauyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, Meng Wang, "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases", The European Conference on Computer Vision (ECCV), 2020. (acceptance rate 26%)
 
 1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Quantized Higher-Order Tensor Recovery by Exploring Low-Dimensional Structures", Asilomar Conference on Signals, Systems and Computers, 2020.
 
