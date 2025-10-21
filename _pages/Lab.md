@@ -49,7 +49,7 @@ Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present, paper submit
 
 Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present, paper submitted to ICLR)
 
-Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
+Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute, paper submitted to WWW)
 
 Shihan Feng (Graduate student, Visiting Time: Jan 2025 - Present, Co-supervised with Prof. Can Chen and Prof. Chudi Zhong, paper submitted to NeurIPS)
 
