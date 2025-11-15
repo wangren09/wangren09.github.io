@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>10/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
+      <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
       <li><strong>10/2025</strong> I was invited by the "IEEE Systems Council – Early Career Speakers Program" to give a talk on Population-Based Methods for Adversarially Resilient Deep Models. </li>
       <li><strong>10/2025</strong> I served as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
 Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which was held in Chicago from Oct.6-8. </li>
