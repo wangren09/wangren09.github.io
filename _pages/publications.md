@@ -72,6 +72,9 @@ computational biology (ICML-WCB), 2021.
 
 1. Yingdan Shi\*, Sijia Liu, Kaize Ding, **Ren Wang**, "Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach," arXiv preprint arXiv:2501.19403
 
+1. Xinyu Liu\*, Xu Zhang\*, Can Chen, **Ren Wang**, "Exploring Dynamic Properties of Backdoor Training Through Information Bottleneck," arXiv preprint arXiv:2511.21923
+
+
 **Machine Learning for Engineering**
 ------
 1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
@@ -119,6 +122,8 @@ computational biology (ICML-WCB), 2021.
 
 1. Yanlong Zhao\*, Yixiao Chen, Yi Yu, Xiang Liu, Jiawen Du, Jun Wen, Chen Liao, Quan
 Sun, **Ren Wang**, Can Chen, "MuSHIN: A Multi-way SMILES-based hypergraph inference network for metabolic model reconstruction", bioRXiv preprint bioRXiv: 2025.07.07.663526v1
+
+1. Keqin Peng, Guangxin Su, Qinshan Shi, Shuai Gao, **Ren Wang**, Can Chen, Jun Wen, "SynCell: Contextualized Drug Synergy Prediction", arXiv preprint arXiv:2511.17695
 
 
 <!---
