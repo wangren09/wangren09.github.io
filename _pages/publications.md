@@ -77,6 +77,9 @@ computational biology (ICML-WCB), 2021.
 
 **Machine Learning for Engineering**
 ------
+
+1. Ziqin He, Yidan Mei, Shenghan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven Control of T-Product-based Dynamical Systems", IEEE Transactions on Automatic Control, 2025
+
 1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
 
 1. Ignacio de Cominges Guerra\*, Wenting Li, **Ren Wang**, "A Comprehensive Analysis of PINNs for Power System Transient Stability", Electronics, 2024
@@ -104,8 +107,6 @@ computational biology (ICML-WCB), 2021.
 1. **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
 
 1. **Ren Wang**, Ming Zhong, Kaidi Xu, Lola Giráldez Sánchez-Cortés\*, Ignacio de Cominges Guerra\*, "PINNs-Based Uncertainty Quantification for Transient Stability Analysis", arXiv preprint arXiv:2311.12947
-
-1. Ziqin He, Yidan Mei, Shenghan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven Control of T-Product-based Dynamical Systems", arXiv preprint arXiv:2504.14721
 
 1. Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven model order reduction for T-Product-Based dynamical systems", arXiv preprint arXiv:2504.14721
 
