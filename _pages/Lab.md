@@ -28,6 +28,8 @@ Xu Zhang (PhD student; previously at Huazhong University of Science and Technolo
 
 Yingdan Shi (PhD student; previously at Soochow University)
 
+Yihua Xu (PhD student; previously at Boston University; Co-advised with Prof. Yue Duan and Prof. Binghui Wang)
+
 Zhaoying Wang (MS student)
 
 Ignacio De Cominges (MS student)
@@ -41,6 +43,8 @@ Xiang Liu (MS student)
 Yi Yu (MS student)
 
 Ashu Meena (MS student)
+
+Jane Downer (MS student; Co-advised with Prof. Binghui Wang)
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
