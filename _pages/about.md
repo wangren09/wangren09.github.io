@@ -47,10 +47,12 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>12/2025</strong> Our paper on Data-driven model order reduction for T-Product-Based dynamical systems was accepted by Automatica. </li>
       <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
       <li><strong>10/2025</strong> I was invited by the <a href="https://drive.google.com/file/d/1XLLKVc9MErzYaSs3VG02wPNTiyqVuIOG/view?usp=sharing">""IEEE Systems Council – Early Career Speakers Program""</a> to give a talk on Population-Based Methods for Adversarially Resilient Deep Models. </li>
       <li><strong>10/2025</strong> I served as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
 Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which was held in Chicago from Oct.6-8. </li>
+      <li><strong>10/2025</strong> I am serving as an Area Chair for ICLR 2026. </li>
       <li><strong>10/2025</strong> I attended the EcoCAR Year 4 Fall Workshop. </li>
       <li><strong>09/2025</strong> Our paper DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning was accepted by Briefings in Bioinformatics. Congrats to Yanlong!</li>
       <li><strong>09/2025</strong> We are pleased to announce new computational resource support from Argonne National Laboratory for our population-based machine learning project.</li>
@@ -71,6 +73,7 @@ Generative AI. Congratulations, Yingdan!</li>
       <li><strong>01/2025</strong> Our paper on Data-Driven Analysis of T-Product-Based Dynamical Systems was accepted by the IEEE Control Systems Letters.</li>
       <li><strong>12/2024</strong> Our paper on Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications was accepted by the International Journal of Intelligent Real-Time Automation.</li>
       <li><strong>11/2024</strong> I am organizing a workshop on <a href="https://www.ideal-institute.org/2024/10/30/workshop-on-privacy-and-interpretability-in-generative-ai-peering-into-the-black-box//">"Privacy and Interpretability in Generative AI: Peering into the Black Box"</a>, which will be held on Nov.22 (Friday) in-person at Illinois Tech. If you're interested in the workshop, please consider registering for it (The registration is free).</li>
+      <li><strong>10/2024</strong> I am serving as an Area Chair for ICLR 2025. </li>
       <li><strong>06/2024</strong> IDEAL is organizing the Annual Meeting and the Industry Day on June 6th and 7th. You are welcome to register for the <a href="https://www.ideal-institute.org/2024/05/06/ideal-annual-meeting-and-industry-day-2024/">event here</a>.</li>
       <li><strong>04/2024</strong> Jane receives <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">first place in the Best Presentation Award for Ph.D. Research at 2024 ECE Day - Student Research Competition</a>. Congrats! .</li>
       <li><strong>04/2024</strong> Our paper on Deep Adversarial Defense Against Multilevel-Lp Attacks was accepted by 2024 IEEE International Workshop on Machine Learning for Signal Processing.</li>
