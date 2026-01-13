@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (THE ACM WEB CONFERENCE). </li>
+      <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (THE ACM WEB CONFERENCE).  Congrats to Aminul! </li>
       <li><strong>12/2025</strong> Our paper on Data-driven model order reduction for T-Product-Based dynamical systems was accepted by Automatica. </li>
       <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
       <li><strong>10/2025</strong> I was invited by the <a href="https://drive.google.com/file/d/1XLLKVc9MErzYaSs3VG02wPNTiyqVuIOG/view?usp=sharing">""IEEE Systems Council – Early Career Speakers Program""</a> to give a talk on Population-Based Methods for Adversarially Resilient Deep Models. </li>
