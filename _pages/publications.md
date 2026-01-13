@@ -9,6 +9,9 @@ author_profile: true
 
 **Trustworthy/Population-Based Machine Learning**
 ------
+1. Md Aminul Islam\*, Elena Zheleva, Ren Wang, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," THE ACM WEB CONFERENCE (WWW) 2026, (acceptance rate=676/3370=20.1%)
+
+
 1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate=3228/12000=26.9%)
 
 1. Wei Li\*, Pin-Yu Chen, Sijia Liu, **Ren Wang**, "PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection," Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (acceptance rate=2878/13008=22.01%)
@@ -61,8 +64,6 @@ computational biology (ICML-WCB), 2021.
 1. Jane Downer\*, Yingdan Shi\*, Ziyan Liu\*, **Ren Wang**, Binghui Wang, "Watermarking Graph Neural Networks via Explanations for Ownership Protection", arXiv preprint arXiv:2505.10859
 
 1. Changchang Sun\*, **Ren Wang**, Yihua Zhang, Jinghan Jia, Jiancheng Liu, Gaowen Liu, Yan Yan, Sijia Liu, "Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification", arXiv preprint arXiv:2412.16780
-
-1. Md Aminul Islam\*, Elena Zheleva, Ren Wang, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," arXiv preprint arXiv:2510.12959
 
 1. Wenhan Wu, Zheyuan Liu, Chongyang Gao, **Ren Wang**, Kaize Ding,  "Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization," arXiv preprint arXiv:2509.20230
 
