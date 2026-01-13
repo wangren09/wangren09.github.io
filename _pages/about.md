@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (THE ACM WEB CONFERENCE).  Congrats to Aminul! </li>
+      <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (acceptance rate 676/3370=20.1%).  Congrats to Aminul! </li>
       <li><strong>12/2025</strong> Our paper on Data-driven model order reduction for T-Product-Based dynamical systems was accepted by Automatica. </li>
       <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
       <li><strong>10/2025</strong> I was invited by the <a href="https://drive.google.com/file/d/1XLLKVc9MErzYaSs3VG02wPNTiyqVuIOG/view?usp=sharing">""IEEE Systems Council – Early Career Speakers Program""</a> to give a talk on Population-Based Methods for Adversarially Resilient Deep Models. </li>
@@ -64,12 +64,12 @@ Mobile Ad-Hoc and Smart Systems (MASS 2025, IEEE Computer Society)"</a>, which w
       <li><strong>06/2025</strong> I co-organized the <a href="https://midwest-ml.org/2025/">"Midwest Machine Learning Symposium (MMLS) 2025"</a>.</li>
       <li><strong>06/2025</strong> Yingdan's two papers - one on Breaking Machine Unlearning Weight Entanglement and the other on Rethinking Evaluation Metrics for Machine Unlearning have been accepted to ICML 2025 Workshop on Machine Unlearning for
 Generative AI. Congratulations, Yingdan!</li>
-      <li><strong>05/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025. Congratulations, Xu!</li>
+      <li><strong>05/2025</strong> Xu's paper on Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach is accepted to ICML 2025 (acceptance rate=3228/12000=26.9%). Congratulations, Xu!</li>
       <li><strong>05/2025</strong> I co-organized the <a href="https://www.ideal-institute.org/2025/03/07/efficient-machine-learning-and-optimization/">"Workshop on Efficient Machine Learning and Optimization"</a>.</li>
-      <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025. Congrats to Wei!</li>
+      <li><strong>02/2025</strong> Our paper Prediction Shift Uncertainty Unlocks Backdoor Detection was accepted by CVPR 2025 (acceptance rate=2878/13008=22.01%). Congrats to Wei!</li>
       <li><strong>02/2025</strong> Our paper on Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery was accepted by the IEEE Journal of Selected Topics in Signal Processing. Congrats to Hanxiao and Zeyu!</li>
       <!---<li><strong>02/2025</strong> Paul (High school student under my supervision, sophomore at IMSA) developed an engaging educational website focused on neural network robustness as part of his high school project, specifically designed for high school and university students. You can try it out <a href="https://slippery-possible-blood.anvil.app/">"here"</a>.</li>--->
-      <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025. Congrats to Jie!</li>
+      <li><strong>02/2025</strong> Our paper on Revisiting Mode Connectivity in Neural Networks with Bezier Surface was accepted by ICLR 2025 (acceptance rate=3689/11500=32.08%). Congrats to Jie!</li>
       <li><strong>01/2025</strong> Our paper on Heterogeneous Entity Representation for Medicinal Synergy Prediction was accepted by the Bioinformatics.</li>
       <li><strong>01/2025</strong> Our paper on Data-Driven Analysis of T-Product-Based Dynamical Systems was accepted by the IEEE Control Systems Letters.</li>
       <li><strong>12/2024</strong> Our paper on Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications was accepted by the International Journal of Intelligent Real-Time Automation.</li>
