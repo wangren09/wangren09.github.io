@@ -9,7 +9,7 @@ author_profile: true
 
 **Trustworthy/Population-Based Machine Learning**
 ------
-1. Md Aminul Islam\*, Elena Zheleva, **Ren Wang**, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," THE ACM WEB CONFERENCE (WWW) 2026, (acceptance rate=676/3370=20.1%)
+1. Md Aminul Islam\*, Elena Zheleva, **Ren Wang**, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," THE ACM WEB CONFERENCE (WWW) 2026 (acceptance rate=676/3370=20.1%)
 
 1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate=3228/12000=26.9%)
 
