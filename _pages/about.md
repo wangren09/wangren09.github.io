@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>01/2026</strong> Our paper "MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction" was accepted by Communications Biology (Nature). Congrats to Yanlong and Yixiao!</li>
       <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (acceptance rate 676/3370=20.1%).  Congrats to Aminul! </li>
       <li><strong>12/2025</strong> Our paper on Data-driven model order reduction for T-Product-Based dynamical systems was accepted by Automatica. </li>
       <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
