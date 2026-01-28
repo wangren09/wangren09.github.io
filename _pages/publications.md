@@ -113,6 +113,9 @@ computational biology (ICML-WCB), 2021.
 
 **Machine Learning for Bio/Healthcare**
 ------
+1. Yanlong Zhao\*, Yixiao Chen, Yi Yu, Xiang Liu, Jiawen Du, Jun Wen, Chen Liao, Quan
+Sun, **Ren Wang**, Can Chen, "MuSHIN: A Multi-way SMILES-based hypergraph inference network for metabolic model reconstruction", Computational Biology (Nature), 2026
+
 1. Yanlong Zhao\*, Yixiao Chen, Jiawen Du, Quan Sun, Ren Wang, **Ren Wang**, Can Chen, "DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning," Briefings in Bioinformatics, 2025
 
 1. Ding Zhang\*, Jane Downer\*, Can Chen, **Ren Wang**, "Efficient and Robust Continual Graph Learning for Graph Classification in Biology," IEEE Transactions on Signal and Information Processing over Networks, 2025
@@ -120,9 +123,6 @@ computational biology (ICML-WCB), 2021.
 1. Jiawei Wu, Jun Wen, Mingyuan Yan, Anqi Dong, Shuai Gao, **Ren Wang**, Can Chen, "Heterogeneous Entity Representation for Medicinal Synergy Prediction", Bioinformatics, 2024
 
 1. Zhaoying Wang\*, Yingdan Shi\*, Xiang Liu\*, Can Chen, Jun Wen, **Ren Wang**, "HODDI: A Dataset of High-Order Drug-Drug Interactions for Computational Pharmacovigilance", arXiv preprint arXiv:2502.06274
-
-1. Yanlong Zhao\*, Yixiao Chen, Yi Yu, Xiang Liu, Jiawen Du, Jun Wen, Chen Liao, Quan
-Sun, **Ren Wang**, Can Chen, "MuSHIN: A Multi-way SMILES-based hypergraph inference network for metabolic model reconstruction", bioRXiv preprint bioRXiv: 2025.07.07.663526v1
 
 1. Keqin Peng, Guangxin Su, Qinshan Shi, Shuai Gao, **Ren Wang**, Can Chen, Jun Wen, "SynCell: Contextualized Drug Synergy Prediction", arXiv preprint arXiv:2511.17695
 
