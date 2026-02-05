@@ -18,7 +18,7 @@ Email: rwang74 (you can make the "at") illinoistech (dot) edu
 ------
 **Prospective graduate students:** I am looking for highly motivated PhD/Master students with a background in Artificial Intelligence/Machine Learning/Signal Processing/Mathematics/Power Systems. Please contact me along with your CV and transcript if you are interested.
  
-**Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email. Students interested in these positions must commit to a continuous project duration of **at least five months** (Please only contact me when you can guarantee the time). Please ensure this requirement is met before reaching out to me. <!---For undergraduate and Master students already enrolled in IIT, if you're interested in doing research in my group, please setup an appointment with me via your IIT emails.--->
+**Externship/internship/visiting students:** I am open to collaboration with highly motivated students. Interested candidates are strongly encouraged to contact me by email. Students interested in these positions must commit to a continuous project duration of **at least five months**. Please **ensure this requirement** is met before reaching out to me. <!---For undergraduate and Master students already enrolled in IIT, if you're interested in doing research in my group, please setup an appointment with me via your IIT emails.--->
 
 **Short Bio**
 ------
