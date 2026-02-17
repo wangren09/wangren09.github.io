@@ -78,9 +78,9 @@ computational biology (ICML-WCB), 2021.
 **Machine Learning for Engineering**
 ------
 
-1. Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven model order reduction for T-Product-Based dynamical systems", Automatica, 2025
+1. Ziqin He, Yidan Mei, Shenghan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven Control of T-Product-based Dynamical Systems", IEEE Transactions on Automatic Control, 2026
 
-1. Ziqin He, Yidan Mei, Shenghan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven Control of T-Product-based Dynamical Systems", IEEE Transactions on Automatic Control, 2025
+1. Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven model order reduction for T-Product-Based dynamical systems", Automatica, 2025
 
 1. Xin Mao, Anqi Dong, Ziqin He, Yidan Mei, Shenghan Mei, **Ren Wang**, Can Chen, "Data-driven Analysis of T-Product-based Dynamical Systems", IEEE Control Systems Letters, 2025
 
