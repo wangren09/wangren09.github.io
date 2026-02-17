@@ -47,9 +47,10 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>02/2026</strong> Our paper on Data-Driven Control of T-Product-Based Dynamical Systems was accepted by IEEE Transactions on Automatic Control. </li>
       <li><strong>01/2026</strong> Our paper "MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction" was accepted by Communications Biology (Nature). Congrats to Yanlong and Yixiao!</li>
       <li><strong>01/2026</strong> Our paper "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering" was accepted by WWW 2026 (acceptance rate 676/3370=20.1%).  Congrats to Aminul! </li>
-      <li><strong>12/2025</strong> Our paper on Data-driven model order reduction for T-Product-Based dynamical systems was accepted by Automatica. </li>
+      <li><strong>12/2025</strong> Our paper on Data-driven model order reduction was accepted by Automatica. </li>
       <li><strong>11/2025</strong> I was invited to give a talk at the UIUC in the <a href="https://publish.illinois.edu/ml-seminar/">"Machine Learning Seminar"</a>.  </li>
       <li><strong>10/2025</strong> I was invited by the <a href="https://drive.google.com/file/d/1XLLKVc9MErzYaSs3VG02wPNTiyqVuIOG/view?usp=sharing">""IEEE Systems Council – Early Career Speakers Program""</a> to give a talk on Population-Based Methods for Adversarially Resilient Deep Models. </li>
       <li><strong>10/2025</strong> I served as the local arrangements chair of <a href="https://ieeemass2025.github.io/ieeemass2025/">"The 22nd IEEE International Conference on
