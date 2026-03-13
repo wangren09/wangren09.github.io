@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>03/2026</strong> Our paper on PINNs-Based Uncertainty Quantification was accepted by CEEGE 2026. </li>
       <li><strong>03/2026</strong> I was invited to give talks on AI trustworthiness through collective intelligence at the Workshop on UAV-based Computing Platform and the Department of Data Science, City University of Hong Kong.  </li>
       <li><strong>03/2026</strong> Three papers on Dimension-Wise Interpretability and Domain Decomposition for PINNs, Geometry-Aware Evolutionary Attacks, and Multimodal LLMs Jailbreaks have been accepted to ICLR 2026 workshops. Congrats to Xu, Hyo Seo, Gang, and Shuyuan! </li>
       <li><strong>02/2026</strong> Our paper on Data-Driven Control of T-Product-Based Dynamical Systems was accepted by IEEE Transactions on Automatic Control. </li>
