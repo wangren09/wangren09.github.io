@@ -11,11 +11,11 @@ author_profile: true
 ------
 1. Md Aminul Islam\*, Elena Zheleva, **Ren Wang**, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," THE ACM WEB CONFERENCE (WWW) 2026 (acceptance rate=676/3370=20.1%)
 
-1. Xu Zhang, Ziqing Hu, Shuo Han, **Ren Wang**, "Geometry-Driven Diverse and Transferable Visual Attacks on Multimodal LLMs," ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling
+1. Xu Zhang\*, Ziqing Hu, Shuo Han, **Ren Wang**, "Geometry-Driven Diverse and Transferable Visual Attacks on Multimodal LLMs," ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 
-1. Hyo Seo Kim, Gang Luo, Can Chen, Binghui Wang, Yue Duan, Ren Wang, "Geometry-Aware Crossover for Effective and Efficient Evolutionary Attacks," ICLR 2026 Workshop on Principled Design for Trustworthy AI-Interpretability, Robustness, and Safety across Modalities
+1. Hyo Seo Kim\*, Gang Luo\*, Can Chen, Binghui Wang, Yue Duan, **Ren Wang**, "Geometry-Aware Crossover for Effective and Efficient Evolutionary Attacks," ICLR 2026 Workshop on Principled Design for Trustworthy AI-Interpretability, Robustness, and Safety across Modalities
 
-1. Shuyuan Shang, Ming Zhong, Ren Wang, "3D-PINNS: A UNIFIED FRAMEWORK FOR DIMENSION-WISE INTERPRETABILITY AND ADAPTIVE DOMAIN DECOMPOSITION," AI and PDE: ICLR 2026 Workshop on AI and Partial Differential Equations
+1. Shuyuan Shang\*, Ming Zhong, Ren Wang, "3D-PINNS: A UNIFIED FRAMEWORK FOR DIMENSION-WISE INTERPRETABILITY AND ADAPTIVE DOMAIN DECOMPOSITION," AI and PDE: ICLR 2026 Workshop on AI and Partial Differential Equations
 
 1. Xu Zhang\*, Kaidi Xu, Ziqing Hu, **Ren Wang**, "Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach," International Conference on Machine Learning (ICML) 2025 (acceptance rate=3228/12000=26.9%)
 
