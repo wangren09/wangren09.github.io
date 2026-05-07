@@ -47,7 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
-      <li><strong>05/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to ICML 2026. Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
+      <li><strong>05/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to **ICML 2026** (acceptance rate=6352/23918=26.6%). Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
       <li><strong>04/2026</strong> I was invited to give a talk on "Learning Reliable Biology from Messy Graphs" at the workshop on Explainable Multi-Modal Heterogeneous Hypergraph Learning (UNC).  </li>
       <li><strong>03/2026</strong> I was invited to give a talk on "Welcome to the Intelligence Age: Building Artificial Brains and Keeping Them Safe" for Techpalooza Events at Illinois Tech.  </li>
       <li><strong>03/2026</strong> Our paper on PINNs-Based Uncertainty Quantification was accepted by CEEGE 2026. </li>
