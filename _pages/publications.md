@@ -9,6 +9,14 @@ author_profile: true
 
 **Trustworthy/Population-Based Machine Learning**
 ------
+1. Yingdan Shi\*, **Ren Wang**, "Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning," International Conference on Machine Learning, 2026 (acceptance rate=6352/23918=26.6%)
+
+1. Yingdan Shi\*, Sijia Liu, Kaize Ding, **Ren Wang**, "Tackling Fake Forgetting through Uncertainty Quantification," International Conference on Machine Learning, 2026 (acceptance rate=6352/23918=26.6%)
+
+1. Jane Downer\*, Yingdan Shi\*, Ziyan Liu\*, **Ren Wang**, Binghui Wang, "Watermarking Graph Neural Networks via Explanations for Ownership Protection", International Conference on Machine Learning, 2026 (acceptance rate=6352/23918=26.6%)
+
+1. Hyo Seo Kim\*, Gang Luo\*, Can Chen, Binghui Wang, Yue Duan, **Ren Wang**, “MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks,” International Conference on Machine Learning, 2026 (acceptance rate=6352/23918=26.6%; top AI conference)
+
 1. Md Aminul Islam\*, Elena Zheleva, **Ren Wang**, "Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering," THE ACM WEB CONFERENCE (WWW) 2026 (acceptance rate=676/3370=20.1%)
 
 1. Xu Zhang\*, Ziqing Hu, Shuo Han, **Ren Wang**, "Geometry-Driven Diverse and Transferable Visual Attacks on Multimodal LLMs," ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling
@@ -66,17 +74,11 @@ computational biology (ICML-WCB), 2021.
 
 1. **Ren Wang**, Meng Wang, Jinjun Xiong, "Data Recovery and Subspace Clustering from Quantized and Corrupted Measurements", IEEE Journal of Selected Topics in Signal Processing: Special Issue on Robust Subspace Learning and Tracking, 2018 (**Selected as featured article on the cover of the issue**).
 
-1. Jane Downer\*, Yingdan Shi\*, Ziyan Liu\*, **Ren Wang**, Binghui Wang, "Watermarking Graph Neural Networks via Explanations for Ownership Protection", arXiv preprint arXiv:2505.10859
-
 1. Changchang Sun\*, **Ren Wang**, Yihua Zhang, Jinghan Jia, Jiancheng Liu, Gaowen Liu, Yan Yan, Sijia Liu, "Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification", arXiv preprint arXiv:2412.16780
 
 1. Wenhan Wu, Zheyuan Liu, Chongyang Gao, **Ren Wang**, Kaize Ding,  "Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization," arXiv preprint arXiv:2509.20230
 
 1. **Ren Wang**, Yuxuan Li, Can Chen, Dakuo Wang, Jinjun Xiong, Pin-Yu Chen, Sijia Liu, Mohammad Shahidehpour, Alfred Hero, "Bridging Models to Defend: A Population-Based Strategy for Robust Adversarial Defense," arXiv preprint arXiv:2303.10225
-
-1. Yingdan Shi\*, **Ren Wang**, "MCU: Improving Machine Unlearning through Mode Connectivity," arXiv preprint arXiv:2505.10859
-
-1. Yingdan Shi\*, Sijia Liu, Kaize Ding, **Ren Wang**, "Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach," arXiv preprint arXiv:2501.19403
 
 1. Xinyu Liu\*, Xu Zhang\*, Can Chen, **Ren Wang**, "Exploring Dynamic Properties of Backdoor Training Through Information Bottleneck," arXiv preprint arXiv:2511.21923
 
@@ -115,8 +117,6 @@ computational biology (ICML-WCB), 2021.
 1. **Ren Wang**, Libao Shi, Yajie Liu, Jinqing Luo, Liangzhong Yao, "A Joint Probabilistic Analytical Model with Consideration of Wind Power and Load Uncertainties", International Conference on Electric Utility Deregulation and Restructuring and Power Technologies, 2015.
 
 1. **Ren Wang**, Libao Shi, Liangzhong Yao, Yixin Ni, "Small Signal Stability Analysis with High Penetration of Grid-connected Wind Farm of PMSG Type Considering the Wake Effect", IEEE PES General Meeting 2014.
-
-1. **Ren Wang**, Ming Zhong, Kaidi Xu, Lola Giráldez Sánchez-Cortés\*, Ignacio de Cominges Guerra\*, "PINNs-Based Uncertainty Quantification for Transient Stability Analysis", arXiv preprint arXiv:2311.12947
 
 
 **Machine Learning for Bio/Healthcare**
