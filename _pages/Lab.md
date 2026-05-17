@@ -17,7 +17,7 @@ The Trustworthy and Intelligent Machine Learning Research Lab is an innovative r
 </div>
 
 
-## Lab Members
+## current Lab Members
 Hyo Seo Kim (PhD student; previously at Sogang University)
 
 Gang (Garrett) Luo (PhD student; previously at Xi'an Jiaotong University)
@@ -30,6 +30,13 @@ Yingdan Shi (PhD student; previously at Soochow University)
 
 Yihua Xu (PhD student; previously at Boston University; Co-advised with Prof. Yue Duan and Prof. Binghui Wang)
 
+Gorka Zamorano Oró (MS student)
+
+Alex Calatrava (MS student)
+
+Noor Rehman (MS student)
+
+## alumni
 Zhaoying Wang (MS student)
 
 Ignacio De Cominges (MS student)
@@ -45,6 +52,7 @@ Yi Yu (MS student)
 Ashu Meena (MS student)
 
 Jane Downer (MS student; Co-advised with Prof. Binghui Wang)
+
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
