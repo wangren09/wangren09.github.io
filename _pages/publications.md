@@ -88,7 +88,7 @@ computational biology (ICML-WCB), 2021.
 
 1. Ziqin He, Yidan Mei, Shenghan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven Control of T-Product-based Dynamical Systems", IEEE Transactions on Automatic Control, 2026
 
-1. **Ren Wang**, Ming Zhong, Kaidi Xu, Lola Giráldez Sánchez-Cortés, Ignacio de Cominges Guerra, "PINNs-Based Uncertainty Quantification for Transient Stability Analysis," 9th International Conference on Electrical Engineering and Green Energy (CEEGE), 2026.
+1. **Ren Wang**, Ming Zhong, Kaidi Xu, Lola Giráldez Sánchez-Cortés, Ignacio de Cominges Guerra, "PINNs-Based Uncertainty Quantification for Transient Stability Analysis," 9th International Conference on Electrical Engineering and Green Energy (CEEGE), 2026. (Best Poster Award)
 
 1. Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, **Ren Wang**, Can Chen, "Data-driven model order reduction for T-Product-Based dynamical systems", Automatica, 2025
 
