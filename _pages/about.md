@@ -49,7 +49,8 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <ul>
       <li><strong>06/2026</strong> Our paper on the plasticity collapse in continual machine unlearning was accepted by ECCV 2026. Congrats to Yingdan!</li>
       <li><strong>06/2026</strong> Glad to receive the Google cloud research credits award.</li>
-      <li><strong>05/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to <strong>ICML 2026</strong> (acceptance rate=6352/23918=26.6%). Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
+      <li><strong>06/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to <strong>ICML 2026</strong> (acceptance rate=6352/23918=26.6%). Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
+      <li><strong>06/2026</strong> Our paper on Vision and Sequence Models for Time-Frequency Time Series Forecasting was accepted by ICML 2026 Workshop: Forecasting as a New Frontier of Intelligence. Congrats to Joey and Yanting!</li>
       <li><strong>05/2026</strong> Glad to receive the Young Scientist Award in the 9th International Conference on Electrical Engineering and Green Energy.</li>
       <li><strong>05/2026</strong> I am serving as an Area Chair for NeurIPS 2026. </li>
       <li><strong>04/2026</strong> I was invited to give a talk on "Learning Reliable Biology from Messy Graphs" at the workshop on Explainable Multi-Modal Heterogeneous Hypergraph Learning (UNC).  </li>
