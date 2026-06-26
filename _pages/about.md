@@ -47,6 +47,7 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>06/2026</strong> Our paper on the plasticity collapse in continual machine unlearning was accepted by ECCV 2026. Congrats to Yingdan!</li>
       <li><strong>06/2026</strong> Glad to receive the Google cloud research credits award.</li>
       <li><strong>05/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to <strong>ICML 2026</strong> (acceptance rate=6352/23918=26.6%). Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
       <li><strong>05/2026</strong> Glad to receive the Young Scientist Award in the 9th International Conference on Electrical Engineering and Green Energy.</li>
