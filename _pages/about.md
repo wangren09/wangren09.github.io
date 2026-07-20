@@ -47,6 +47,7 @@ Ren Wang is an Assistant Professor in the Department of Electrical and Computer 
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>07/2026</strong> Our paper Anatomical Muscle Activation for Statistical 3D Face Models was accepted by SIGGRAPH Asia 2026.</li>
       <li><strong>06/2026</strong> Our paper Dimension Domain Co-Decomposition: Solving PDEs with Interpretability was accepted by Transactions on Machine Learning Research. Congrats to Shuyuan!</li>
       <li><strong>06/2026</strong> Our paper on the plasticity collapse in continual machine unlearning was accepted by ECCV 2026 (acceptance rate=2883/10473=27.5%). Congrats to Yingdan!</li>
       <li><strong>06/2026</strong> Glad to receive the Google cloud research credits award.</li>
