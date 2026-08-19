@@ -60,9 +60,9 @@ Ashu Meena (MS student)
 ## Visiting/Extern/Intern Students (In Person & Remote)
 Duan Tu (Graduate student, PhD advisor: Dr. Lev Reyzin, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute)
 
-Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present, paper submitted to ICLR)
+Ziyan Liu (Cornell University, Visiting Time: March 2025 - Present, paper accepted by ICLR)
 
-Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present, paper submitted to ICLR)
+Shuyuan Shang (Undergraduate Student, The Chinese University of Hong Kong, Visiting Time: April 2025 - Present, papers accepted by TMLR and ICLR)
 
 Aminul Islam (Graduate student, PhD advisor: Dr. Elena Zheleva, University of Illinois Chicago, Visiting Time: May 2025 - Present, supported by IDEAL Institute, paper submitted to WWW)
 
