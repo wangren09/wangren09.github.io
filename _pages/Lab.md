@@ -22,19 +22,24 @@ Dev Mistry (PhD student; previously at Illinois Tech)
 
 Hyo Seo Kim (PhD student; previously at Sogang University)
 
-Gang (Garrett) Luo (PhD student; previously at Xi'an Jiaotong University)
-
 Xu Zhang (PhD student; previously at Huazhong University of Science and Technology)
 
 Yingdan Shi (PhD student; previously at Soochow University)
 
+Alimu Alibotaiken  (PhD student; previously at Northeastern University; Co-advised with Prof. Yu Cheng)
+
 Yihua Xu (PhD student; previously at Boston University; Co-advised with Prof. Yue Duan and Prof. Binghui Wang)
+
+Jane Downer (PhD student; previously at Illinois Tech; Co-advised with Prof. Binghui Wang)
+
+Gang (Garrett) Luo (PhD student; previously at Xi'an Jiaotong University)
 
 Gorka Zamorano Oró (MS student)
 
 Alex Calatrava (MS student)
 
 Noor Rehman (MS student)
+
 
 ## alumni
 Zhaoying Wang (MS student)
@@ -50,8 +55,6 @@ Xiang Liu (MS student)
 Yi Yu (MS student)
 
 Ashu Meena (MS student)
-
-Jane Downer (MS student; Co-advised with Prof. Binghui Wang)
 
 
 ## Visiting/Extern/Intern Students (In Person & Remote)
