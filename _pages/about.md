@@ -47,6 +47,7 @@ Ren Wang is an Assistant Professor in the Department of Electrical and Computer 
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>10/2026</strong> Our paper From Prediction to Diagnosis: Reasoning-Aware AI for Photovoltaic Defect Inspection has been accepted by Cell Reports Physical Science. Congrats to Dev! </li>
       <li><strong>08/2026</strong> I am serving as an Area Chair for ICLR 2027. </li>
       <li><strong>08/2026</strong> Glad to receive the Tinker Research Grant.</li>
       <li><strong>07/2026</strong> Our paper Anatomical Muscle Activation for Statistical 3D Face Models was accepted by SIGGRAPH Asia 2026.</li>
