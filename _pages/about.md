@@ -47,6 +47,7 @@ Ren Wang is an Assistant Professor in the Department of Electrical and Computer 
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>10/2026</strong> I am invited to serve as an Area Chair for ICML 2027. </li>
       <li><strong>10/2026</strong> Our paper From Prediction to Diagnosis: Reasoning-Aware AI for Photovoltaic Defect Inspection has been accepted by Cell Reports Physical Science. Congrats to Dev! </li>
       <li><strong>08/2026</strong> I am serving as an Area Chair for ICLR 2027. </li>
       <li><strong>08/2026</strong> Glad to receive the Tinker Research Grant.</li>
@@ -57,7 +58,7 @@ Ren Wang is an Assistant Professor in the Department of Electrical and Computer 
       <li><strong>06/2026</strong> Four papers from our lab on Machine Unlearning, Watermarking, and Adversarial Robustness have been accepted to <strong>ICML 2026</strong> (acceptance rate=6352/23918=26.6%). Congrats to Yingdan, Hyo Seo, Gang, Jane, and Ziyan! </li>
       <li><strong>06/2026</strong> Our paper on Vision and Sequence Models for Time-Frequency Time Series Forecasting was accepted by ICML 2026 Workshop: Forecasting as a New Frontier of Intelligence. Congrats to Joey and Yanting!</li>
       <li><strong>05/2026</strong> Glad to receive the Young Scientist Award in the 9th International Conference on Electrical Engineering and Green Energy.</li>
-      <li><strong>05/2026</strong> I am serving as an Area Chair for NeurIPS 2026. </li>
+      <li><strong>05/2026</strong> I am serving as an Area Chair for NeurIPS 2026 (top AC). </li>
       <li><strong>04/2026</strong> I was invited to give a talk on "Learning Reliable Biology from Messy Graphs" at the workshop on Explainable Multi-Modal Heterogeneous Hypergraph Learning (UNC).  </li>
       <li><strong>04/2026</strong> Our paper on PINNs-Based Uncertainty Quantification was accepted by CEEGE 2026 and received the best poster award. </li>
       <li><strong>03/2026</strong> I was invited to give a talk on "Welcome to the Intelligence Age: Building Artificial Brains and Keeping Them Safe" for Techpalooza Events at Illinois Tech.  </li>
