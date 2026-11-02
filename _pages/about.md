@@ -47,6 +47,7 @@ Ren Wang is an Assistant Professor in the Department of Electrical and Computer 
     <h2>Recent Activities</h2>
     <hr>
     <ul>
+      <li><strong>11/2026</strong> I was invited to present talks on machine unlearning and trustworthy AI at the University of Houston and South Dakota State University.  </li>
       <li><strong>10/2026</strong> I am invited to serve as an Area Chair for ICML 2027. </li>
       <li><strong>10/2026</strong> Our paper Reasoning-Aware AI for Photovoltaic Defect Inspection has been accepted by Cell Reports Physical Science. Congrats to Dev! </li>
       <li><strong>10/2026</strong> I am serving as an Area Chair for ICASSP 2027. </li>
